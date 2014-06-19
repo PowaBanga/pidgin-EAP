@@ -70,11 +70,11 @@ _**Install**_
 Download the zip,
 
 open it and put all the contents of "pidgin-EAP-master/.purple" here :
-- Windows 7 & 8: %APPDATA%\.purple
-- Windows Vista: C:\Users\username\AppData\Roaming\.purple
-- Windows XP: C:\Documents and Settings\username\Application Data\.purple
-- Windows ME: C:\Windows\Profiles\username\.purple
-- Windows 98: C:\Windows\Profiles\username\.purple
+- Windows 7 & 8: %APPDATA%\\.purple
+- Windows Vista: C:\Users\username\AppData\Roaming\\.purple
+- Windows XP: C:\Documents and Settings\username\Application Data\\.purple
+- Windows ME: C:\Windows\Profiles\username\\.purple
+- Windows 98: C:\Windows\Profiles\username\\.purple
 
 And Install fonts who are in "pidgin-EAP-master/.fonts" on your system
 
