@@ -69,18 +69,19 @@ _**Install**_
 
 Download the zip,
 
-open it and put all the contents of this folder "pidgin-EAP-master" here :
-- Windows 7: C:\Users\username\AppData\Roaming\.purple\smileys
-- Windows Vista: C:\Users\username\AppData\Roaming\.purple\smileys
-- Windows XP: C:\Documents and Settings\username\Application Data\.purple\smileys
-- Windows ME: C:\Windows\Profiles\username\.purple\smileys
-- Windows 98: C:\Windows\Profiles\username\.purple\smileys
+open it and put all the contents of "pidgin-EAP-master/.purple" here :
+- Windows 7 & 8: %APPDATA%\.purple
+- Windows Vista: C:\Users\username\AppData\Roaming\.purple
+- Windows XP: C:\Documents and Settings\username\Application Data\.purple
+- Windows ME: C:\Windows\Profiles\username\.purple
+- Windows 98: C:\Windows\Profiles\username\.purple
 
+And Install fonts who are in "pidgin-EAP-master/.fonts" on your system
 
 **On Linux :**
 ```html
 git clone https://github.com/Hernou/pidgin-EAP.git
-cp -rf ~/pidgin-EAP/* ~/.purple/smileys
+cp -rf ~/pidgin-EAP/* ~
 rm -rf ~/pidgin-EAP
 
 ```
