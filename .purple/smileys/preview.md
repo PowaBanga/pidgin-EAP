@@ -1,3 +1,15 @@
+Buddy list colors themes
+=================
+
+
+![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Ambiance Rosemary Pink) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Ambiance Rosemary Skyblue) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Ambiance Rosemary White) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Black Rosemary Pink) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Black Rosemary Skyblue) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Black Rosemary White) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Gray blue) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Gray Rosemary Black) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Gray Rosemary Blue) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Radiance Rosemary Black) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Radiance Rosemary Blue) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Radiance Rosemary Pink)
+
+
+Emoticons themes
+=================
+
+
+
 ![Hangout](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/hangout/ic_launcher_hangouts.png) Hangout
 -----------------
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/hangout/emoji_u263a.png)
