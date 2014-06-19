@@ -10,9 +10,13 @@ Icons themes
 
 
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/iPhone/purple/status-icon/icon.png) Iphone
+
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Marten-nu/purple/status-icon/icon.png) Marten-nu
+
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Mini LEDs/purple/status-icon/icon.png) Mini Leds
+
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Stockholm/purple/status-icon/icon.png) Stockolm
+
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/White Chat Bubbles/purple/status-icon/icon.png) White Chat Bubbles
 
 
