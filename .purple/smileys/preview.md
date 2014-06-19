@@ -5,6 +5,18 @@ Buddy list colors themes
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Ambiance Rosemary Pink/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Ambiance Rosemary Skyblue/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Ambiance Rosemary White/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Black Rosemary Pink/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Black Rosemary Skyblue/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Black Rosemary White/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Gray blue/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Gray Rosemary Black/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Gray Rosemary Blue/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Radiance Rosemary Black/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Radiance Rosemary Blue/purple/blist/amb.png) ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Radiance Rosemary Pink/purple/blist/amb.png)
 
 
+Icons themes
+=================
+
+
+![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/iPhone/purple/status-icon/icon.png) Iphone
+![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Marten-nu/purple/status-icon/icon.png) Marten-nu
+![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Mini LEDs/purple/status-icon/icon.png) Mini Leds
+![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/Stockholm/purple/status-icon/icon.png) Stockolm
+![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/themes/White Chat Bubbles/purple/status-icon/icon.png) White Chat Bubbles
+
+
+
 Emoticons themes
 =================
 
