@@ -62,6 +62,9 @@ EAP => Emoticons for All Protocols
 
 **[Preview all themes](https://github.com/Hernou/pidgin-EAP/blob/master/.purple/smileys/preview.md)**
 
+**[Changelog](https://github.com/Hernou/pidgin-EAP/blob/master/.purple/smileys/changelog)**
+
+
 
 _**Install**_ 
 -------
