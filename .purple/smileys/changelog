@@ -1,4 +1,19 @@
 #############################
+# 2014-06-18 15:15:30+02:00 #
+#############################
+ - 3.2
+ - Update from mehdevil's facebook
+   theme 1.0
+ - Improve opacity of some facebook
+   emoticons for desktop with
+   dark theme
+ - update Skype hidded emoticons
+   from 
+   www.symbols-n-emoticons.com
+   
+
+
+#############################
 # 2014-06-18 16:25:06+02:00 #
 #############################
  - 3.1
@@ -80,16 +95,19 @@ if you find this, send me a link...
    Neculau (not updated since
    2010).
 http://wiki.andreineculau.com/Original_Smileys_Theme_for_Pidgin
+
  - Added apple emoji from stv0g
    (where I did add MightyText 
    support)
 https://github.com/stv0g/unicode-emoji
+
  - Added new facebook emoji
    who are compatible  with web
    browser on computer
    Special thanks you to mehdevil 
-   (version 2.0)
-http://gnome-look.org/content/show.php/Pidgin+Facebook+Smileys?content=162631
+   (version 0.2)
+http://gnome-look.org/content/show.php/?content=162631
+
  - Added Hangout emoji
    (Pics can be extract from
    Hangout for android APK)
