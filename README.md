@@ -1,5 +1,5 @@
 _**About EAP**_
----------
+----------------
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/earth.png)
  At the origin, I name this project "pidgin-EAP" for pidgin theme with Emoticons for All Protocols.
 
@@ -69,7 +69,7 @@ Since 3.0 version, I added several color, icon, and sound themes.
 
 
 _**Install**_ 
--------
+--------------
 **On windows :**
 
 Download the zip,
@@ -94,7 +94,7 @@ rm -rf ~/pidgin-EAP
 
 
 _**TO DO**_
-------
+------------
 
 - Update Skype theme 
  -> Add transparence on pics ( I would not do that unless I find that are published, or that I was sent )
@@ -111,6 +111,6 @@ This theme on the other hand is [unlicensed](http://unlicense.org/).
 
 
 _**[Home](http://hernou.github.io/pidgin-EAP)**_
---------
+-------------------------------------------------
 
 
