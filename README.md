@@ -2,9 +2,7 @@ _**About EAP**_
 ----------------
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/earth.png)
  At the origin, I name this project "pidgin-EAP" for pidgin theme with Emoticons for All Protocols.
-
-Since 3.0 version, I added several color, icon, and sound themes.
-
+Now this theme contain some sounds and buddy list themes.
 
 **A big thank you to all those who were allowed or allow this theme to exist.**
 
