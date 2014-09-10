@@ -130,6 +130,7 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/facebook-bug-emoticon.png	🐛
 
 ../EAP/facebook/couple-in-love.png	💑
+../EAP/facebook/couple-in-love-kiss.png	💏
 ../EAP/facebook/heart+emoticon.png	<3
 ../EAP/facebook/broken-heart-emoticon-for-facebook-comments.png	💔
 ../EAP/facebook/facebook-blue-heart-icon.png	💙
@@ -160,6 +161,7 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/clenched-fist-emoticon-for-facebook-status.png	✊
 ../EAP/facebook/index-finger-emoticon.png	☝
 ../EAP/facebook/open-hand-emoticon.png	✋
+../EAP/facebook/two-hands-clap.png	🙏
 ../EAP/facebook/two-hands-reaching-up.png	🙌
 ../EAP/facebook/muscle-arm.png	💪
 ../EAP/facebook/fist-symbol.png	👊
@@ -186,13 +188,16 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/wind-emoticon.png	💨
 ../EAP/facebook/wave-symbol.png	🌊
 ../EAP/facebook/droplets-symbol.png	💦
+../EAP/facebook/droplet-emoticon.png	💧
 ../EAP/facebook/snowflake-emoticon.png	✴
 
 ../EAP/facebook/umbrella-symbol-for-facebook-comments.png	☔
+../EAP/facebook/graduation-symbol.png	🎓
 ../EAP/facebook/top-hat-emoticon.png	🎩
 ../EAP/facebook/womans-hat-emoji.png	👒
 ../EAP/facebook/crown-emoticon.png	👑
 ../EAP/facebook/tie-emoticon-facebook.png	👔
+../EAP/facebook/ribbon-emoticon.png	🎀
 ../EAP/facebook/ring-emoticon.png	💍
 ../EAP/facebook/bikini-emoticon-for-facebook.png	👙
 ../EAP/facebook/lipstick-emoticon.png	💄
@@ -200,11 +205,15 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/kimono-emoticon.png	👘
 ../EAP/facebook/dress-emoticon.png	👗
 ../EAP/facebook/boots-facebook-emoticon.png	👢
+../EAP/facebook/emoji_1f45f_32.png	👟
 ../EAP/facebook/high-heels-emoticon.png	👠
 ../EAP/facebook/womans-sandal.png	👡
 ../EAP/facebook/briefcase-emoticon.png	💼
 ../EAP/facebook/handbag.png	👜
-
+../EAP/facebook/school-bag-emoticon.png	🎒
+../EAP/facebook/anger-symbol-facebook-emoticon.png	💢
+../EAP/facebook/nail-polish-emoticon.png	💅
+../EAP/facebook/footprints-emoticon.png	🐾
 
 ../EAP/facebook/coffee-emoticon.png	☕
 
@@ -225,8 +234,6 @@ Author=mehdevil, Hernou L.
 
 
 
-
-../EAP/facebook/no-smoking-emoticon.png	🚭
 ../EAP/facebook/soccer-ball-emoticon.png	⚽
 ../EAP/facebook/baseball-emoticon.png	⚾
 ../EAP/facebook/golf-emoticon.png	⛳
@@ -239,19 +246,6 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/crossed-flags-emoticon.png	🎌
 ../EAP/facebook/finish-line-flag.png	🏁
 ../EAP/facebook/trophy-symbol.png	🏆
-../EAP/facebook/warning-sign.png	⚠
-../EAP/facebook/no-entry-emoticon.png	⛔
-../EAP/facebook/exclamation-point-emoji.png	❕
-../EAP/facebook/exclamation-mark-emoticon.png	❓
-../EAP/facebook/red-exclamation-mark.png	❗
-../EAP/facebook/question-mark-emoticon.png	❔
-../EAP/facebook/cross-mark-emoticon.png	❌
-../EAP/facebook/cross-mark-emoji.png	❎
-../EAP/facebook/multiplication-x.png	✖
-../EAP/facebook/heart-suit-emoticon.png	♥
-../EAP/facebook/spade-emoticon.png	♠
-../EAP/facebook/diamond-suit-emoticon.png	♦
-../EAP/facebook/club-suit-emoticon.png	♣
 
 
 
@@ -278,6 +272,13 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/shaved-ice-emoticon-for-facebook.png	🍧
 ../EAP/facebook/ice-cream-facebook-emoticon.png	🍦
 ../EAP/facebook/hamburger-symbol.png	🍔
+../EAP/facebook/emoji_1f358_32.png	🍘
+../EAP/facebook/emoji_1f359_32.png	🍙
+../EAP/facebook/emoji_1f35a_32.png	🍚
+../EAP/facebook/emoji_1f35b_32.png	🍛
+../EAP/facebook/emoji_1f361_32.png	🍡
+../EAP/facebook/emoji_1f362_32.png	🍢
+../EAP/facebook/emoji_1f371_32.png	🍱
 ../EAP/facebook/red-apple-symbol.png	🍎
 ../EAP/facebook/strawberry-symbol.png	🍓
 ../EAP/facebook/orange-fruit-emoticon.png	🍊
@@ -290,6 +291,7 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/maple-leaf-symbol.png	🍁
 ../EAP/facebook/fallen-leaf-emoticon.png	🍂
 ../EAP/facebook/Fluttering-leaf-icon.png	🍃
+../EAP/facebook/four-leaf-clover.png	🍀
 ../EAP/facebook/cherry-blossom.png	🌸
 ../EAP/facebook/rose-symbol-for-facebook.png	🌹
 ../EAP/facebook/tulip-symbol.png	🌷
@@ -299,7 +301,7 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/christmas-tree-symbol.png	🎄
 
 
-../EAP/facebook/rainbow-emoticon.png	🌈
+
 ../EAP/facebook/phone-symbol.png	📞
 ../EAP/facebook/fax-emoticon.png	📠
 ../EAP/facebook/speaker-emoticon.png	🔈
@@ -311,15 +313,12 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/tv-symbol.png	📺
 ../EAP/facebook/pc-emoticon.png	💻
 ../EAP/facebook/floppy-disk-emoticon.png	💾
+../EAP/facebook/md-disk.png 	💽
 ../EAP/facebook/cd-emoticon.png	📀
+../EAP/facebook/cd-argent.png	💿
 ../EAP/facebook/tablet-smartphone-emoticon.png	📱
 ../EAP/facebook/gift-emoticon.png	🎁
 ../EAP/facebook/carp-streamers.png	🎏
-../EAP/facebook/anger-symbol-facebook-emoticon.png	💢
-../EAP/facebook/nail-polish-emoticon.png	💅
-../EAP/facebook/footprints-emoticon.png	🐾
-../EAP/facebook/four-leaf-clover.png	🍀
-../EAP/facebook/graduation-symbol.png	🎓
 ../EAP/facebook/atm-emoticon.png	🏧
 ../EAP/facebook/money-bag-emoticon.png	💰
 ../EAP/facebook/dollar-bill-emoticon.png	💵
@@ -343,13 +342,48 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/rocket-emoji.png	🚀
 ../EAP/facebook/ticket-emoticon.png	🎫
 ../EAP/facebook/bus-stop-emoticon.png	🚏
-../EAP/facebook/traffic-lights-emoticon.png	🚥
-../EAP/facebook/construction-sign.png	🚧
-../EAP/facebook/barber-emoticon.png	💈
-../EAP/facebook/antenna-signal.png	📶
-../EAP/facebook/no-under-18-sign.png	🔞
-../EAP/facebook/vibration-mode.png	📳
 ../EAP/facebook/mobile-phone-off-emoticon.png	📴
+../EAP/facebook/mailbox-emoticon.png	📪
+../EAP/facebook/mailbox-with-raised-flag.png	📫
+../EAP/facebook/emoji_1f4ec_32.png	📬
+../EAP/facebook/emoji_1f4ed_32.png	📭
+../EAP/facebook/postbox-emoticon.png	📮
+../EAP/facebook/mail-emoticon-for-facebook.png	📩
+../EAP/facebook/incoming-mail-facebook-emoticon.png	📨
+../EAP/facebook/memo-sign-for-facebook.png	📝
+
+../EAP/facebook/open-book-emoticon.png	📖
+../EAP/facebook/paint-palette.png	🎨
+../EAP/facebook/microphone-emoticon.png	🎤
+../EAP/facebook/megaphone-emoticon.png	📣
+../EAP/facebook/headphones-emoticon.png	🎧
+../EAP/facebook/saxophone-emoticon.png	🎷
+../EAP/facebook/trumpet-emoticon.png	🎺
+../EAP/facebook/guitar-emoticon.png	🎸
+../EAP/facebook/public-address-loudspeaker.png	📢
+../EAP/facebook/lock-emoji.png	🔒
+../EAP/facebook/closed-lock-with-key.png	🔐
+../EAP/facebook/key-emoticon.png	🔑
+../EAP/facebook/open-lock-emoticon.png	🔓
+../EAP/facebook/emoji_1f50f_32.png	🔏
+../EAP/facebook/magnifying-glass-emoticon.png	🔎
+../EAP/facebook/emoji_1f50d_32.png	🔍
+../EAP/facebook/light-bulb-emoticon.png	💡
+../EAP/facebook/dollar-sign.png	💲
+../EAP/facebook/pistol-emoticon.png	🔫
+../EAP/facebook/bomb-emoticon.png	💣
+../EAP/facebook/cigarette-emoticon.png	🚬
+../EAP/facebook/pill-emoticon.png	💊
+../EAP/facebook/syringe-emoticon.png	💉
+../EAP/facebook/mask-emoticon-for-facebook.png	🎭
+../EAP/facebook/clapper-board.png	🎬
+../EAP/facebook/cinema-emoticon.png	🎦
+
+../EAP/facebook/heart-suit-emoticon.png	♥
+../EAP/facebook/spade-emoticon.png	♠
+../EAP/facebook/diamond-suit-emoticon.png	♦
+../EAP/facebook/club-suit-emoticon.png	♣
+../EAP/facebook/rainbow-emoticon.png	🌈
 ../EAP/facebook/sunrise-emoticon.png	🌅
 ../EAP/facebook/sunrise-over-mountains.png	🌄
 ../EAP/facebook/sunset-emoticon.png	🌇
@@ -374,37 +408,22 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/wedding-emoticon.png	💒
 ../EAP/facebook/house-emoji.png	🏡
 ../EAP/facebook/house-emoticon.png	🏠
-../EAP/facebook/mailbox-emoticon.png	📪
-../EAP/facebook/mailbox-with-raised-flag.png	📫
-../EAP/facebook/postbox-emoticon.png	📮
-../EAP/facebook/mail-emoticon-for-facebook.png	📩
-../EAP/facebook/incoming-mail-facebook-emoticon.png	📨
-../EAP/facebook/memo-sign-for-facebook.png	📝
-../EAP/facebook/school-bag-emoticon.png	🎒
-../EAP/facebook/open-book-emoticon.png	📖
-../EAP/facebook/paint-palette.png	🎨
-../EAP/facebook/microphone-emoticon.png	🎤
-../EAP/facebook/megaphone-emoticon.png	📣
-../EAP/facebook/headphones-emoticon.png	🎧
-../EAP/facebook/saxophone-emoticon.png	🎷
-../EAP/facebook/trumpet-emoticon.png	🎺
-../EAP/facebook/guitar-emoticon.png	🎸
-../EAP/facebook/public-address-loudspeaker.png	📢
-../EAP/facebook/lock-emoji.png	🔒
-../EAP/facebook/closed-lock-with-key.png	🔐
-../EAP/facebook/key-emoticon.png	🔑
-../EAP/facebook/open-lock-emoticon.png	🔓
-../EAP/facebook/magnifying-glass-emoticon.png	🔎
-../EAP/facebook/light-bulb-emoticon.png	💡
-../EAP/facebook/dollar-sign.png	💲
-../EAP/facebook/pistol-emoticon.png	🔫
-../EAP/facebook/bomb-emoticon.png	💣
-../EAP/facebook/cigarette-emoticon.png	🚬
-../EAP/facebook/pill-emoticon.png	💊
-../EAP/facebook/syringe-emoticon.png	💉
-../EAP/facebook/mask-emoticon-for-facebook.png	🎭
-../EAP/facebook/clapper-board.png	🎬
-../EAP/facebook/cinema-emoticon.png	🎦
+../EAP/facebook/traffic-lights-emoticon.png	🚥
+../EAP/facebook/construction-sign.png	🚧
+../EAP/facebook/barber-emoticon.png	💈
+../EAP/facebook/antenna-signal.png	📶
+../EAP/facebook/no-under-18-sign.png	🔞
+../EAP/facebook/vibration-mode.png	📳
+../EAP/facebook/no-smoking-emoticon.png	🚭
+../EAP/facebook/warning-sign.png	⚠
+../EAP/facebook/no-entry-emoticon.png	⛔
+../EAP/facebook/exclamation-point-emoji.png	❕
+../EAP/facebook/exclamation-mark-emoticon.png	❓
+../EAP/facebook/red-exclamation-mark.png	❗
+../EAP/facebook/question-mark-emoticon.png	❔
+../EAP/facebook/cross-mark-emoticon.png	❌
+../EAP/facebook/cross-mark-emoji.png	❎
+../EAP/facebook/multiplication-x.png	✖
 ../EAP/facebook/vs-emoticon-versus.png	🆚
 ../EAP/facebook/up-sign.png	🆙
 ../EAP/facebook/cool-emoticon-sign.png	🆒
@@ -425,8 +444,7 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/request-emoticon.png	🈸
 ../EAP/facebook/work-emoticon.png	🈺
 ../EAP/facebook/good-bargain.png	🉐
-../EAP/facebook/square-emoticon.png	⬜
-../EAP/facebook/circle-emoji.png	⚪
+
 ../EAP/facebook/rightwards-arrow.png	➡
 ../EAP/facebook/downwards-arrow.png	⬇
 ../EAP/facebook/leftwards-arrow.png	⬅
@@ -437,9 +455,8 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/south-west-arrow.png	↙
 ../EAP/facebook/up-right-arrow.png	⤴
 ../EAP/facebook/arrow-pointing-down-right.png	⤵
-../EAP/facebook/ribbon-emoticon.png	🎀
 ../EAP/facebook/closed-umbrella.png	🌂
-../EAP/facebook/droplet-emoticon.png	💧
+
 ../EAP/facebook/hammer-emoticon.png	🔨
 ../EAP/facebook/seat-emoticon.png	💺
 ../EAP/facebook/Part-Alternation-Mark.png	〽
@@ -450,16 +467,34 @@ Author=mehdevil, Hernou L.
 ../EAP/facebook/diamond-emoticon.png	💠
 ../EAP/facebook/blue-diamond-emoticon.png	🔷
 ../EAP/facebook/orange-diamond-emoticon.png	🔶
+../EAP/facebook/emoji_1f538_32.png	🔸
+../EAP/facebook/emoji_1f539_32.png	🔹
+
+../EAP/facebook/emoji_1f532_32.png	🔲
+../EAP/facebook/emoji_1f533_32.png	🔳
+../EAP/facebook/emoji_1f534_32.png	🔴
+../EAP/facebook/emoji_1f535_32.png	🔵
 
 
-! ../EAP/facebook/emoji_1f533_32.png	🔳
-! ../EAP/facebook/emoji_1f534_32.png	🔴
-! ../EAP/facebook/emoji_1f535_32.png	🔵
+../EAP/facebook/emoji_25aa_32.png	▪
+../EAP/facebook/emoji_25ab_32.png	▫
+../EAP/facebook/emoji_25fb_32.png	◻
+../EAP/facebook/emoji_25fc_32.png	◼
+../EAP/facebook/emoji_25fd_32.png	◽
+../EAP/facebook/emoji_25fe_32.png	◾
+../EAP/facebook/emoji_26ab_32.png	⚫
+../EAP/facebook/circle-emoji.png	⚪
+../EAP/facebook/square-emoticon.png	⬜
+../EAP/facebook/emoji_2b1b_32.png	⬛
+../EAP/facebook/emoji_2b55_32.png	⭕
+
+
+
+
+
 ! ../EAP/facebook/emoji_1f1e8_1f1f3_32.png	🇨
 ! ../EAP/facebook/emoji_1f1e9_1f1ea_32.png	🇩
-! ../EAP/facebook/emoji_1f538_32.png	🔸
 ! ../EAP/facebook/emoji_1f1ea_1f1f8_32.png	🇪
-! ../EAP/facebook/emoji_1f539_32.png	🔹
 ! ../EAP/facebook/emoji_1f1eb_1f1f7_32.png	🇫
 ! ../EAP/facebook/emoji_1f1ec_1f1e7_32.png	🇬
 ! ../EAP/facebook/emoji_1f1ee_1f1f9_32.png	🇮
@@ -467,29 +502,8 @@ Author=mehdevil, Hernou L.
 ! ../EAP/facebook/emoji_1f1f0_1f1f7_32.png	🇰
 ! ../EAP/facebook/emoji_1f1f7_1f1fa_32.png	🇷
 ! ../EAP/facebook/emoji_1f1fa_1f1f8_32.png	🇺
-! ../EAP/facebook/emoji_1f45f_32.png	👟
-! ../EAP/facebook/emoji_1f358_32.png	🍘
-! ../EAP/facebook/emoji_1f359_32.png	🍙
-! ../EAP/facebook/emoji_1f35a_32.png	🍚
-! ../EAP/facebook/emoji_1f35b_32.png	🍛
-! ../EAP/facebook/emoji_1f361_32.png	🍡
-! ../EAP/facebook/emoji_1f362_32.png	🍢
-! ../EAP/facebook/emoji_1f371_32.png	🍱
 ! ../EAP/facebook/emoji_23_20e3_32.png	#⃣	
-! ../EAP/facebook/emoji_25aa_32.png	▪
-! ../EAP/facebook/emoji_25ab_32.png	▫
-! ../EAP/facebook/emoji_25fb_32.png	◻
-! ../EAP/facebook/emoji_25fc_32.png	◼
-! ../EAP/facebook/emoji_25fd_32.png	◽
-! ../EAP/facebook/emoji_25fe_32.png	◾
-! ../EAP/facebook/emoji_26ab_32.png	⚫
-! ../EAP/facebook/emoji_1f4ec_32.png	📬
-! ../EAP/facebook/emoji_1f4ed_32.png	📭
-! ../EAP/facebook/emoji_2b1b_32.png	⬛
-! ../EAP/facebook/emoji_2b55_32.png	⭕
-! ../EAP/facebook/emoji_1f50d_32.png	🔍
 ! ../EAP/facebook/emoji_30_20e3_32.png	0⃣	
-! ../EAP/facebook/emoji_1f50f_32.png	🔏
 ! ../EAP/facebook/emoji_31_20e3_32.png	1⃣	
 ! ../EAP/facebook/emoji_32_20e3_32.png	2⃣	
 ! ../EAP/facebook/emoji_33_20e3_32.png	3⃣	
@@ -499,6 +513,4 @@ Author=mehdevil, Hernou L.
 ! ../EAP/facebook/emoji_37_20e3_32.png	7⃣
 ! ../EAP/facebook/emoji_38_20e3_32.png	8⃣	
 ! ../EAP/facebook/emoji_39_20e3_32.png	9⃣	
-! ../EAP/facebook/emoji_1f531_32.png	🔱
 ! ../EAP/facebook/emoji_blank_32.png	
-! ../EAP/facebook/emoji_1f532_32.png	🔲
