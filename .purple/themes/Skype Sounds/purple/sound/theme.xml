@@ -1,12 +1,20 @@
 <?xml version="1.0"?>
-<theme author="adium2pidgin conventer" 
+<theme author="H" 
 	name="Skype Sounds" 
 	image="icon.png"
 	type="sound">
-  <description>Generated at 2011-06-06 13:04 in adium2pidgin theme convert</description>
-  <event file="Contactoff.mp3" name="logout"/>
-  <event file="Messagesent.mp3" name="send_im"/>
-  <event file="Firstmessage.mp3" name="first_im_recv"/>
-  <event file="Messagereceived.mp3" name="im_recv"/>
-  <event file="Contacton.mp3" name="login"/>
+
+	<description>(générated from skype: 20 september 2014)</description>
+	<event name="login" file="ContactOnline.wav"/>
+	<event name="logout" file="ContactOffline.wav"/>
+	<event name="im_recv" file="ChatIncoming.wav"/>
+	<event name="first_im_recv" file="ChatIncomingInitial.wav"/>
+	<event name="send_im" file="ChatOutgoing.wav"/>
+	<event name="join_chat" file="ContactAdded.wav"/>
+	<event name="left_chat" file="ContactAuthRequest.wav"/>
+	<event name="send_chat_msg" file="ChatOutgoing.wav"/>
+	<event name="chat_msg_recv" file="ChatIncoming.wav"/>
+	<event name="pounce_default" file="CallHangup.wav"/>
+	<event name="got_attention" file="VoicemailReceived.wav"/>
+        <!-- event "nick_said" is not set-->
 </theme>
