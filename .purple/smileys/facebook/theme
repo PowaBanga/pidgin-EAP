@@ -1,7 +1,7 @@
 Name=Facebook
 Description=Facebook smileys for Pidgin
 Icon=../EAP/facebook/facebook.png
-Author=mehdevil, Hernou L.
+Author=mehdevil, .H.
 
 [default]
 ../EAP/facebook/facebook-smiley-face-for-comments.png	:) :-) :] =)
