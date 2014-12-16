@@ -2384,10 +2384,6 @@ Emoticons themes
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_1f533_32.png)
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_1f534_32.png)
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_1f535_32.png)
-
-Hidded
-
-
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_25aa_32.png)
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_25ab_32.png)
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_25fb_32.png)
@@ -2399,6 +2395,12 @@ Hidded
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/square-emoticon.png)
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_2b1b_32.png)
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_2b55_32.png)
+
+
+Hidded
+
+
+
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_1f1e8_1f1f3_32.png)
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_1f1e9_1f1ea_32.png)
 ![](https://raw.githubusercontent.com/Hernou/pidgin-EAP/master/.purple/smileys/EAP/facebook/emoji_1f1ea_1f1f8_32.png)
