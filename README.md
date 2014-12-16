@@ -96,7 +96,7 @@ _**TO DO**_
 - Update Skype theme 
  -> Add transparence on pics ( I would not do that unless I find that are published, or that I was sent )
  -> Add some hidded icons
-- Why not complete Mightytext to add pics at all letter who don't pass with this protocoltc(é,è,à,',",etc...)
+- Why not complete Mightytext to add pics at all letter who don't pass with this protocoltc(é,è,à,',",etc...) ?
 - Update some protocols if needed
 
 

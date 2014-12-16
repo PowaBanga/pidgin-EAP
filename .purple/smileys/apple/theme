@@ -1,7 +1,7 @@
 Name=Apple Emoji
 Description=Original Unicode Emojis mapping to Unicode 6 characters
 Icon=../EAP/apple/apple.png
-Author=Steffen Vogel, Hernou L.
+Author=Steffen Vogel, .H.
 
 [default]
 ../EAP/apple/263a.png	☺	
