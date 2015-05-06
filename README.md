@@ -82,9 +82,7 @@ And Install fonts who are in "pidgin-EAP-master/.fonts" on your system
 
 **On Linux :**
 ```html
-git clone https://github.com/Hernou/pidgin-EAP.git
-cp -rf ~/pidgin-EAP/* ~
-rm -rf ~/pidgin-EAP
+git clone https://github.com/Hernou/pidgin-EAP.git && cp -rf ~/pidgin-EAP/* ~ && rm -rf ~/pidgin-EAP
 
 ```
 
