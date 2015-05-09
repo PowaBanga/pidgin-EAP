@@ -1,4 +1,14 @@
 #############################
+# 2015-09-05 23:11:22+02:00 #
+#############################
+ - 3.4.3
+ - Add transparency support
+   for skype.
+   Picture are extracted from
+   demoive git, thanx to him
+https://github.com/demoive/skypecon
+
+#############################
 # 2015-24-01 20:35:20+02:00 #
 #############################
  - 3.4.2
