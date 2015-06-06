@@ -1,6 +1,6 @@
 Name=Skype 6.x
 Description=Skype since 5.x
-Icon=../EAP/skype/skype.png
+Icon=../EAP/skype/skype22.png
 Author=.H.
 
 
@@ -27,7 +27,7 @@ Author=.H.
 ../EAP/skype/Yawning.gif	(yawn)
 ../EAP/skype/Puking.gif	(puke) :& :-& :=&
 ../EAP/skype/Doh.gif	(doh)
-../EAP/skype/Angry.gif	:@ :-@ :=@ x( x-( x=( X( X- (X=(
+../EAP/skype/animated.png	:@ :-@ :=@ x( x-( x=( X( X- (X=(
 ../EAP/skype/Itwasntme.gif	(wasntme)
 ../EAP/skype/Party.gif	(party)
 ../EAP/skype/Facepalm.gif	(facepalm)
