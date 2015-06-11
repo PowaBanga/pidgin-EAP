@@ -6,9 +6,7 @@ Now this theme contain some sounds and buddy list themes.
 
 **A big thank you to all those who were allowed or allow this theme to exist.**
 
-**I need you to update this theme if necessary**. If you have a protocol theme that you think we can add or merge in this, you can send it [in an issue](https://github.com/Hernou/pidgin-EAP/issues/new), modify directly it [on Github](https://github.com/Hernou/pidgin-EAP) by pull request, or you can join me on my xmpp powapowa@jappix.com .
-
-**You can [donnate a few money via paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PJVNR8FLRH5MW) if you like this.**
+**I need you to update this theme if necessary**. If you have a protocol theme that you think we can add or merge in this, you can send it [in an issue](https://github.com/Hernou/pidgin-EAP/issues/new), modify directly it [on Github](https://github.com/Hernou/pidgin-EAP) by pull request, or you can join me on my xmpp powabanga@jappix.com .
 
 
 **Theme used by protocol (default)**
