@@ -1,8 +1,8 @@
 Name=EAP
 Description=A theme différent for each protocols, compatible with the most popular use.
 Icon=earth.png
-Author=v.3.4.4  - .H.
-Version=3.4.4
+Author=v.3.5  - .H.
+Version=3.5
 
 
 # Default (taken from Pidgin's default theme)
@@ -2424,1380 +2424,868 @@ skype/Dog.gif	(dog)
 ! ../EAP/facebook/emoji_39_20e3_32.png	9⃣	
 ! ../EAP/facebook/emoji_blank_32.png	
 
-#facebook XMPP compatibility 
-[XMPP]
-../EAP/facebook/facebook-smiley-face-for-comments.png	:) :-) :] =)
-../EAP/facebook/big-smile-emoticon-for-facebook.png	:D :-D =D
-../EAP/facebook/facebook-frown-emoticon.png	:( :-( :[ =(
-../EAP/facebook/facebook-cry-emoticon-crying-symbol.png	:'(
-../EAP/facebook/facebook-tongue-out-emoticon.png	:p :P :-p :-P =P
-../EAP/facebook/angel+emoticon.png	O:) O:-)
-../EAP/facebook/confused-emoticon-wtf-symbol-for-facebook.png	O.o o.O
-../EAP/facebook/wink+emoticon.png	;) ;-)
-../EAP/facebook/surprised+emoticon.png	:o :O :-o :-O
-../EAP/facebook/squinting-emoticon.png	-_-
-../EAP/facebook/angry+emoticon.png	>:o >:O >:-o >:-O
-../EAP/facebook/kiss+emoticon.png	:* :-*
-../EAP/facebook/kiki+emoticon.png	^_^
-../EAP/facebook/glasses+emoticon.png	8-) B-)
-../EAP/facebook/sunglasses+emoticon.png	8| B| 8-| B-| 
-../EAP/facebook/grumpy+emoticon.png	>:( >:-(
-../EAP/facebook/pacman+emoticon.png	:v
-../EAP/facebook/unsure+emoticon.png	:/ :\\ :-/ :-\\
-../EAP/facebook/curly+lips+emoticon.png	:3
-../EAP/facebook/facebook-blush-emoticon.png	☺
-
-../EAP/facebook/facebook-comments-emoticon-with-heart-eyes.png	😍
-
-../EAP/facebook/heart-smiley.png	😘
-../EAP/facebook/kiss-emoticon.png	😚
-../EAP/facebook/happy-smiley-blushing.png	😊
-../EAP/facebook/smirking-smiley.png	😏
-../EAP/facebook/satisfied-smiley-face.png	😌
-../EAP/facebook/smiling-face.png	😃
-../EAP/facebook/big-smile-with-closed-eyes.png	😄
-../EAP/facebook/disappointed.png	😞
-../EAP/facebook/crying-smiley.png	😢
-../EAP/facebook/medic-facebook-smiley.png	😷
-../EAP/facebook/cold-sweat-emoticon.png	😓
-../EAP/facebook/fear-emoji.png	😰
-../EAP/facebook/relieved-emoticon.png	😥
-../EAP/facebook/sleepy-smiley.png	😪
-../EAP/facebook/scared-emoticon.png	😨
-../EAP/facebook/facebook-emoticon--terrified-with-fear.png	😱
-../EAP/facebook/dizzy-emoticon.png	😵
-../EAP/facebook/facebook-emoticon-crying-big-tears.png	😭
-../EAP/facebook/mad-angry-emoticon-for-facebook.png	😠
-../EAP/facebook/emoticon-with-eyes-wide-open.png	😳
-../EAP/facebook/astonished-smiley-emoticon-for-facebook.png	😲
-../EAP/facebook/emoticon-with-look-of-triumph.png	😤
-../EAP/facebook/tongue-out-winking-emoticon-for-facebook.png	😜
-../EAP/facebook/emoticon-mocking--with-tongue-out.png	😝
-../EAP/facebook/winking-face-facebook-symbol.png	😉
-../EAP/facebook/sad-face-symbol-for-facebook.png	😔
-../EAP/facebook/unamused-emoticon.png	😒
-../EAP/facebook/emoticon-crying-tears-of-joy.png	😂
-../EAP/facebook/red-angry-emoticon-for-facebook.png	😡
-../EAP/facebook/devil+emoticon.png	3:) 3:-)
-../EAP/facebook/purple-devil-facebook-emoticon.png	👿
-
-../EAP/facebook/angel-symbol.png	👼
-../EAP/facebook/playboy-bunny-emoticon-for-facebook.png	👯
-../EAP/facebook/guardsman-symbol.png	💂
-../EAP/facebook/man-with-turban.png	👳
-../EAP/facebook/Santa-claus-symbol-for-facebook.png	🎅
-../EAP/facebook/facebook-policeman-symbol.png	👮
-../EAP/facebook/construction-worker-emoticon.png	👷
-../EAP/facebook/princess-emoticon-for-facebook.png	👸
-../EAP/facebook/bald-man-emoticon.png	👴
-../EAP/facebook/old-woman-emoticon.png	👵
-../EAP/facebook/man-emoticon.png	👨
-../EAP/facebook/woman-emoticon.png	👩
-../EAP/facebook/boy-emoticon.png	👦
-../EAP/facebook/girl-emoticon-for-facebook.png	👧
-../EAP/facebook/baby-face-emoticon.png	👶
-../EAP/facebook/blonde-girl-emoticon.png	👱
-../EAP/facebook/putnam-emoticon.png	:putnam:
-../EAP/facebook/boy-and-girl-holding-hands.png	👫
-../EAP/facebook/man-and-woman-holding-hands.png	🎎
-../EAP/facebook/dancer-emoticon-for-facebook.png	💃
-../EAP/facebook/restroom-emoticon.png	🚻
-../EAP/facebook/mens-emoticon.png	🚹
-../EAP/facebook/womens-emoticon.png	🚺
-../EAP/facebook/child-emoticon.png	🚼
-
-../EAP/facebook/pumpkin-symbol.png	🎃
-../EAP/facebook/skull-emoticon.png	💀
-../EAP/facebook/robot+emoticon.png	:|]
-../EAP/facebook/alien-symbol.png	👽
-../EAP/facebook/green-extraterrestrial-symbol.png	👾
-../EAP/facebook/ghost-symbol.png	👻
-
-
-../EAP/facebook/shark+emoticon.png	(^^^)
-../EAP/facebook/facebook-penguine-emoticon.png	<(")
-../EAP/facebook/puppy.png	🐶
-../EAP/facebook/teddy-bear-fb-emoticon.png	🐻
-../EAP/facebook/monkey-face-symbol.png	🐵
-../EAP/facebook/mouse-fb-emoticon.png	🐭
-../EAP/facebook/hamster-fb-emoticon.png	🐹
-../EAP/facebook/facebook-wolf-emoticon.png	🐺
-../EAP/facebook/facebook-tiger-emoticon.png	🐯
-../EAP/facebook/horse-face-symbol.png	🐴
-../EAP/facebook/piggy-emoticon.png	🐷
-../EAP/facebook/facebook-cat-symbol.png	🐱
-../EAP/facebook/facebook-bunny-symbol.png	🐰
-../EAP/facebook/poodle-emoticon.png	🐩
-../EAP/facebook/sheep-emoticon.png	🐑
-../EAP/facebook/penguin-face-symbol.png	🐧
-../EAP/facebook/koala-emoticon.png	🐨
-../EAP/facebook/cow-emoticon.png	🐮
-../EAP/facebook/wild-boar-emoticon.png	🐗
-../EAP/facebook/chicken-symbol.png	🐔
-../EAP/facebook/yellow-chick-emoticon.png	🐥
-../EAP/facebook/bird-emoticon-for-facebook.png	🐦
-../EAP/facebook/elephant-emoticon-for-facebook.png	🐘
-../EAP/facebook/horse-emoticon-for-facebook.png	🐎
-../EAP/facebook/monkey-symbol-for-facebook.png	🐒
-../EAP/facebook/camel-emoticon.png	🐫
-../EAP/facebook/facebook-dolphin-emoticon.png	🐬
-../EAP/facebook/whale-emoticon-for-facebook.png	🐳
-../EAP/facebook/tropical-fish-emoticon.png	🐠
-../EAP/facebook/facebook-fish-symbol.png	🐟
-../EAP/facebook/blowfish-symbol.png	🐡
-../EAP/facebook/octopus-emoticon.png	🐙
-../EAP/facebook/facebook-seashell-symbol.png	🐚
-../EAP/facebook/frog-emoticon.png	🐸
-../EAP/facebook/snake-symbol-for-facebook.png	🐍
-../EAP/facebook/facebook-bug-emoticon.png	🐛
-
-../EAP/facebook/couple-in-love.png	💑
-../EAP/facebook/couple-in-love-kiss.png	💏
-../EAP/facebook/heart+emoticon.png	<3
-../EAP/facebook/broken-heart-emoticon-for-facebook-comments.png	💔
-../EAP/facebook/facebook-blue-heart-icon.png	💙
-../EAP/facebook/green-heart-emoticon-for-facebook.png	💚
-../EAP/facebook/yellow-heart-emoticon-for-fb-comments.png	💛
-../EAP/facebook/purple-heart-icon.png	💜
-../EAP/facebook/triple-hearts-emoticon.png	💗
-../EAP/facebook/emoticon-of-heart-stabbed-with-an-arrow.png	💘
-../EAP/facebook/new-heart-symbol-for-facebook.png	💓
-../EAP/facebook/facebook-heart-symbol-wrapped-as-a-gift.png	💝
-../EAP/facebook/sparkling-heart-symbol-for-facebook.png	💖
-../EAP/facebook/spinning-hearts-emoticon.png	💞
-../EAP/facebook/white-heart-facebook-emoticon.png	💟
-../EAP/facebook/love-letter-facebook-emoticon.png	💌
-../EAP/facebook/facebook-lips-emoticon.png	💋
-../EAP/facebook/lips-symbol.png	👄
-
-../EAP/facebook/ear-emoticon.png	👂
-../EAP/facebook/nose-symbol.png	👃
-../EAP/facebook/facebook-eyes-symbol.png	👀
-
-
-
-../EAP/facebook/its-ok-fingers-sign.png	👌
-../EAP/facebook/peace-fingers-facebook-symbol.png	✌
-../EAP/facebook/thumb-up-facebook-emoticon-like-symbol.png	(y) 👍
-../EAP/facebook/facebook-emoticon-of--dislike-symbol.png	👎
-../EAP/facebook/clenched-fist-emoticon-for-facebook-status.png	✊
-../EAP/facebook/index-finger-emoticon.png	☝
-../EAP/facebook/open-hand-emoticon.png	✋
-../EAP/facebook/two-hands-clap.png	🙏
-../EAP/facebook/two-hands-reaching-up.png	🙌
-../EAP/facebook/muscle-arm.png	💪
-../EAP/facebook/fist-symbol.png	👊
-../EAP/facebook/clapping-hands-emoticon.png	👏
-../EAP/facebook/finger-pointing-up-symbol.png	👆
-../EAP/facebook/finger-pointing-to-right.png	👉
-../EAP/facebook/finger-pointing-left.png	👈
-../EAP/facebook/finger-pointing-down.png	👇
-
-
-
-../EAP/facebook/poop-facebook-emoticon.png	:poop: 💩
-
-../EAP/facebook/sun+emoticon+for+facebook+comments.png	☀
-../EAP/facebook/cloud-emoticon-for-facebook-comments.png	☁
-../EAP/facebook/thunder-symbol-facebook-emoticon.png	⚡
-../EAP/facebook/stars-emoticon.png	✨
-../EAP/facebook/white-star.png	⭐
-../EAP/facebook/snowflake-emoji.png	✳
-../EAP/facebook/snowman-emoticon.png	⛄
-../EAP/facebook/star-symbol-for-facebook.png	🌟
-../EAP/facebook/moon-symbol.png	🌙
-../EAP/facebook/fire-symbol-emoticon-for-facebook.png	🔥
-../EAP/facebook/wind-emoticon.png	💨
-../EAP/facebook/wave-symbol.png	🌊
-../EAP/facebook/droplets-symbol.png	💦
-../EAP/facebook/droplet-emoticon.png	💧
-../EAP/facebook/snowflake-emoticon.png	✴
-
-../EAP/facebook/umbrella-symbol-for-facebook-comments.png	☔
-../EAP/facebook/graduation-symbol.png	🎓
-../EAP/facebook/top-hat-emoticon.png	🎩
-../EAP/facebook/womans-hat-emoji.png	👒
-../EAP/facebook/crown-emoticon.png	👑
-../EAP/facebook/tie-emoticon-facebook.png	👔
-../EAP/facebook/ribbon-emoticon.png	🎀
-../EAP/facebook/ring-emoticon.png	💍
-../EAP/facebook/bikini-emoticon-for-facebook.png	👙
-../EAP/facebook/lipstick-emoticon.png	💄
-../EAP/facebook/t-shirt-emoticon-for-facebook.png	👕
-../EAP/facebook/kimono-emoticon.png	👘
-../EAP/facebook/dress-emoticon.png	👗
-../EAP/facebook/boots-facebook-emoticon.png	👢
-../EAP/facebook/emoji_1f45f_32.png	👟
-../EAP/facebook/high-heels-emoticon.png	👠
-../EAP/facebook/womans-sandal.png	👡
-../EAP/facebook/briefcase-emoticon.png	💼
-../EAP/facebook/handbag.png	👜
-../EAP/facebook/school-bag-emoticon.png	🎒
-../EAP/facebook/anger-symbol-facebook-emoticon.png	💢
-../EAP/facebook/nail-polish-emoticon.png	💅
-../EAP/facebook/footprints-emoticon.png	🐾
-
-../EAP/facebook/coffee-emoticon.png	☕
-
-
-../EAP/facebook/hot-plate-emoticon.png	♨
-../EAP/facebook/boat-emoticon.png	⛵
-../EAP/facebook/fuel-pump.png	⛽
-../EAP/facebook/airplane-emoticon.png	✈
-../EAP/facebook/fountain-emoticon.png	⛲
-../EAP/facebook/tent-emoticon.png	⛺
-../EAP/facebook/church-emoticon.png	⛪
-../EAP/facebook/telephone-emoticon.png	☎
-../EAP/facebook/envelope-emoticon.png	✉
-../EAP/facebook/scissors-emoticon.png	✂
-../EAP/facebook/toilet-emoticon.png	🚽
-../EAP/facebook/bath-emoticon.png	🛀
-
-
-
-
-../EAP/facebook/soccer-ball-emoticon.png	⚽
-../EAP/facebook/baseball-emoticon.png	⚾
-../EAP/facebook/golf-emoticon.png	⛳
-../EAP/facebook/american-football-emoticon.png	🏈
-../EAP/facebook/basketball-emoticon.png	🏀
-../EAP/facebook/tennis-ball-emoticon.png	🎾
-../EAP/facebook/eight-8-ball-emoticon.png	🎱
-../EAP/facebook/target-emoticon.png	🎯
-../EAP/facebook/skis-emoticon.png	🎿
-../EAP/facebook/crossed-flags-emoticon.png	🎌
-../EAP/facebook/finish-line-flag.png	🏁
-../EAP/facebook/trophy-symbol.png	🏆
-
-
-
-../EAP/facebook/music-note.png	🎵
-../EAP/facebook/facebook-music-notes-symbols.png	🎶
-../EAP/facebook/zzz-facebook-emoticon.png	💤
-../EAP/facebook/bell-symbol-for-facebook.png	🔔
-../EAP/facebook/balloon-symbol-for-facebook.png	🎈
-../EAP/facebook/Party-popper.png	🎉
-../EAP/facebook/champagne-glass-symbol.png	🍸
-../EAP/facebook/beer-mug-symbol.png	🍺
-../EAP/facebook/clinking-beer-mugs.png	🍻
-../EAP/facebook/bottle-emoticon.png	🍶
-../EAP/facebook/teacup-emoticon.png	🍵
-../EAP/facebook/fork-and-knife-facebook-emoticons.png	🍴
-../EAP/facebook/bread-emoticon.png	🍞
-../EAP/facebook/frying-pan.png	🍳
-../EAP/facebook/french-fries-facebook-emoji.png	🍟
-../EAP/facebook/the-food-pot-emoticon.png	🍲
-../EAP/facebook/sushi-emoticon.png	🍣
-../EAP/facebook/spaghetti-emoticon.png	🍝
-../EAP/facebook/steaming-bowl.png	🍜
-../EAP/facebook/cake-emoticon.png	🍰
-../EAP/facebook/shaved-ice-emoticon-for-facebook.png	🍧
-../EAP/facebook/ice-cream-facebook-emoticon.png	🍦
-../EAP/facebook/hamburger-symbol.png	🍔
-../EAP/facebook/emoji_1f358_32.png	🍘
-../EAP/facebook/emoji_1f359_32.png	🍙
-../EAP/facebook/emoji_1f35a_32.png	🍚
-../EAP/facebook/emoji_1f35b_32.png	🍛
-../EAP/facebook/emoji_1f361_32.png	🍡
-../EAP/facebook/emoji_1f362_32.png	🍢
-../EAP/facebook/emoji_1f371_32.png	🍱
-../EAP/facebook/red-apple-symbol.png	🍎
-../EAP/facebook/strawberry-symbol.png	🍓
-../EAP/facebook/orange-fruit-emoticon.png	🍊
-../EAP/facebook/watermelon-emoticon.png	🍉
-../EAP/facebook/tomato-emoticon.png	🍅
-../EAP/facebook/eggplant-emoticon.png	🍆
-../EAP/facebook/seedling-emoticon.png	🌱
-../EAP/facebook/palm-tree-emoticon.png	🌴
-../EAP/facebook/cactus-symbol.png	🌵
-../EAP/facebook/maple-leaf-symbol.png	🍁
-../EAP/facebook/fallen-leaf-emoticon.png	🍂
-../EAP/facebook/Fluttering-leaf-icon.png	🍃
-../EAP/facebook/four-leaf-clover.png	🍀
-../EAP/facebook/cherry-blossom.png	🌸
-../EAP/facebook/rose-symbol-for-facebook.png	🌹
-../EAP/facebook/tulip-symbol.png	🌷
-../EAP/facebook/sunflower-emoticon.png	🌻
-../EAP/facebook/hibiscus-flower--symbol.png	🌺
-../EAP/facebook/flower-bouquet-symbol.png	💐
-../EAP/facebook/christmas-tree-symbol.png	🎄
-
-
-
-../EAP/facebook/phone-symbol.png	📞
-../EAP/facebook/fax-emoticon.png	📠
-../EAP/facebook/speaker-emoticon.png	🔈
-../EAP/facebook/radio-emoticon.png	📻
-../EAP/facebook/camera-emoji.png	📷
-../EAP/facebook/movie-camera-emoticon.png	🎥
-../EAP/facebook/vhs-emoticon.png	📼
-../EAP/facebook/satellite-dish.png	📡
-../EAP/facebook/tv-symbol.png	📺
-../EAP/facebook/pc-emoticon.png	💻
-../EAP/facebook/floppy-disk-emoticon.png	💾
-../EAP/facebook/md-disk.png 	💽
-../EAP/facebook/cd-emoticon.png	📀
-../EAP/facebook/cd-argent.png	💿
-../EAP/facebook/tablet-smartphone-emoticon.png	📱
-../EAP/facebook/gift-emoticon.png	🎁
-../EAP/facebook/carp-streamers.png	🎏
-../EAP/facebook/atm-emoticon.png	🏧
-../EAP/facebook/money-bag-emoticon.png	💰
-../EAP/facebook/dollar-bill-emoticon.png	💵
-../EAP/facebook/yen-banknote.png	💴
-../EAP/facebook/bicycle-emoticon.png	🚲
-../EAP/facebook/automobile-emoji.png	🚗
-../EAP/facebook/car-emoticon.png	🚙
-../EAP/facebook/truck-emoji.png	🚚
-../EAP/facebook/bus-emoticon.png	🚌
-../EAP/facebook/fire-engine-emoticon.png	🚒
-../EAP/facebook/police-car-emoticon.png	🚓
-../EAP/facebook/ambulance-facebook-emoticon.png	🚑
-../EAP/facebook/taxi-emoticon.png	🚕
-../EAP/facebook/train-emoticon.png	🚄
-../EAP/facebook/tram-car-emoji.png	🚃
-../EAP/facebook/high-speed-train-emoji.png	🚅
-../EAP/facebook/station-emoji.png	🚉
-../EAP/facebook/speedboat-emoji.png	🚤
-../EAP/facebook/ship-emoticon.png	🚢
-../EAP/facebook/roller-coaster.png	🎢
-../EAP/facebook/rocket-emoji.png	🚀
-../EAP/facebook/ticket-emoticon.png	🎫
-../EAP/facebook/bus-stop-emoticon.png	🚏
-../EAP/facebook/mobile-phone-off-emoticon.png	📴
-../EAP/facebook/mailbox-emoticon.png	📪
-../EAP/facebook/mailbox-with-raised-flag.png	📫
-../EAP/facebook/emoji_1f4ec_32.png	📬
-../EAP/facebook/emoji_1f4ed_32.png	📭
-../EAP/facebook/postbox-emoticon.png	📮
-../EAP/facebook/mail-emoticon-for-facebook.png	📩
-../EAP/facebook/incoming-mail-facebook-emoticon.png	📨
-../EAP/facebook/memo-sign-for-facebook.png	📝
-
-../EAP/facebook/open-book-emoticon.png	📖
-../EAP/facebook/paint-palette.png	🎨
-../EAP/facebook/microphone-emoticon.png	🎤
-../EAP/facebook/megaphone-emoticon.png	📣
-../EAP/facebook/headphones-emoticon.png	🎧
-../EAP/facebook/saxophone-emoticon.png	🎷
-../EAP/facebook/trumpet-emoticon.png	🎺
-../EAP/facebook/guitar-emoticon.png	🎸
-../EAP/facebook/public-address-loudspeaker.png	📢
-../EAP/facebook/lock-emoji.png	🔒
-../EAP/facebook/closed-lock-with-key.png	🔐
-../EAP/facebook/key-emoticon.png	🔑
-../EAP/facebook/open-lock-emoticon.png	🔓
-../EAP/facebook/emoji_1f50f_32.png	🔏
-../EAP/facebook/magnifying-glass-emoticon.png	🔎
-../EAP/facebook/emoji_1f50d_32.png	🔍
-../EAP/facebook/light-bulb-emoticon.png	💡
-../EAP/facebook/dollar-sign.png	💲
-../EAP/facebook/pistol-emoticon.png	🔫
-../EAP/facebook/bomb-emoticon.png	💣
-../EAP/facebook/cigarette-emoticon.png	🚬
-../EAP/facebook/pill-emoticon.png	💊
-../EAP/facebook/syringe-emoticon.png	💉
-../EAP/facebook/mask-emoticon-for-facebook.png	🎭
-../EAP/facebook/clapper-board.png	🎬
-../EAP/facebook/cinema-emoticon.png	🎦
-
-../EAP/facebook/heart-suit-emoticon.png	♥
-../EAP/facebook/spade-emoticon.png	♠
-../EAP/facebook/diamond-suit-emoticon.png	♦
-../EAP/facebook/club-suit-emoticon.png	♣
-../EAP/facebook/rainbow-emoticon.png	🌈
-../EAP/facebook/sunrise-emoticon.png	🌅
-../EAP/facebook/sunrise-over-mountains.png	🌄
-../EAP/facebook/sunset-emoticon.png	🌇
-../EAP/facebook/dusk-emoticon.png	🌆
-../EAP/facebook/starry-night.png	🌃
-../EAP/facebook/mount-fuji-emoji.png	🗻
-../EAP/facebook/japanese-castle.png	🏯
-../EAP/facebook/japanese-building-emoji.png	🏣
-../EAP/facebook/castle-emoticon.png	🏰
-../EAP/facebook/bank-emoticon-for-facebook.png	🏦
-../EAP/facebook/statue-of-liberty-emoticon.png	🗽
-../EAP/facebook/ferris-wheel-emoticon.png	🎡
-../EAP/facebook/tokyo-tower.png	🗼
-../EAP/facebook/hotel-emoticon.png	🏨
-../EAP/facebook/love-hotel.png	🏩
-../EAP/facebook/office-building.png	🏢
-../EAP/facebook/school-emoticon.png	🏫
-../EAP/facebook/factory-emoticon.png	🏭
-../EAP/facebook/hospital-emoticon.png	🏥
-../EAP/facebook/department-store-emoticon.png	🏬
-../EAP/facebook/convenience-store.png	🏪
-../EAP/facebook/wedding-emoticon.png	💒
-../EAP/facebook/house-emoji.png	🏡
-../EAP/facebook/house-emoticon.png	🏠
-../EAP/facebook/traffic-lights-emoticon.png	🚥
-../EAP/facebook/construction-sign.png	🚧
-../EAP/facebook/barber-emoticon.png	💈
-../EAP/facebook/antenna-signal.png	📶
-../EAP/facebook/no-under-18-sign.png	🔞
-../EAP/facebook/vibration-mode.png	📳
-../EAP/facebook/no-smoking-emoticon.png	🚭
-../EAP/facebook/warning-sign.png	⚠
-../EAP/facebook/no-entry-emoticon.png	⛔
-../EAP/facebook/exclamation-point-emoji.png	❕
-../EAP/facebook/exclamation-mark-emoticon.png	❓
-../EAP/facebook/red-exclamation-mark.png	❗
-../EAP/facebook/question-mark-emoticon.png	❔
-../EAP/facebook/cross-mark-emoticon.png	❌
-../EAP/facebook/cross-mark-emoji.png	❎
-../EAP/facebook/multiplication-x.png	✖
-../EAP/facebook/vs-emoticon-versus.png	🆚
-../EAP/facebook/up-sign.png	🆙
-../EAP/facebook/cool-emoticon-sign.png	🆒
-../EAP/facebook/wheelchair-emoji.png	♿
-../EAP/facebook/curly-loops.png	➿
-../EAP/facebook/wc-emoticon.png	🚾
-../EAP/facebook/congratulations-emoticon.png	㊗
-../EAP/facebook/secret-emoticon.png	㊙
-../EAP/facebook/free-service-emoticon.png	🈂
-../EAP/facebook/available-emoticon.png	🈳
-../EAP/facebook/katakana-koko-emoji.png	🈁
-../EAP/facebook/finger-point-emoticon.png	🈯
-../EAP/facebook/full-emoticon.png	🈵
-../EAP/facebook/sale-emoticon.png	🈹
-../EAP/facebook/have-nothing.png	🈚
-../EAP/facebook/month-emoticon-for-facebook.png	🈷
-../EAP/facebook/own-emoticon.png	🈶
-../EAP/facebook/request-emoticon.png	🈸
-../EAP/facebook/work-emoticon.png	🈺
-../EAP/facebook/good-bargain.png	🉐
-
-../EAP/facebook/rightwards-arrow.png	➡
-../EAP/facebook/downwards-arrow.png	⬇
-../EAP/facebook/leftwards-arrow.png	⬅
-../EAP/facebook/upwards-arrow.png	⬆
-../EAP/facebook/north-east-arrow.png	↗
-../EAP/facebook/north-west-arrow.png	↖
-../EAP/facebook/south-east-arrow.png	↘
-../EAP/facebook/south-west-arrow.png	↙
-../EAP/facebook/up-right-arrow.png	⤴
-../EAP/facebook/arrow-pointing-down-right.png	⤵
-../EAP/facebook/closed-umbrella.png	🌂
-
-../EAP/facebook/hammer-emoticon.png	🔨
-../EAP/facebook/seat-emoticon.png	💺
-../EAP/facebook/Part-Alternation-Mark.png	〽
-../EAP/facebook/trident-emoticon.png	🔱
-../EAP/facebook/noob-emoticon.png	🔰
-../EAP/facebook/mahong-tile-red-dragon.png	🀄
-../EAP/facebook/gem-stone-emoticon.png	💎
-../EAP/facebook/diamond-emoticon.png	💠
-../EAP/facebook/blue-diamond-emoticon.png	🔷
-../EAP/facebook/orange-diamond-emoticon.png	🔶
-../EAP/facebook/emoji_1f538_32.png	🔸
-../EAP/facebook/emoji_1f539_32.png	🔹
-
-../EAP/facebook/emoji_1f532_32.png	🔲
-../EAP/facebook/emoji_1f533_32.png	🔳
-../EAP/facebook/emoji_1f534_32.png	🔴
-../EAP/facebook/emoji_1f535_32.png	🔵
-
-
-../EAP/facebook/emoji_25aa_32.png	▪
-../EAP/facebook/emoji_25ab_32.png	▫
-../EAP/facebook/emoji_25fb_32.png	◻
-../EAP/facebook/emoji_25fc_32.png	◼
-../EAP/facebook/emoji_25fd_32.png	◽
-../EAP/facebook/emoji_25fe_32.png	◾
-../EAP/facebook/emoji_26ab_32.png	⚫
-../EAP/facebook/circle-emoji.png	⚪
-../EAP/facebook/square-emoticon.png	⬜
-../EAP/facebook/emoji_2b1b_32.png	⬛
-../EAP/facebook/emoji_2b55_32.png	⭕
-
-
-
-
-
-! ../EAP/facebook/emoji_1f1e8_1f1f3_32.png	🇨
-! ../EAP/facebook/emoji_1f1e9_1f1ea_32.png	🇩
-! ../EAP/facebook/emoji_1f1ea_1f1f8_32.png	🇪
-! ../EAP/facebook/emoji_1f1eb_1f1f7_32.png	🇫
-! ../EAP/facebook/emoji_1f1ec_1f1e7_32.png	🇬
-! ../EAP/facebook/emoji_1f1ee_1f1f9_32.png	🇮
-! ../EAP/facebook/emoji_1f1ef_1f1f5_32.png	🇯
-! ../EAP/facebook/emoji_1f1f0_1f1f7_32.png	🇰
-! ../EAP/facebook/emoji_1f1f7_1f1fa_32.png	🇷
-! ../EAP/facebook/emoji_1f1fa_1f1f8_32.png	🇺
-! ../EAP/facebook/emoji_23_20e3_32.png	#⃣	
-! ../EAP/facebook/emoji_30_20e3_32.png	0⃣	
-! ../EAP/facebook/emoji_31_20e3_32.png	1⃣	
-! ../EAP/facebook/emoji_32_20e3_32.png	2⃣	
-! ../EAP/facebook/emoji_33_20e3_32.png	3⃣	
-! ../EAP/facebook/emoji_34_20e3_32.png	4⃣	
-! ../EAP/facebook/emoji_35_20e3_32.png	5⃣	
-! ../EAP/facebook/emoji_36_20e3_32.png	6⃣	
-! ../EAP/facebook/emoji_37_20e3_32.png	7⃣
-! ../EAP/facebook/emoji_38_20e3_32.png	8⃣	
-! ../EAP/facebook/emoji_39_20e3_32.png	9⃣	
-! ../EAP/facebook/emoji_blank_32.png	
-
-#Hangout (old gtalk) (To use this theme change "#hangout/" by "hangout/" and "facebook/" by "#facebook/" 
-#hangout/emoji_u263a.png	 ☺ 
-#hangout/emoji_u1f60a.png	 😊 
-#hangout/emoji_u1f600.png	 😀  	:D	:-D
-#hangout/emoji_u1f601.png	 😁   	^_^
-#hangout/emoji_u1f602.png	 😂 
-#hangout/emoji_u1f603.png	 😃 	:) 	:-)	 =)
-#hangout/emoji_u1f604.png	 😄 	=D
-#hangout/emoji_u1f605.png	 😅 	^_^;;
-#hangout/emoji_u1f606.png	 😆 
-#hangout/emoji_u1f607.png	 😇 	O:) 	O:-) 	O=)
-#hangout/emoji_u1f608.png	 😈  	}:) 	}:-)	}=)
-#hangout/emoji_u1f609.png	 😉 	;)  	;-)
-#hangout/emoji_u1f62f.png	 😯 
-#hangout/emoji_u1f610.png	 😐 	:-| 	:| 	=|
-#hangout/emoji_u1f611.png	 😑 	-_-
-#hangout/emoji_u1f615.png	 😕 	:\\ 	:/ 	:-\\ 	:-/ 	=\\ 	=/
-#hangout/emoji_u1f620.png	 😠 
-#hangout/emoji_u1f62c.png	 😬	D:
-#hangout/emoji_u1f621.png	 😡 	>.<  	>:( 	>:-( 	>=(
-#hangout/emoji_u1f622.png	 😢 	T_T 	:'( 	;_; 	='(
-#hangout/emoji_u1f634.png	 😴 
-#hangout/emoji_u1f62e.png	 😮 	o.o 	:o 	:-o 	=o
-#hangout/emoji_u1f623.png	 😣 	>_<
-#hangout/emoji_u1f624.png	 😤 
-#hangout/emoji_u1f625.png	 😥 
-#hangout/emoji_u1f626.png	 😦 
-#hangout/emoji_u1f627.png	 😧 
-#hangout/emoji_u1f628.png	 😨 
-#hangout/emoji_u1f629.png	 😩 
-#hangout/emoji_u1f630.png	 😰 
-#hangout/emoji_u1f61f.png	 😟 
-#hangout/emoji_u1f631.png	 😱 
-#hangout/emoji_u1f632.png	 😲 	O.O 	:O 	:-O 	=O
-#hangout/emoji_u1f633.png	 😳 
-#hangout/emoji_u1f635.png	 😵 	x_x 	X-O 	X-o 	X( 	X-(
-#hangout/emoji_u1f636.png	 😶 
-#hangout/emoji_u1f637.png	 😷 
-#hangout/emoji_u1f61e.png	 😞 	:( 	:-( 	=(
-#hangout/emoji_u1f612.png	 😒 
-#hangout/emoji_u1f60d.png	 😍 
-#hangout/emoji_u1f61b.png	 😛 	:P 	:-P 	=P 	:p 	:-p 	=p
-#hangout/emoji_u1f61c.png	 😜 	;P 	;-P 	;p 	;-p
-#hangout/emoji_u1f61d.png	 😝 
-#hangout/emoji_u1f60b.png	 😋 
-#hangout/emoji_u1f617.png	 😗 	:* 	:-*
-#hangout/emoji_u1f619.png	 😙 
-#hangout/emoji_u1f618.png	 😘 	;* 	;-*
-#hangout/emoji_u1f61a.png	 😚     =*
-#hangout/emoji_u1f60e.png	 😎 	B) 	B-)
-#hangout/emoji_u1f62d.png	 😭 	:''(
-#hangout/emoji_u1f60c.png	 😌 
-#hangout/emoji_u1f616.png	 😖 	:S 	:-S 	:s 	:-s
-#hangout/emoji_u1f614.png	 😔 	u_u
-#hangout/emoji_u1f62a.png	 😪 
-#hangout/emoji_u1f60f.png	 😏 
-#hangout/emoji_u1f613.png	 😓 	o_o;
-#hangout/emoji_u1f62b.png	 😫 
-#hangout/emoji_u1f64b.png	 🙋 
-#hangout/emoji_u1f64c.png	 🙌 
-#hangout/emoji_u1f64d.png	 🙍 
-#hangout/emoji_u1f645.png	 🙅 
-#hangout/emoji_u1f646.png	 🙆 
-#hangout/emoji_u1f647.png	 🙇 
-#hangout/emoji_u1f64e.png	 🙎 
-#hangout/emoji_u1f64f.png	 🙏 
-#hangout/emoji_u1f63a.png	 😺 
-#hangout/emoji_u1f63c.png	 😼 
-#hangout/emoji_u1f638.png	 😸 	:X) 	:3 	(=^..^=)	(=^.^=)	=^_^=
-#hangout/emoji_u1f639.png	 😹 
-#hangout/emoji_u1f63b.png	 😻 
-#hangout/emoji_u1f63d.png	 😽 
-#hangout/emoji_u1f63f.png	 😿 
-#hangout/emoji_u1f63e.png	 😾 
-#hangout/emoji_u1f640.png	 🙀 
-#hangout/emoji_u1f648.png	 🙈 
-#hangout/emoji_u1f649.png	 🙉 
-#hangout/emoji_u1f64a.png	 🙊 
-#hangout/emoji_u1f4a9.png	 💩  	~@~
-#hangout/emoji_u1f476.png	 👶 
-#hangout/emoji_u1f466.png	 👦 
-#hangout/emoji_u1f467.png	 👧 
-#hangout/emoji_u1f468.png	 👨 
-#hangout/emoji_u1f469.png	 👩 
-#hangout/emoji_u1f474.png	 👴 
-#hangout/emoji_u1f475.png	 👵 
-#hangout/emoji_u1f48f.png	 💏 
-#hangout/emoji_u1f491.png	 💑 
-#hangout/emoji_u1f46a.png	 👪 
-#hangout/emoji_u1f46b.png	 👫 
-#hangout/emoji_u1f46c.png	 👬 
-#hangout/emoji_u1f46d.png	 👭 
-#hangout/emoji_u1f464.png	 👤 
-#hangout/emoji_u1f465.png	 👥 
-#hangout/emoji_u1f46e.png	 👮 
-#hangout/emoji_u1f477.png	 👷 
-#hangout/emoji_u1f481.png	 💁 
-#hangout/emoji_u1f482.png	 💂 
-#hangout/emoji_u1f46f.png	 👯 
-#hangout/emoji_u1f470.png	 👰 
-#hangout/emoji_u1f478.png	 👸 
-#hangout/emoji_u1f385.png	 🎅 
-#hangout/emoji_u1f47c.png	 👼 
-#hangout/emoji_u1f471.png	 👱 
-#hangout/emoji_u1f472.png	 👲 
-#hangout/emoji_u1f473.png	 👳 	(]:{
-#hangout/emoji_u1f483.png	 💃 
-#hangout/emoji_u1f486.png	 💆 
-#hangout/emoji_u1f487.png	 💇 
-#hangout/emoji_u1f485.png	 💅 
-#hangout/emoji_u1f47b.png	 👻 
-#hangout/emoji_u1f479.png	 👹 
-#hangout/emoji_u1f47a.png	 👺 
-#hangout/emoji_u1f47d.png	 👽 
-#hangout/emoji_u1f47e.png	 👾 
-#hangout/emoji_u1f47f.png	 👿 
-#hangout/emoji_u1f480.png	 💀 
-#hangout/emoji_u1f4aa.png	 💪 
-#hangout/emoji_u1f440.png	 👀 
-#hangout/emoji_u1f442.png	 👂 
-#hangout/emoji_u1f443.png	 👃 
-#hangout/emoji_u1f463.png	 👣 
-#hangout/emoji_u1f444.png	 👄 
-#hangout/emoji_u1f445.png	 👅 
-#hangout/emoji_u1f48b.png	 💋 
-#hangout/emoji_u2764.png	 ❤ 
-#hangout/emoji_u1f499.png	 💙 
-#hangout/emoji_u1f49a.png	 💚 
-#hangout/emoji_u1f49b.png	 💛 
-#hangout/emoji_u1f49c.png	 💜 	<3
-#hangout/emoji_u1f493.png	 💓 
-#hangout/emoji_u1f494.png	 💔 	<\\3	</3
-#hangout/emoji_u1f495.png	 💕 
-#hangout/emoji_u1f496.png	 💖 
-#hangout/emoji_u1f497.png	 💗 
-#hangout/emoji_u1f498.png	 💘 
-#hangout/emoji_u1f49d.png	 💝 
-#hangout/emoji_u1f49e.png	 💞 
-#hangout/emoji_u1f49f.png	 💟 
-#hangout/emoji_u1f44d.png	 👍	(y)
-#hangout/emoji_u1f44e.png	 👎 
-#hangout/emoji_u1f44c.png	 👌 
-#hangout/emoji_u270a.png	 ✊ 
-#hangout/emoji_u270c.png	 ✌ 
-#hangout/emoji_u270b.png	 ✋ 
-#hangout/emoji_u1f44a.png	 👊 
-#hangout/emoji_u261d.png	 ☝ 
-#hangout/emoji_u1f446.png	 👆 
-#hangout/emoji_u1f447.png	 👇 
-#hangout/emoji_u1f448.png	 👈 
-#hangout/emoji_u1f449.png	 👉 
-#hangout/emoji_u1f44b.png	 👋 
-#hangout/emoji_u1f44f.png	 👏 
-#hangout/emoji_u1f450.png	 👐 
-#hangout/emoji_u1f530.png	 🔰 
-#hangout/emoji_u1f484.png	 💄 
-#hangout/emoji_u1f45e.png	 👞 
-#hangout/emoji_u1f45f.png	 👟 
-#hangout/emoji_u1f451.png	 👑 
-#hangout/emoji_u1f452.png	 👒 
-#hangout/emoji_u1f3a9.png	 🎩 
-#hangout/emoji_u1f393.png	 🎓 
-#hangout/emoji_u1f453.png	 👓 
-#hangout/emoji_u231a.png	 ⌚ 
-#hangout/emoji_u1f454.png	 👔 
-#hangout/emoji_u1f455.png	 👕 
-#hangout/emoji_u1f456.png	 👖 
-#hangout/emoji_u1f457.png	 👗 
-#hangout/emoji_u1f458.png	 👘 
-#hangout/emoji_u1f459.png	 👙 
-#hangout/emoji_u1f460.png	 👠 
-#hangout/emoji_u1f461.png	 👡 
-#hangout/emoji_u1f462.png	 👢 
-#hangout/emoji_u1f45a.png	 👚 
-#hangout/emoji_u1f45c.png	 👜 
-#hangout/emoji_u1f4bc.png	 💼 
-#hangout/emoji_u1f392.png	 🎒 
-#hangout/emoji_u1f45d.png	 👝 
-#hangout/emoji_u1f45b.png	 👛 
-#hangout/emoji_u1f4b0.png	 💰 
-#hangout/emoji_u1f4b3.png	 💳 
-#hangout/emoji_u1f4b2.png	 💲 
-#hangout/emoji_u1f4b5.png	 💵 
-#hangout/emoji_u1f4b4.png	 💴 
-#hangout/emoji_u1f4b6.png	 💶 
-#hangout/emoji_u1f4b7.png	 💷 
-#hangout/emoji_u1f4b8.png	 💸 
-#hangout/emoji_u1f4b1.png	 💱 
-#hangout/emoji_u1f4b9.png	 💹 
-#hangout/emoji_u1f52b.png	 🔫 
-#hangout/emoji_u1f52a.png	 🔪 
-#hangout/emoji_u1f4a3.png	 💣 
-#hangout/emoji_u1f489.png	 💉 
-#hangout/emoji_u1f48a.png	 💊 
-#hangout/emoji_u1f6ac.png	 🚬 
-#hangout/emoji_u1f514.png	 🔔 
-#hangout/emoji_u1f515.png	 🔕 
-#hangout/emoji_u1f6aa.png	 🚪 
-#hangout/emoji_u1f52c.png	 🔬 
-#hangout/emoji_u1f52d.png	 🔭 
-#hangout/emoji_u1f52e.png	 🔮 
-#hangout/emoji_u1f526.png	 🔦 
-#hangout/emoji_u1f50b.png	 🔋 
-#hangout/emoji_u1f50c.png	 🔌 
-#hangout/emoji_u1f4dc.png	 📜 
-#hangout/emoji_u1f4d7.png	 📗 
-#hangout/emoji_u1f4d8.png	 📘 
-#hangout/emoji_u1f4d9.png	 📙 
-#hangout/emoji_u1f4da.png	 📚 
-#hangout/emoji_u1f4d4.png	 📔 
-#hangout/emoji_u1f4d2.png	 📒 
-#hangout/emoji_u1f4d1.png	 📑 
-#hangout/emoji_u1f4d3.png	 📓 
-#hangout/emoji_u1f4d5.png	 📕 
-#hangout/emoji_u1f4d6.png	 📖 
-#hangout/emoji_u1f4f0.png	 📰 
-#hangout/emoji_u1f4db.png	 📛 
-#hangout/emoji_u1f383.png	 🎃 
-#hangout/emoji_u1f384.png	 🎄 
-#hangout/emoji_u1f380.png	 🎀 
-#hangout/emoji_u1f381.png	 🎁 
-#hangout/emoji_u1f382.png	 🎂 
-#hangout/emoji_u1f388.png	 🎈 
-#hangout/emoji_u1f386.png	 🎆 
-#hangout/emoji_u1f387.png	 🎇 
-#hangout/emoji_u1f389.png	 🎉 
-#hangout/emoji_u1f38a.png	 🎊 
-#hangout/emoji_u1f38d.png	 🎍 
-#hangout/emoji_u1f38f.png	 🎏 
-#hangout/emoji_u1f38c.png	 🎌 
-#hangout/emoji_u1f390.png	 🎐 
-#hangout/emoji_u1f38b.png	 🎋 
-#hangout/emoji_u1f38e.png	 🎎 
-#hangout/emoji_u1f4f1.png	 📱 
-#hangout/emoji_u1f4f2.png	 📲 
-#hangout/emoji_u1f4df.png	 📟 
-#hangout/emoji_u260.png	 ☎ 
-#hangout/emoji_u1f4de.png	 📞 
-#hangout/emoji_u1f4e0.png	 📠 
-#hangout/emoji_u1f4e6.png	 📦 
-#hangout/emoji_u2709.png	 ✉ 
-#hangout/emoji_u1f4e8.png	 📨 
-#hangout/emoji_u1f4e9.png	 📩 
-#hangout/emoji_u1f4ea.png	 📪 
-#hangout/emoji_u1f4eb.png	 📫 
-#hangout/emoji_u1f4ed.png	 📭 
-#hangout/emoji_u1f4ec.png	 📬 
-#hangout/emoji_u1f4ee.png	 📮 
-#hangout/emoji_u1f4e4.png	 📤 
-#hangout/emoji_u1f4e5.png	 📥 
-#hangout/emoji_u1f4ef.png	 📯 
-#hangout/emoji_u1f4e2.png	 📢 
-#hangout/emoji_u1f4e3.png	 📣 
-#hangout/emoji_u1f4e1.png	 📡 
-#hangout/emoji_u1f4ac.png	 💬 
-#hangout/emoji_u1f4ad.png	 💭 
-#hangout/emoji_u2712.png	 ✒ 
-#hangout/emoji_u270f.png	 ✏ 
-#hangout/emoji_u1f4dd.png	 📝 
-#hangout/emoji_u1f4cf.png	 📏 
-#hangout/emoji_u1f4d0.png	 📐 
-#hangout/emoji_u1f4cd.png	 📍 
-#hangout/emoji_u1f4cc.png	 📌 
-#hangout/emoji_u1f4ce.png	 📎 
-#hangout/emoji_u2702.png	 ✂ 
-#hangout/emoji_u1f4ba.png	 💺 
-#hangout/emoji_u1f4bb.png	 💻 
-#hangout/emoji_u1f4bd.png	 💽 
-#hangout/emoji_u1f4be.png	 💾 
-#hangout/emoji_u1f4bf.png	 💿 
-#hangout/emoji_u1f4c6.png	 📆 
-#hangout/emoji_u1f4c5.png	 📅 
-#hangout/emoji_u1f4c7.png	 📇 
-#hangout/emoji_u1f4cb.png	 📋 
-#hangout/emoji_u1f4c1.png	 📁 
-#hangout/emoji_u1f4c2.png	 📂 
-#hangout/emoji_u1f4c3.png	 📃 
-#hangout/emoji_u1f4c4.png	 📄 
-#hangout/emoji_u1f4ca.png	 📊 
-#hangout/emoji_u1f4c8.png	 📈 
-#hangout/emoji_u1f4c9.png	 📉 
-#hangout/emoji_u26fa.png	 ⛺ 
-#hangout/emoji_u1f3a1.png	 🎡 
-#hangout/emoji_u1f3a2.png	 🎢 
-#hangout/emoji_u1f3a0.png	 🎠 
-#hangout/emoji_u1f3aa.png	 🎪 
-#hangout/emoji_u1f3a8.png	 🎨 
-#hangout/emoji_u1f3ac.png	 🎬 
-#hangout/emoji_u1f3a5.png	 🎥 
-#hangout/emoji_u1f4f7.png	 📷 
-#hangout/emoji_u1f4f9.png	 📹 
-#hangout/emoji_u1f3a6.png	 🎦 
-#hangout/emoji_u1f3ad.png	 🎭 
-#hangout/emoji_u1f3ab.png	 🎫 
-#hangout/emoji_u1f3ae.png	 🎮 
-#hangout/emoji_u1f3b2.png	 🎲 
-#hangout/emoji_u1f3b0.png	 🎰 
-#hangout/emoji_u1f0cf.png	 🃏 
-#hangout/emoji_u1f3b4.png	 🎴 
-#hangout/emoji_u1f004.png	 🀄 
-#hangout/emoji_u1f3af.png	 🎯 
-#hangout/emoji_u1f4fa.png	 📺 
-#hangout/emoji_u1f4fb.png	 📻 
-#hangout/emoji_u1f4c0.png	 📀 
-#hangout/emoji_u1f4fc.png	 📼 
-#hangout/emoji_u1f3a7.png	 🎧 
-#hangout/emoji_u1f3a4.png	 🎤 
-#hangout/emoji_u1f3b5.png	 🎵 
-#hangout/emoji_u1f3b6.png	 🎶 
-#hangout/emoji_u1f3bc.png	 🎼 
-#hangout/emoji_u1f3bb.png	 🎻 
-#hangout/emoji_u1f3b9.png	 🎹 
-#hangout/emoji_u1f3b7.png	 🎷 
-#hangout/emoji_u1f3ba.png	 🎺 
-#hangout/emoji_u1f3b8.png	 🎸 
-#hangout/emoji_u303d.png	 〽 
-#hangout/emoji_u1f415.png	 🐕 
-#hangout/emoji_u1f436.png	 🐶 
-#hangout/emoji_u1f429.png	 🐩 
-#hangout/emoji_u1f408.png	 🐈 
-#hangout/emoji_u1f431.png	 🐱 
-#hangout/emoji_u1f400.png	 🐀 
-#hangout/emoji_u1f401.png	 🐁 
-#hangout/emoji_u1f42d.png	 🐭 
-#hangout/emoji_u1f439.png	 🐹 
-#hangout/emoji_u1f422.png	 🐢 
-#hangout/emoji_u1f407.png	 🐇 
-#hangout/emoji_u1f430.png	 🐰 
-#hangout/emoji_u1f413.png	 🐓 
-#hangout/emoji_u1f414.png	 🐔 
-#hangout/emoji_u1f423.png	 🐣 
-#hangout/emoji_u1f424.png	 🐤 
-#hangout/emoji_u1f425.png	 🐥 
-#hangout/emoji_u1f426.png	 🐦 
-#hangout/emoji_u1f40f.png	 🐏 
-#hangout/emoji_u1f411.png	 🐑 
-#hangout/emoji_u1f410.png	 🐐 
-#hangout/emoji_u1f43a.png	 🐺 
-#hangout/emoji_u1f403.png	 🐃 
-#hangout/emoji_u1f402.png	 🐂 
-#hangout/emoji_u1f404.png	 🐄 
-#hangout/emoji_u1f42e.png	 🐮 
-#hangout/emoji_u1f434.png	 🐴 
-#hangout/emoji_u1f417.png	 🐗 
-#hangout/emoji_u1f416.png	 🐖 
-#hangout/emoji_u1f437.png	 🐷 	:(:)
-#hangout/emoji_u1f43d.png	 🐽 
-#hangout/emoji_u1f438.png	 🐸 
-#hangout/emoji_u1f40d.png	 🐍 
-#hangout/emoji_u1f43c.png	 🐼 
-#hangout/emoji_u1f427.png	 🐧 
-#hangout/emoji_u1f418.png	 🐘 
-#hangout/emoji_u1f428.png	 🐨 
-#hangout/emoji_u1f412.png	 🐒 
-#hangout/emoji_u1f435.png	 🐵 	:(|)
-#hangout/emoji_u1f406.png	 🐆 
-#hangout/emoji_u1f42f.png	 🐯 
-#hangout/emoji_u1f43b.png	 🐻 
-#hangout/emoji_u1f42b.png	 🐫 
-#hangout/emoji_u1f42a.png	 🐪 
-#hangout/emoji_u1f40a.png	 🐊 
-#hangout/emoji_u1f433.png	 🐳 
-#hangout/emoji_u1f40b.png	 🐋 
-#hangout/emoji_u1f41f.png	 🐟 
-#hangout/emoji_u1f420.png	 🐠 
-#hangout/emoji_u1f421.png	 🐡 
-#hangout/emoji_u1f419.png	 🐙 
-#hangout/emoji_u1f41a.png	 🐚 
-#hangout/emoji_u1f42c.png	 🐬 
-#hangout/emoji_u1f40c.png	 🐌 
-#hangout/emoji_u1f41b.png	 🐛 
-#hangout/emoji_u1f41c.png	 🐜 
-#hangout/emoji_u1f41d.png	 🐝 	-<@%
-#hangout/emoji_u1f41e.png	 🐞 
-#hangout/emoji_u1f432.png	 🐲 
-#hangout/emoji_u1f409.png	 🐉 
-#hangout/emoji_u1f43e.png	 🐾 
-#hangout/emoji_u1f378.png	 🍸 
-#hangout/emoji_u1f37a.png	 🍺 
-#hangout/emoji_u1f37b.png	 🍻 
-#hangout/emoji_u1f377.png	 🍷 
-#hangout/emoji_u1f379.png	 🍹 
-#hangout/emoji_u1f376.png	 🍶 
-#hangout/emoji_u2615.png	 ☕ 
-#hangout/emoji_u1f375.png	 🍵 
-#hangout/emoji_u1f37c.png	 🍼 
-#hangout/emoji_u1f374.png	 🍴 
-#hangout/emoji_u1f368.png	 🍨 
-#hangout/emoji_u1f367.png	 🍧 
-#hangout/emoji_u1f366.png	 🍦 
-#hangout/emoji_u1f369.png	 🍩 
-#hangout/emoji_u1f370.png	 🍰 
-#hangout/emoji_u1f36a.png	 🍪 
-#hangout/emoji_u1f36b.png	 🍫 
-#hangout/emoji_u1f36c.png	 🍬 
-#hangout/emoji_u1f36d.png	 🍭 
-#hangout/emoji_u1f36e.png	 🍮 
-#hangout/emoji_u1f36f.png	 🍯 
-#hangout/emoji_u1f373.png	 🍳 
-#hangout/emoji_u1f354.png	 🍔 
-#hangout/emoji_u1f35f.png	 🍟 
-#hangout/emoji_u1f35d.png	 🍝 
-#hangout/emoji_u1f355.png	 🍕 
-#hangout/emoji_u1f356.png	 🍖 
-#hangout/emoji_u1f357.png	 🍗 
-#hangout/emoji_u1f364.png	 🍤 
-#hangout/emoji_u1f363.png	 🍣 
-#hangout/emoji_u1f371.png	 🍱 
-#hangout/emoji_u1f35e.png	 🍞 
-#hangout/emoji_u1f35c.png	 🍜 
-#hangout/emoji_u1f359.png	 🍙 
-#hangout/emoji_u1f35a.png	 🍚 
-#hangout/emoji_u1f35b.png	 🍛 
-#hangout/emoji_u1f372.png	 🍲 
-#hangout/emoji_u1f365.png	 🍥 
-#hangout/emoji_u1f362.png	 🍢 
-#hangout/emoji_u1f361.png	 🍡 
-#hangout/emoji_u1f358.png	 🍘 
-#hangout/emoji_u1f360.png	 🍠 
-#hangout/emoji_u1f34c.png	 🍌 
-#hangout/emoji_u1f34e.png	 🍎 
-#hangout/emoji_u1f34f.png	 🍏 
-#hangout/emoji_u1f34a.png	 🍊 
-#hangout/emoji_u1f34b.png	 🍋 
-#hangout/emoji_u1f344.png	 🍄 
-#hangout/emoji_u1f345.png	 🍅 
-#hangout/emoji_u1f346.png	 🍆 
-#hangout/emoji_u1f347.png	 🍇 
-#hangout/emoji_u1f348.png	 🍈 
-#hangout/emoji_u1f349.png	 🍉 
-#hangout/emoji_u1f350.png	 🍐 
-#hangout/emoji_u1f351.png	 🍑 
-#hangout/emoji_u1f352.png	 🍒 
-#hangout/emoji_u1f353.png	 🍓 
-#hangout/emoji_u1f34d.png	 🍍 
-#hangout/emoji_u1f330.png	 🌰 
-#hangout/emoji_u1f331.png	 🌱 
-#hangout/emoji_u1f332.png	 🌲 
-#hangout/emoji_u1f333.png	 🌳 
-#hangout/emoji_u1f334.png	 🌴 
-#hangout/emoji_u1f335.png	 🌵 
-#hangout/emoji_u1f337.png	 🌷 
-#hangout/emoji_u1f338.png	 🌸 
-#hangout/emoji_u1f339.png	 🌹 
-#hangout/emoji_u1f340.png	 🍀 
-#hangout/emoji_u1f341.png	 🍁 
-#hangout/emoji_u1f342.png	 🍂 
-#hangout/emoji_u1f343.png	 🍃 
-#hangout/emoji_u1f33a.png	 🌺 
-#hangout/emoji_u1f33b.png	 🌻 
-#hangout/emoji_u1f33c.png	 🌼 
-#hangout/emoji_u1f33d.png	 🌽 
-#hangout/emoji_u1f33e.png	 🌾 
-#hangout/emoji_u1f33f.png	 🌿 
-#hangout/emoji_u2600.png	 ☀ 
-#hangout/emoji_u1f308.png	 🌈 
-#hangout/emoji_u26c5.png	 ⛅ 
-#hangout/emoji_u2601.png	 ☁ 
-#hangout/emoji_u1f301.png	 🌁 
-#hangout/emoji_u1f302.png	 🌂 
-#hangout/emoji_u2614.png	 ☔ 
-#hangout/emoji_u1f4a7.png	 💧 
-#hangout/emoji_u26a1.png	 ⚡ 
-#hangout/emoji_u1f300.png	 🌀 
-#hangout/emoji_u2744.png	 ❄ 
-#hangout/emoji_u26c4.png	 ⛄ 
-#hangout/emoji_u1f319.png	 🌙 
-#hangout/emoji_u1f31e.png	 🌞 
-#hangout/emoji_u1f31d.png	 🌝 
-#hangout/emoji_u1f31a.png	 🌚 
-#hangout/emoji_u1f31b.png	 🌛 
-#hangout/emoji_u1f31c.png	 🌜 
-#hangout/emoji_u1f311.png	 🌑 
-#hangout/emoji_u1f312.png	 🌒 
-#hangout/emoji_u1f313.png	 🌓 
-#hangout/emoji_u1f314.png	 🌔 
-#hangout/emoji_u1f315.png	 🌕 
-#hangout/emoji_u1f316.png	 🌖 
-#hangout/emoji_u1f317.png	 🌗 
-#hangout/emoji_u1f318.png	 🌘 
-#hangout/emoji_u1f391.png	 🎑 
-#hangout/emoji_u1f304.png	 🌄 
-#hangout/emoji_u1f305.png	 🌅 
-#hangout/emoji_u1f307.png	 🌇 
-#hangout/emoji_u1f306.png	 🌆 
-#hangout/emoji_u1f303.png	 🌃 
-#hangout/emoji_u1f30c.png	 🌌 
-#hangout/emoji_u1f309.png	 🌉 
-#hangout/emoji_u1f30a.png	 🌊 
-#hangout/emoji_u1f30b.png	 🌋 
-#hangout/emoji_u1f30e.png	 🌎 
-#hangout/emoji_u1f30f.png	 🌏 
-#hangout/emoji_u1f30d.png	 🌍 
-#hangout/emoji_u1f310.png	 🌐 
-#hangout/emoji_u1f3e0.png	 🏠 
-#hangout/emoji_u1f3e1.png	 🏡 
-#hangout/emoji_u1f3e2.png	 🏢 
-#hangout/emoji_u1f3e3.png	 🏣 
-#hangout/emoji_u1f3e4.png	 🏤 
-#hangout/emoji_u1f3e5.png	 🏥 
-#hangout/emoji_u1f3e6.png	 🏦 
-#hangout/emoji_u1f3e7.png	 🏧 
-#hangout/emoji_u1f3e8.png	 🏨 
-#hangout/emoji_u1f3e9.png	 🏩 
-#hangout/emoji_u1f3ea.png	 🏪 
-#hangout/emoji_u1f3eb.png	 🏫 
-#hangout/emoji_u26ea.png	 ⛪ 
-#hangout/emoji_u26f2.png	 ⛲ 
-#hangout/emoji_u1f3ec.png	 🏬 
-#hangout/emoji_u1f3ef.png	 🏯 
-#hangout/emoji_u1f3f0.png	 🏰 
-#hangout/emoji_u1f3ed.png	 🏭 
-#hangout/emoji_u1f5fb.png	 🗻 
-#hangout/emoji_u1f5fc.png	 🗼 
-#hangout/emoji_u1f5fd.png	 🗽 
-#hangout/emoji_u1f5fe.png	 🗾 
-#hangout/emoji_u1f5ff.png	 🗿 
-#hangout/emoji_u2693.png	 ⚓ 
-#hangout/emoji_u1f3ee.png	 🏮 
-#hangout/emoji_u1f488.png	 💈 
-#hangout/emoji_u1f527.png	 🔧 
-#hangout/emoji_u1f528.png	 🔨 
-#hangout/emoji_u1f529.png	 🔩 
-#hangout/emoji_u1f6bf.png	 🚿 
-#hangout/emoji_u1f6c1.png	 🛁 
-#hangout/emoji_u1f6c0.png	 🛀 
-#hangout/emoji_u1f6bd.png	 🚽 
-#hangout/emoji_u1f6be.png	 🚾 
-#hangout/emoji_u1f3bd.png	 🎽 
-#hangout/emoji_u1f3a3.png	 🎣 
-#hangout/emoji_u1f3b1.png	 🎱 
-#hangout/emoji_u1f3b3.png	 🎳 
-#hangout/emoji_u26be.png	 ⚾ 
-#hangout/emoji_u26f3.png	 ⛳ 
-#hangout/emoji_u1f3be.png	 🎾 
-#hangout/emoji_u26bd.png	 ⚽ 
-#hangout/emoji_u1f3bf.png	 🎿 
-#hangout/emoji_u1f3c0.png	 🏀 
-#hangout/emoji_u1f3c1.png	 🏁 
-#hangout/emoji_u1f3c2.png	 🏂 
-#hangout/emoji_u1f3c3.png	 🏃 
-#hangout/emoji_u1f3c4.png	 🏄 
-#hangout/emoji_u1f3c6.png	 🏆 
-#hangout/emoji_u1f3c7.png	 🏇 
-#hangout/emoji_u1f40e.png	 🐎 
-#hangout/emoji_u1f3c8.png	 🏈 
-#hangout/emoji_u1f3c9.png	 🏉 
-#hangout/emoji_u1f3ca.png	 🏊 
-#hangout/emoji_u1f682.png	 🚂 
-#hangout/emoji_u1f683.png	 🚃 
-#hangout/emoji_u1f684.png	 🚄 
-#hangout/emoji_u1f685.png	 🚅 
-#hangout/emoji_u1f686.png	 🚆 
-#hangout/emoji_u1f687.png	 🚇 
-#hangout/emoji_u24c2.png	 Ⓜ 
-#hangout/emoji_u1f688.png	 🚈 
-#hangout/emoji_u1f68a.png	 🚊 
-#hangout/emoji_u1f68b.png	 🚋 
-#hangout/emoji_u1f68c.png	 🚌 
-#hangout/emoji_u1f68d.png	 🚍 
-#hangout/emoji_u1f68e.png	 🚎 
-#hangout/emoji_u1f68f.png	 🚏 
-#hangout/emoji_u1f690.png	 🚐 
-#hangout/emoji_u1f691.png	 🚑 
-#hangout/emoji_u1f692.png	 🚒 
-#hangout/emoji_u1f693.png	 🚓 
-#hangout/emoji_u1f694.png	 🚔 
-#hangout/emoji_u1f695.png	 🚕 
-#hangout/emoji_u1f696.png	 🚖 
-#hangout/emoji_u1f697.png	 🚗 
-#hangout/emoji_u1f698.png	 🚘 
-#hangout/emoji_u1f699.png	 🚙 
-#hangout/emoji_u1f69a.png	 🚚 
-#hangout/emoji_u1f69b.png	 🚛 
-#hangout/emoji_u1f69c.png	 🚜 
-#hangout/emoji_u1f69d.png	 🚝 
-#hangout/emoji_u1f69e.png	 🚞 
-#hangout/emoji_u1f69f.png	 🚟 
-#hangout/emoji_u1f6a0.png	 🚠 
-#hangout/emoji_u1f6a1.png	 🚡 
-#hangout/emoji_u1f6a2.png	 🚢 
-#hangout/emoji_u1f6a3.png	 🚣 
-#hangout/emoji_u1f681.png	 🚁 
-#hangout/emoji_u2708.png	 ✈ 
-#hangout/emoji_u1f6c2.png	 🛂 
-#hangout/emoji_u1f6c3.png	 🛃 
-#hangout/emoji_u1f6c4.png	 🛄 
-#hangout/emoji_u1f6c5.png	 🛅 
-#hangout/emoji_u26f5.png	 ⛵ 
-#hangout/emoji_u1f6b2.png	 🚲 
-#hangout/emoji_u1f6b3.png	 🚳 
-#hangout/emoji_u1f6b4.png	 🚴 
-#hangout/emoji_u1f6b5.png	 🚵 
-#hangout/emoji_u1f6b7.png	 🚷 
-#hangout/emoji_u1f6b8.png	 🚸 
-#hangout/emoji_u1f689.png	 🚉 
-#hangout/emoji_u1f680.png	 🚀 
-#hangout/emoji_u1f6a4.png	 🚤 
-#hangout/emoji_u1f6b6.png	 🚶 
-#hangout/emoji_u26fd.png	 ⛽ 
-#hangout/emoji_u1f17f.png	 🅿 
-#hangout/emoji_u1f6a5.png	 🚥 
-#hangout/emoji_u1f6a6.png	 🚦 
-#hangout/emoji_u1f6a7.png	 🚧 
-#hangout/emoji_u1f6a8.png	 🚨 
-#hangout/emoji_u2668.png	 ♨ 
-#hangout/emoji_u1f48c.png	 💌 
-#hangout/emoji_u1f48d.png	 💍 
-#hangout/emoji_u1f48e.png	 💎 
-#hangout/emoji_u1f490.png	 💐 
-#hangout/emoji_u1f492.png	 💒 
-#hangout/emoji_ufe4e5.png	 󾓥 
-#hangout/emoji_ufe4e6.png	 󾓦 
-#hangout/emoji_ufe4e7.png	 󾓧 
-#hangout/emoji_ufe4e8.png	 󾓨 
-#hangout/emoji_ufe4e9.png	 󾓩 
-#hangout/emoji_ufe4ea.png	 󾓪 
-#hangout/emoji_ufe4eb.png	 󾓫 
-#hangout/emoji_ufe4ec.png	 󾓬 
-#hangout/emoji_ufe4ed.png	 󾓭 
-#hangout/emoji_ufe4ee.png	 󾓮 
-#hangout/emoji_u1f51d.png	 🔝 
-#hangout/emoji_u1f519.png	 🔙 
-#hangout/emoji_u1f51b.png	 🔛 
-#hangout/emoji_u1f51c.png	 🔜 
-#hangout/emoji_u1f51a.png	 🔚 
-#hangout/emoji_u23f3.png	 ⏳ 
-#hangout/emoji_u231b.png	 ⌛ 
-#hangout/emoji_u23f0.png	 ⏰ 
-#hangout/emoji_u2648.png	 ♈ 
-#hangout/emoji_u2649.png	 ♉ 
-#hangout/emoji_u264a.png	 ♊ 
-#hangout/emoji_u264b.png	 ♋ 
-#hangout/emoji_u264c.png	 ♌ 
-#hangout/emoji_u264d.png	 ♍ 
-#hangout/emoji_u264.png	 ♎ 
-#hangout/emoji_u264f.png	 ♏ 
-#hangout/emoji_u2650.png	 ♐ 
-#hangout/emoji_u2651.png	 ♑ 
-#hangout/emoji_u2652.png	 ♒ 
-#hangout/emoji_u2653.png	 ♓ 
-#hangout/emoji_u26ce.png	 ⛎ 
-#hangout/emoji_u1f531.png	 🔱 
-#hangout/emoji_u1f52f.png	 🔯 
-#hangout/emoji_u1f6bb.png	 🚻 
-#hangout/emoji_u1f6ae.png	 🚮 
-#hangout/emoji_u1f6af.png	 🚯 
-#hangout/emoji_u1f6b0.png	 🚰 
-#hangout/emoji_u1f6b1.png	 🚱 
-#hangout/emoji_u1f170.png	 🅰 
-#hangout/emoji_u1f171.png	 🅱 
-#hangout/emoji_u1f18e.png	 🆎 
-#hangout/emoji_u1f17e.png	 🅾 
-#hangout/emoji_u1f4ae.png	 💮 
-#hangout/emoji_u1f4af.png	 💯 
-#hangout/emoji_u1f520.png	 🔠 
-#hangout/emoji_u1f521.png	 🔡 
-#hangout/emoji_u1f522.png	 🔢 
-#hangout/emoji_u1f523.png	 🔣 
-#hangout/emoji_u1f524.png	 🔤 
-#hangout/emoji_u27bf.png	 ➿ 
-#hangout/emoji_u1f4f6.png	 📶 
-#hangout/emoji_u1f4f3.png	 📳 
-#hangout/emoji_u1f4f4.png	 📴 
-#hangout/emoji_u1f4f5.png	 📵 
-#hangout/emoji_u1f6b9.png	 🚹 
-#hangout/emoji_u1f6ba.png	 🚺 
-#hangout/emoji_u1f6bc.png	 🚼 
-#hangout/emoji_u267f.png	 ♿ 
-#hangout/emoji_u267b.png	 ♻ 
-#hangout/emoji_u1f6ad.png	 🚭 
-#hangout/emoji_u1f6a9.png	 🚩 
-#hangout/emoji_u26a0.png	 ⚠ 
-#hangout/emoji_u1f201.png	 🈁 
-#hangout/emoji_u1f51e.png	 🔞 
-#hangout/emoji_u26d4.png	 ⛔ 
-#hangout/emoji_u1f192.png	 🆒 
-#hangout/emoji_u1f197.png	 🆗 
-#hangout/emoji_u1f195.png	 🆕 
-#hangout/emoji_u1f198.png	 🆘 
-#hangout/emoji_u1f199.png	 🆙 
-#hangout/emoji_u1f193.png	 🆓 
-#hangout/emoji_u1f196.png	 🆖 
-#hangout/emoji_u1f19a.png	 🆚 
-#hangout/emoji_u1f232.png	 🈲 
-#hangout/emoji_u1f233.png	 🈳 
-#hangout/emoji_u1f234.png	 🈴 
-#hangout/emoji_u1f235.png	 🈵 
-#hangout/emoji_u1f236.png	 🈶 
-#hangout/emoji_u1f237.png	 🈷 
-#hangout/emoji_u1f238.png	 🈸 
-#hangout/emoji_u1f239.png	 🈹 
-#hangout/emoji_u1f202.png	 🈂 
-#hangout/emoji_u1f23a.png	 🈺 
-#hangout/emoji_u1f250.png	 🉐 
-#hangout/emoji_u1f251.png	 🉑 
-#hangout/emoji_u3299.png	 ㊙ 
-#hangout/emoji_u00ae.png	 ® 
-#hangout/emoji_u00a9.png	 © 
-#hangout/emoji_u2122.png	 ™ 
-#hangout/emoji_u1f21a.png	 🈚 
-#hangout/emoji_u1f22f.png	 🈯 
-#hangout/emoji_u3297.png	 ㊗ 
-#hangout/emoji_u2b55.png	 ⭕ 
-#hangout/emoji_u274c.png	 ❌ 
-#hangout/emoji_u274.png	 ❎ 
-#hangout/emoji_u2139.png	 ℹ 
-#hangout/emoji_u1f6ab.png	 🚫 
-#hangout/emoji_u2705.png	 ✅ 
-#hangout/emoji_u2714.png	 ✔ 
-#hangout/emoji_u1f517.png	 🔗 
-#hangout/emoji_u2734.png	 ✴ 
-#hangout/emoji_u2733.png	 ✳ 
-#hangout/emoji_u2795.png	 ➕ 
-#hangout/emoji_u2796.png	 ➖ 
-#hangout/emoji_u2716.png	 ✖ 
-#hangout/emoji_u2797.png	 ➗ 
-#hangout/emoji_u1f4a0.png	 💠 
-#hangout/emoji_u1f4a1.png	 💡 
-#hangout/emoji_u1f4a4.png	 💤 
-#hangout/emoji_u1f4a2.png	 💢 
-#hangout/emoji_u1f525.png	 🔥 
-#hangout/emoji_u1f4a5.png	 💥 
-#hangout/emoji_u1f4a8.png	 💨 
-#hangout/emoji_u1f4a6.png	 💦 
-#hangout/emoji_u1f4ab.png	 💫 
-#hangout/emoji_u1f55b.png	 🕛 
-#hangout/emoji_u1f567.png	 🕧 
-#hangout/emoji_u1f550.png	 🕐 
-#hangout/emoji_u1f55c.png	 🕜 
-#hangout/emoji_u1f551.png	 🕑 
-#hangout/emoji_u1f55d.png	 🕝 
-#hangout/emoji_u1f552.png	 🕒 
-#hangout/emoji_u1f55e.png	 🕞 
-#hangout/emoji_u1f553.png	 🕓 
-#hangout/emoji_u1f55f.png	 🕟 
-#hangout/emoji_u1f554.png	 🕔 
-#hangout/emoji_u1f560.png	 🕠 
-#hangout/emoji_u1f555.png	 🕕 
-#hangout/emoji_u1f561.png	 🕡 
-#hangout/emoji_u1f556.png	 🕖 
-#hangout/emoji_u1f562.png	 🕢 
-#hangout/emoji_u1f557.png	 🕗 
-#hangout/emoji_u1f563.png	 🕣 
-#hangout/emoji_u1f558.png	 🕘 
-#hangout/emoji_u1f564.png	 🕤 
-#hangout/emoji_u1f559.png	 🕙 
-#hangout/emoji_u1f565.png	 🕥 
-#hangout/emoji_u1f55a.png	 🕚 
-#hangout/emoji_u1f566.png	 🕦 
-#hangout/emoji_u2195.png	 ↕ 
-#hangout/emoji_u2b06.png	 ⬆ 
-#hangout/emoji_u2197.png	 ↗ 
-#hangout/emoji_u27a1.png	 ➡ 
-#hangout/emoji_u2198.png	 ↘ 
-#hangout/emoji_u2b07.png	 ⬇ 
-#hangout/emoji_u2199.png	 ↙ 
-#hangout/emoji_u2b05.png	 ⬅ 
-#hangout/emoji_u2196.png	 ↖ 
-#hangout/emoji_u2194.png	 ↔ 
-#hangout/emoji_u2934.png	 ⤴ 
-#hangout/emoji_u2935.png	 ⤵ 
-#hangout/emoji_u23ea.png	 ⏪ 
-#hangout/emoji_u23eb.png	 ⏫ 
-#hangout/emoji_u23ec.png	 ⏬ 
-#hangout/emoji_u23000000000.png	 ⏩ 
-#hangout/emoji_u25c0.png	 ◀ 
-#hangout/emoji_u25b6.png	 ▶ 
-#hangout/emoji_u1f53d.png	 🔽 
-#hangout/emoji_u1f53c.png	 🔼 
-#hangout/emoji_u2747.png	 ❇ 
-#hangout/emoji_u2728.png	 ✨ 
-#hangout/emoji_u1f534.png	 🔴 
-#hangout/emoji_u1f535.png	 🔵 
-#hangout/emoji_u26aa.png	 ⚪ 
-#hangout/emoji_u26ab.png	 ⚫ 
-#hangout/emoji_u1f533.png	 🔳 
-#hangout/emoji_u1f532.png	 🔲 
-#hangout/emoji_u2b50.png	 ⭐ 
-#hangout/emoji_u1f31f.png	 🌟 
-#hangout/emoji_u1f320.png	 🌠 
-#hangout/emoji_u25ab.png	 ▫ 
-#hangout/emoji_u25aa.png	 ▪ 
-#hangout/emoji_u25fd.png	 ◽ 
-#hangout/emoji_u25fe.png	 ◾ 
-#hangout/emoji_u25fb.png	 ◻ 
-#hangout/emoji_u25fc.png	 ◼ 
-#hangout/emoji_u2b1c.png	 ⬜ 
-#hangout/emoji_u2b1b.png	 ⬛ 
-#hangout/emoji_u1f538.png	 🔸 
-#hangout/emoji_u1f539.png	 🔹 
-#hangout/emoji_u1f536.png	 🔶 
-#hangout/emoji_u1f537.png	 🔷 
-#hangout/emoji_u1f53a.png	 🔺 
-#hangout/emoji_u1f53b.png	 🔻 
-#hangout/emoji_u1f51f.png	 🔟 
-#hangout/emoji_u2754.png	 ❔ 
-#hangout/emoji_u2753.png	 ❓ 
-#hangout/emoji_u2755.png	 ❕ 
-#hangout/emoji_u2757.png	 ❗ 
-#hangout/emoji_u203c.png	 ‼ 
-#hangout/emoji_u2049.png	 ⁉ 
-#hangout/emoji_u3030.png	 〰 
-#hangout/emoji_u27b0.png	 ➰ 
-#hangout/emoji_u2660.png	 ♠ 
-#hangout/emoji_u2665.png	 ♥ 
-#hangout/emoji_u2663.png	 ♣ 
-#hangout/emoji_u2666.png	 ♦ 
-#hangout/emoji_u1f194.png	 🆔 
-#hangout/emoji_u1f511.png	 🔑 
-#hangout/emoji_u21a9.png	 ↩ 
-#hangout/emoji_u1f191.png	 🆑 
-#hangout/emoji_u1f50d.png	 🔍 
-#hangout/emoji_u1f512.png	 🔒 
-#hangout/emoji_u1f513.png	 🔓 
-#hangout/emoji_u21aa.png	 ↪ 
-#hangout/emoji_u1f510.png	 🔐 
-#hangout/emoji_u2611.png	 ☑ 
-#hangout/emoji_u1f518.png	 🔘 
-#hangout/emoji_u1f50e.png	 🔎 
-#hangout/emoji_u1f516.png	 🔖 
-#hangout/emoji_u1f50f.png	 🔏 
-#hangout/emoji_u1f503.png	 🔃 
-#hangout/emoji_u1f500.png	 🔀 
-#hangout/emoji_u1f501.png	 🔁 
-#hangout/emoji_u1f502.png	 🔂 
-#hangout/emoji_u1f504.png	 🔄 
-#hangout/emoji_u1f4e7.png	 📧 
-#hangout/emoji_u1f505.png	 🔅 
-#hangout/emoji_u1f506.png	 🔆 
-#hangout/emoji_u1f507.png	 🔇 
-#hangout/emoji_u1f508.png	 🔈 
-#hangout/emoji_u1f509.png	 🔉 
-#hangout/emoji_u1f50a.png	 🔊 
-#hangout/emoji_u1f1e6.png	 🇦 
-#hangout/emoji_u1f1e7.png	 🇧 
-#hangout/emoji_u1f1e8.png	 🇨 
-#hangout/emoji_u1f1e9.png	 🇩 
-#hangout/emoji_u1f1ea.png	 🇪 
-#hangout/emoji_u1f1eb.png	 🇫 
-#hangout/emoji_u1f1ec.png	 🇬 
-#hangout/emoji_u1f1ed.png	 🇭 
-#hangout/emoji_u1f1ee.png	 🇮 
-#hangout/emoji_u1f1ef.png	 🇯 
-#hangout/emoji_u1f1f0.png	 🇰 
-#hangout/emoji_u1f1f1.png	 🇱 
-#hangout/emoji_u1f1f2.png	 🇲 
-#hangout/emoji_u1f1f3.png	 🇳 
-#hangout/emoji_u1f1f4.png	 🇴 
-#hangout/emoji_u1f1f5.png	 🇵 
-#hangout/emoji_u1f1f6.png	 🇶 
-#hangout/emoji_u1f1f7.png	 🇷 
-#hangout/emoji_u1f1f8.png	 🇸 
-#hangout/emoji_u1f1f9.png	 🇹 
-#hangout/emoji_u1f1fa.png	 🇺 
-#hangout/emoji_u1f1fb.png	 🇻 
-#hangout/emoji_u1f1fc.png	 🇼 
-#hangout/emoji_u1f1fd.png	 🇽 
-#hangout/emoji_u1f1fe.png	 🇾 
-#hangout/emoji_u1f1ff.png	 🇿 
-#hangout/emoji_u1f405.png	 🐅 
+#Hangout XMPP compatibility 
+[XMPP] 
+../EAP/hangout/emoji_u263a.png	 ☺ 
+../EAP/hangout/emoji_u1f60a.png	 😊 
+../EAP/hangout/emoji_u1f600.png	 😀  	:D	:-D
+../EAP/hangout/emoji_u1f601.png	 😁   	^_^
+../EAP/hangout/emoji_u1f602.png	 😂 
+../EAP/hangout/emoji_u1f603.png	 😃 	:) 	:-)	 =)
+../EAP/hangout/emoji_u1f604.png	 😄 	=D
+../EAP/hangout/emoji_u1f605.png	 😅 	^_^;;
+../EAP/hangout/emoji_u1f606.png	 😆 
+../EAP/hangout/emoji_u1f607.png	 😇 	O:) 	O:-) 	O=)
+../EAP/hangout/emoji_u1f608.png	 😈  	}:) 	}:-)	}=)
+../EAP/hangout/emoji_u1f609.png	 😉 	;)  	;-)
+../EAP/hangout/emoji_u1f62f.png	 😯 
+../EAP/hangout/emoji_u1f610.png	 😐 	:-| 	:| 	=|
+../EAP/hangout/emoji_u1f611.png	 😑 	-_-
+../EAP/hangout/emoji_u1f615.png	 😕 	:\\ 	:/ 	:-\\ 	:-/ 	=\\ 	=/
+../EAP/hangout/emoji_u1f620.png	 😠 
+../EAP/hangout/emoji_u1f62c.png	 😬	D:
+../EAP/hangout/emoji_u1f621.png	 😡 	>.<  	>:( 	>:-( 	>=(
+../EAP/hangout/emoji_u1f622.png	 😢 	T_T 	:'( 	;_; 	='(
+../EAP/hangout/emoji_u1f634.png	 😴 
+../EAP/hangout/emoji_u1f62e.png	 😮 	o.o 	:o 	:-o 	=o
+../EAP/hangout/emoji_u1f623.png	 😣 	>_<
+../EAP/hangout/emoji_u1f624.png	 😤 
+../EAP/hangout/emoji_u1f625.png	 😥 
+../EAP/hangout/emoji_u1f626.png	 😦 
+../EAP/hangout/emoji_u1f627.png	 😧 
+../EAP/hangout/emoji_u1f628.png	 😨 
+../EAP/hangout/emoji_u1f629.png	 😩 
+../EAP/hangout/emoji_u1f630.png	 😰 
+../EAP/hangout/emoji_u1f61f.png	 😟 
+../EAP/hangout/emoji_u1f631.png	 😱 
+../EAP/hangout/emoji_u1f632.png	 😲 	O.O 	:O 	:-O 	=O
+../EAP/hangout/emoji_u1f633.png	 😳 
+../EAP/hangout/emoji_u1f635.png	 😵 	x_x 	X-O 	X-o 	X( 	X-(
+../EAP/hangout/emoji_u1f636.png	 😶 
+../EAP/hangout/emoji_u1f637.png	 😷 
+../EAP/hangout/emoji_u1f61e.png	 😞 	:( 	:-( 	=(
+../EAP/hangout/emoji_u1f612.png	 😒 
+../EAP/hangout/emoji_u1f60d.png	 😍 
+../EAP/hangout/emoji_u1f61b.png	 😛 	:P 	:-P 	=P 	:p 	:-p 	=p
+../EAP/hangout/emoji_u1f61c.png	 😜 	;P 	;-P 	;p 	;-p
+../EAP/hangout/emoji_u1f61d.png	 😝 
+../EAP/hangout/emoji_u1f60b.png	 😋 
+../EAP/hangout/emoji_u1f617.png	 😗 	:* 	:-*
+../EAP/hangout/emoji_u1f619.png	 😙 
+../EAP/hangout/emoji_u1f618.png	 😘 	;* 	;-*
+../EAP/hangout/emoji_u1f61a.png	 😚     =*
+../EAP/hangout/emoji_u1f60e.png	 😎 	B) 	B-)
+../EAP/hangout/emoji_u1f62d.png	 😭 	:''(
+../EAP/hangout/emoji_u1f60c.png	 😌 
+../EAP/hangout/emoji_u1f616.png	 😖 	:S 	:-S 	:s 	:-s
+../EAP/hangout/emoji_u1f614.png	 😔 	u_u
+../EAP/hangout/emoji_u1f62a.png	 😪 
+../EAP/hangout/emoji_u1f60f.png	 😏 
+../EAP/hangout/emoji_u1f613.png	 😓 	o_o;
+../EAP/hangout/emoji_u1f62b.png	 😫 
+! ../EAP/hangout/emoji_u1f64b.png	 🙋 
+! ../EAP/hangout/emoji_u1f64c.png	 🙌 
+! ../EAP/hangout/emoji_u1f64d.png	 🙍 
+! ../EAP/hangout/emoji_u1f645.png	 🙅 
+! ../EAP/hangout/emoji_u1f646.png	 🙆 
+! ../EAP/hangout/emoji_u1f647.png	 🙇 
+! ../EAP/hangout/emoji_u1f64e.png	 🙎 
+! ../EAP/hangout/emoji_u1f64f.png	 🙏 
+! ../EAP/hangout/emoji_u1f63a.png	 😺 
+! ../EAP/hangout/emoji_u1f63c.png	 😼 
+../EAP/hangout/emoji_u1f638.png	 😸 	:X) 	:3 	(=^..^=)	(=^.^=)	=^_^=
+! ../EAP/hangout/emoji_u1f639.png	 😹 
+! ../EAP/hangout/emoji_u1f63b.png	 😻 
+! ../EAP/hangout/emoji_u1f63d.png	 😽 
+! ../EAP/hangout/emoji_u1f63f.png	 😿 
+! ../EAP/hangout/emoji_u1f63e.png	 😾 
+! ../EAP/hangout/emoji_u1f640.png	 🙀 
+../EAP/hangout/emoji_u1f648.png	 🙈 
+../EAP/hangout/emoji_u1f649.png	 🙉 
+../EAP/hangout/emoji_u1f64a.png	 🙊 
+../EAP/hangout/emoji_u1f4a9.png	 💩  	~@~
+! ../EAP/hangout/emoji_u1f476.png	 👶 
+! ../EAP/hangout/emoji_u1f466.png	 👦 
+! ../EAP/hangout/emoji_u1f467.png	 👧 
+! ../EAP/hangout/emoji_u1f468.png	 👨 
+! ../EAP/hangout/emoji_u1f469.png	 👩 
+! ../EAP/hangout/emoji_u1f474.png	 👴 
+! ../EAP/hangout/emoji_u1f475.png	 👵 
+! ../EAP/hangout/emoji_u1f48f.png	 💏 
+! ../EAP/hangout/emoji_u1f491.png	 💑 
+! ../EAP/hangout/emoji_u1f46a.png	 👪 
+! ../EAP/hangout/emoji_u1f46b.png	 👫 
+! ../EAP/hangout/emoji_u1f46c.png	 👬 
+! ../EAP/hangout/emoji_u1f46d.png	 👭 
+! ../EAP/hangout/emoji_u1f464.png	 👤 
+! ../EAP/hangout/emoji_u1f465.png	 👥 
+! ../EAP/hangout/emoji_u1f46e.png	 👮 
+! ../EAP/hangout/emoji_u1f477.png	 👷 
+! ../EAP/hangout/emoji_u1f481.png	 💁 
+! ../EAP/hangout/emoji_u1f482.png	 💂 
+! ../EAP/hangout/emoji_u1f46f.png	 👯 
+! ../EAP/hangout/emoji_u1f470.png	 👰 
+! ../EAP/hangout/emoji_u1f478.png	 👸 
+! ../EAP/hangout/emoji_u1f385.png	 🎅 
+! ../EAP/hangout/emoji_u1f47c.png	 👼 
+! ../EAP/hangout/emoji_u1f471.png	 👱 
+! ../EAP/hangout/emoji_u1f472.png	 👲 
+../EAP/hangout/emoji_u1f473.png	 👳 	(]:{
+! ../EAP/hangout/emoji_u1f483.png	 💃 
+! ../EAP/hangout/emoji_u1f486.png	 💆 
+! ../EAP/hangout/emoji_u1f487.png	 💇 
+! ../EAP/hangout/emoji_u1f485.png	 💅 
+! ../EAP/hangout/emoji_u1f47b.png	 👻 
+! ../EAP/hangout/emoji_u1f479.png	 👹 
+! ../EAP/hangout/emoji_u1f47a.png	 👺 
+../EAP/hangout/emoji_u1f47d.png	 👽 
+../EAP/hangout/emoji_u1f47e.png	 👾 
+../EAP/hangout/emoji_u1f47f.png	 👿 
+../EAP/hangout/emoji_u1f480.png	 💀 
+../EAP/hangout/emoji_u1f4aa.png	 💪 
+../EAP/hangout/emoji_u1f440.png	 👀 
+../EAP/hangout/emoji_u1f442.png	 👂 
+../EAP/hangout/emoji_u1f443.png	 👃 
+../EAP/hangout/emoji_u1f463.png	 👣 
+../EAP/hangout/emoji_u1f444.png	 👄 
+../EAP/hangout/emoji_u1f445.png	 👅 
+../EAP/hangout/emoji_u1f48b.png	 💋 
+! ../EAP/hangout/emoji_u2764.png	 ❤ 
+! ../EAP/hangout/emoji_u1f499.png	 💙 
+! ../EAP/hangout/emoji_u1f49a.png	 💚 
+! ../EAP/hangout/emoji_u1f49b.png	 💛 
+../EAP/hangout/emoji_u1f49c.png	 💜 	<3
+! ../EAP/hangout/emoji_u1f493.png	 💓 
+../EAP/hangout/emoji_u1f494.png	 💔 	<\\3	</3
+! ../EAP/hangout/emoji_u1f495.png	 💕 
+! ../EAP/hangout/emoji_u1f496.png	 💖 
+! ../EAP/hangout/emoji_u1f497.png	 💗 
+! ../EAP/hangout/emoji_u1f498.png	 💘 
+! ../EAP/hangout/emoji_u1f49d.png	 💝 
+! ../EAP/hangout/emoji_u1f49e.png	 💞 
+! ../EAP/hangout/emoji_u1f49f.png	 💟 
+../EAP/hangout/emoji_u1f44d.png	 👍	(y)
+../EAP/hangout/emoji_u1f44e.png	 👎 
+../EAP/hangout/emoji_u1f44c.png	 👌 
+../EAP/hangout/emoji_u270a.png	 ✊ 
+../EAP/hangout/emoji_u270c.png	 ✌ 
+../EAP/hangout/emoji_u270b.png	 ✋ 
+../EAP/hangout/emoji_u1f44a.png	 👊 
+../EAP/hangout/emoji_u261d.png	 ☝ 
+! ../EAP/hangout/emoji_u1f446.png	 👆 
+! ../EAP/hangout/emoji_u1f447.png	 👇 
+! ../EAP/hangout/emoji_u1f448.png	 👈 
+! ../EAP/hangout/emoji_u1f449.png	 👉 
+../EAP/hangout/emoji_u1f44b.png	 👋 
+../EAP/hangout/emoji_u1f44f.png	 👏 
+../EAP/hangout/emoji_u1f450.png	 👐 
+! ../EAP/hangout/emoji_u1f530.png	 🔰 
+../EAP/hangout/emoji_u1f484.png	 💄 
+! ../EAP/hangout/emoji_u1f45e.png	 👞 
+! ../EAP/hangout/emoji_u1f45f.png	 👟 
+! ../EAP/hangout/emoji_u1f451.png	 👑 
+! ../EAP/hangout/emoji_u1f452.png	 👒 
+! ../EAP/hangout/emoji_u1f3a9.png	 🎩 
+! ../EAP/hangout/emoji_u1f393.png	 🎓 
+! ../EAP/hangout/emoji_u1f453.png	 👓 
+! ../EAP/hangout/emoji_u231a.png	 ⌚ 
+! ../EAP/hangout/emoji_u1f454.png	 👔 
+! ../EAP/hangout/emoji_u1f455.png	 👕 
+! ../EAP/hangout/emoji_u1f456.png	 👖 
+! ../EAP/hangout/emoji_u1f457.png	 👗 
+! ../EAP/hangout/emoji_u1f458.png	 👘 
+! ../EAP/hangout/emoji_u1f459.png	 👙 
+! ../EAP/hangout/emoji_u1f460.png	 👠 
+! ../EAP/hangout/emoji_u1f461.png	 👡 
+! ../EAP/hangout/emoji_u1f462.png	 👢 
+! ../EAP/hangout/emoji_u1f45a.png	 👚 
+! ../EAP/hangout/emoji_u1f45c.png	 👜 
+! ../EAP/hangout/emoji_u1f4bc.png	 💼 
+! ../EAP/hangout/emoji_u1f392.png	 🎒 
+! ../EAP/hangout/emoji_u1f45d.png	 👝 
+! ../EAP/hangout/emoji_u1f45b.png	 👛 
+! ../EAP/hangout/emoji_u1f4b0.png	 💰 
+! ../EAP/hangout/emoji_u1f4b3.png	 💳 
+! ../EAP/hangout/emoji_u1f4b2.png	 💲 
+../EAP/hangout/emoji_u1f4b5.png	 💵 
+../EAP/hangout/emoji_u1f4b4.png	 💴 
+../EAP/hangout/emoji_u1f4b6.png	 💶 
+../EAP/hangout/emoji_u1f4b7.png	 💷 
+! ../EAP/hangout/emoji_u1f4b8.png	 💸 
+! ../EAP/hangout/emoji_u1f4b1.png	 💱 
+! ../EAP/hangout/emoji_u1f4b9.png	 💹 
+../EAP/hangout/emoji_u1f52b.png	 🔫 
+../EAP/hangout/emoji_u1f52a.png	 🔪 
+../EAP/hangout/emoji_u1f4a3.png	 💣 
+../EAP/hangout/emoji_u1f489.png	 💉 
+../EAP/hangout/emoji_u1f48a.png	 💊 
+../EAP/hangout/emoji_u1f6ac.png	 🚬 
+! ../EAP/hangout/emoji_u1f514.png	 🔔 
+! ../EAP/hangout/emoji_u1f515.png	 🔕 
+! ../EAP/hangout/emoji_u1f6aa.png	 🚪 
+! ../EAP/hangout/emoji_u1f52c.png	 🔬 
+! ../EAP/hangout/emoji_u1f52d.png	 🔭 
+! ../EAP/hangout/emoji_u1f52e.png	 🔮 
+! ../EAP/hangout/emoji_u1f526.png	 🔦 
+! ../EAP/hangout/emoji_u1f50b.png	 🔋 
+! ../EAP/hangout/emoji_u1f50c.png	 🔌 
+! ../EAP/hangout/emoji_u1f4dc.png	 📜 
+! ../EAP/hangout/emoji_u1f4d7.png	 📗 
+! ../EAP/hangout/emoji_u1f4d8.png	 📘 
+! ../EAP/hangout/emoji_u1f4d9.png	 📙 
+! ../EAP/hangout/emoji_u1f4da.png	 📚 
+! ../EAP/hangout/emoji_u1f4d4.png	 📔 
+! ../EAP/hangout/emoji_u1f4d2.png	 📒 
+! ../EAP/hangout/emoji_u1f4d1.png	 📑 
+! ../EAP/hangout/emoji_u1f4d3.png	 📓 
+! ../EAP/hangout/emoji_u1f4d5.png	 📕 
+! ../EAP/hangout/emoji_u1f4d6.png	 📖 
+! ../EAP/hangout/emoji_u1f4f0.png	 📰 
+! ../EAP/hangout/emoji_u1f4db.png	 📛 
+! ../EAP/hangout/emoji_u1f383.png	 🎃 
+../EAP/hangout/emoji_u1f384.png	 🎄 
+! ../EAP/hangout/emoji_u1f380.png	 🎀 
+../EAP/hangout/emoji_u1f381.png	 🎁 
+../EAP/hangout/emoji_u1f382.png	 🎂 
+! ../EAP/hangout/emoji_u1f388.png	 🎈 
+! ../EAP/hangout/emoji_u1f386.png	 🎆 
+! ../EAP/hangout/emoji_u1f387.png	 🎇 
+! ../EAP/hangout/emoji_u1f389.png	 🎉 
+! ../EAP/hangout/emoji_u1f38a.png	 🎊 
+! ../EAP/hangout/emoji_u1f38d.png	 🎍 
+! ../EAP/hangout/emoji_u1f38f.png	 🎏 
+! ../EAP/hangout/emoji_u1f38c.png	 🎌 
+! ../EAP/hangout/emoji_u1f390.png	 🎐 
+! ../EAP/hangout/emoji_u1f38b.png	 🎋 
+! ../EAP/hangout/emoji_u1f38e.png	 🎎 
+../EAP/hangout/emoji_u1f4f1.png	 📱 
+../EAP/hangout/emoji_u1f4f2.png	 📲 
+! ../EAP/hangout/emoji_u1f4df.png	 📟 
+! ../EAP/hangout/emoji_u260.png	 ☎ 
+../EAP/hangout/emoji_u1f4de.png	 📞 
+! ../EAP/hangout/emoji_u1f4e0.png	 📠 
+! ../EAP/hangout/emoji_u1f4e6.png	 📦 
+../EAP/hangout/emoji_u2709.png	 ✉ 
+! ../EAP/hangout/emoji_u1f4e8.png	 📨 
+! ../EAP/hangout/emoji_u1f4e9.png	 📩 
+! ../EAP/hangout/emoji_u1f4ea.png	 📪 
+! ../EAP/hangout/emoji_u1f4eb.png	 📫 
+! ../EAP/hangout/emoji_u1f4ed.png	 📭 
+! ../EAP/hangout/emoji_u1f4ec.png	 📬 
+! ../EAP/hangout/emoji_u1f4ee.png	 📮 
+! ../EAP/hangout/emoji_u1f4e4.png	 📤 
+! ../EAP/hangout/emoji_u1f4e5.png	 📥 
+! ../EAP/hangout/emoji_u1f4ef.png	 📯 
+! ../EAP/hangout/emoji_u1f4e2.png	 📢 
+! ../EAP/hangout/emoji_u1f4e3.png	 📣 
+! ../EAP/hangout/emoji_u1f4e1.png	 📡 
+! ../EAP/hangout/emoji_u1f4ac.png	 💬 
+! ../EAP/hangout/emoji_u1f4ad.png	 💭 
+! ../EAP/hangout/emoji_u2712.png	 ✒ 
+! ../EAP/hangout/emoji_u270f.png	 ✏ 
+! ../EAP/hangout/emoji_u1f4dd.png	 📝 
+! ../EAP/hangout/emoji_u1f4cf.png	 📏 
+! ../EAP/hangout/emoji_u1f4d0.png	 📐 
+! ../EAP/hangout/emoji_u1f4cd.png	 📍 
+! ../EAP/hangout/emoji_u1f4cc.png	 📌 
+! ../EAP/hangout/emoji_u1f4ce.png	 📎 
+../EAP/hangout/emoji_u2702.png	 ✂ 
+! ../EAP/hangout/emoji_u1f4ba.png	 💺 
+! ../EAP/hangout/emoji_u1f4bb.png	 💻 
+! ../EAP/hangout/emoji_u1f4bd.png	 💽 
+! ../EAP/hangout/emoji_u1f4be.png	 💾 
+! ../EAP/hangout/emoji_u1f4bf.png	 💿 
+! ../EAP/hangout/emoji_u1f4c6.png	 📆 
+! ../EAP/hangout/emoji_u1f4c5.png	 📅 
+! ../EAP/hangout/emoji_u1f4c7.png	 📇 
+! ../EAP/hangout/emoji_u1f4cb.png	 📋 
+! ../EAP/hangout/emoji_u1f4c1.png	 📁 
+! ../EAP/hangout/emoji_u1f4c2.png	 📂 
+! ../EAP/hangout/emoji_u1f4c3.png	 📃 
+! ../EAP/hangout/emoji_u1f4c4.png	 📄 
+! ../EAP/hangout/emoji_u1f4ca.png	 📊 
+! ../EAP/hangout/emoji_u1f4c8.png	 📈 
+! ../EAP/hangout/emoji_u1f4c9.png	 📉 
+! ../EAP/hangout/emoji_u26fa.png	 ⛺ 
+! ../EAP/hangout/emoji_u1f3a1.png	 🎡 
+! ../EAP/hangout/emoji_u1f3a2.png	 🎢 
+! ../EAP/hangout/emoji_u1f3a0.png	 🎠 
+! ../EAP/hangout/emoji_u1f3aa.png	 🎪 
+! ../EAP/hangout/emoji_u1f3a8.png	 🎨 
+! ../EAP/hangout/emoji_u1f3ac.png	 🎬 
+! ../EAP/hangout/emoji_u1f3a5.png	 🎥 
+! ../EAP/hangout/emoji_u1f4f7.png	 📷 
+! ../EAP/hangout/emoji_u1f4f9.png	 📹 
+! ../EAP/hangout/emoji_u1f3a6.png	 🎦 
+! ../EAP/hangout/emoji_u1f3ad.png	 🎭 
+! ../EAP/hangout/emoji_u1f3ab.png	 🎫 
+! ../EAP/hangout/emoji_u1f3ae.png	 🎮 
+! ../EAP/hangout/emoji_u1f3b2.png	 🎲 
+! ../EAP/hangout/emoji_u1f3b0.png	 🎰 
+! ../EAP/hangout/emoji_u1f0cf.png	 🃏 
+! ../EAP/hangout/emoji_u1f3b4.png	 🎴 
+! ../EAP/hangout/emoji_u1f004.png	 🀄 
+! ../EAP/hangout/emoji_u1f3af.png	 🎯 
+! ../EAP/hangout/emoji_u1f4fa.png	 📺 
+! ../EAP/hangout/emoji_u1f4fb.png	 📻 
+! ../EAP/hangout/emoji_u1f4c0.png	 📀 
+! ../EAP/hangout/emoji_u1f4fc.png	 📼 
+! ../EAP/hangout/emoji_u1f3a7.png	 🎧 
+! ../EAP/hangout/emoji_u1f3a4.png	 🎤 
+../EAP/hangout/emoji_u1f3b5.png	 🎵 
+! ../EAP/hangout/emoji_u1f3b6.png	 🎶 
+! ../EAP/hangout/emoji_u1f3bc.png	 🎼 
+! ../EAP/hangout/emoji_u1f3bb.png	 🎻 
+! ../EAP/hangout/emoji_u1f3b9.png	 🎹 
+! ../EAP/hangout/emoji_u1f3b7.png	 🎷 
+! ../EAP/hangout/emoji_u1f3ba.png	 🎺 
+! ../EAP/hangout/emoji_u1f3b8.png	 🎸 
+! ../EAP/hangout/emoji_u303d.png	 〽 
+../EAP/hangout/emoji_u1f415.png	 🐕 
+../EAP/hangout/emoji_u1f436.png	 🐶 
+! ../EAP/hangout/emoji_u1f429.png	 🐩 
+! ../EAP/hangout/emoji_u1f408.png	 🐈 
+../EAP/hangout/emoji_u1f431.png	 🐱 
+! ../EAP/hangout/emoji_u1f400.png	 🐀 
+! ../EAP/hangout/emoji_u1f401.png	 🐁 
+../EAP/hangout/emoji_u1f42d.png	 🐭 
+../EAP/hangout/emoji_u1f439.png	 🐹 
+../EAP/hangout/emoji_u1f422.png	 🐢 
+../EAP/hangout/emoji_u1f407.png	 🐇 
+../EAP/hangout/emoji_u1f430.png	 🐰 
+../EAP/hangout/emoji_u1f413.png	 🐓 
+! ../EAP/hangout/emoji_u1f414.png	 🐔 
+! ../EAP/hangout/emoji_u1f423.png	 🐣 
+! ../EAP/hangout/emoji_u1f424.png	 🐤 
+! ../EAP/hangout/emoji_u1f425.png	 🐥 
+! ../EAP/hangout/emoji_u1f426.png	 🐦 
+! ../EAP/hangout/emoji_u1f40f.png	 🐏 
+! ../EAP/hangout/emoji_u1f411.png	 🐑 
+! ../EAP/hangout/emoji_u1f410.png	 🐐 
+../EAP/hangout/emoji_u1f43a.png	 🐺 
+! ../EAP/hangout/emoji_u1f403.png	 🐃 
+! ../EAP/hangout/emoji_u1f402.png	 🐂 
+! ../EAP/hangout/emoji_u1f404.png	 🐄 
+../EAP/hangout/emoji_u1f42e.png	 🐮 
+../EAP/hangout/emoji_u1f434.png	 🐴 
+! ../EAP/hangout/emoji_u1f417.png	 🐗 
+! ../EAP/hangout/emoji_u1f416.png	 🐖 
+../EAP/hangout/emoji_u1f437.png	 🐷 	:(:)
+! ../EAP/hangout/emoji_u1f43d.png	 🐽 
+! ../EAP/hangout/emoji_u1f438.png	 🐸 
+! ../EAP/hangout/emoji_u1f40d.png	 🐍 
+! ../EAP/hangout/emoji_u1f43c.png	 🐼 
+! ../EAP/hangout/emoji_u1f427.png	 🐧 
+! ../EAP/hangout/emoji_u1f418.png	 🐘 
+! ../EAP/hangout/emoji_u1f428.png	 🐨 
+! ../EAP/hangout/emoji_u1f412.png	 🐒 
+../EAP/hangout/emoji_u1f435.png	 🐵 	:(|)
+! ../EAP/hangout/emoji_u1f406.png	 🐆 
+! ../EAP/hangout/emoji_u1f42f.png	 🐯 
+! ../EAP/hangout/emoji_u1f43b.png	 🐻 
+! ../EAP/hangout/emoji_u1f42b.png	 🐫 
+! ../EAP/hangout/emoji_u1f42a.png	 🐪 
+! ../EAP/hangout/emoji_u1f40a.png	 🐊 
+! ../EAP/hangout/emoji_u1f433.png	 🐳 
+! ../EAP/hangout/emoji_u1f40b.png	 🐋 
+! ../EAP/hangout/emoji_u1f41f.png	 🐟 
+! ../EAP/hangout/emoji_u1f420.png	 🐠 
+! ../EAP/hangout/emoji_u1f421.png	 🐡 
+! ../EAP/hangout/emoji_u1f419.png	 🐙 
+! ../EAP/hangout/emoji_u1f41a.png	 🐚 
+! ../EAP/hangout/emoji_u1f42c.png	 🐬 
+! ../EAP/hangout/emoji_u1f40c.png	 🐌 
+! ../EAP/hangout/emoji_u1f41b.png	 🐛 
+! ../EAP/hangout/emoji_u1f41c.png	 🐜 
+../EAP/hangout/emoji_u1f41d.png	 🐝 	-<@%
+! ../EAP/hangout/emoji_u1f41e.png	 🐞 
+! ../EAP/hangout/emoji_u1f432.png	 🐲 
+! ../EAP/hangout/emoji_u1f409.png	 🐉 
+! ../EAP/hangout/emoji_u1f43e.png	 🐾 
+! ../EAP/hangout/emoji_u1f378.png	 🍸 
+! ../EAP/hangout/emoji_u1f37a.png	 🍺 
+! ../EAP/hangout/emoji_u1f37b.png	 🍻 
+! ../EAP/hangout/emoji_u1f377.png	 🍷 
+! ../EAP/hangout/emoji_u1f379.png	 🍹 
+! ../EAP/hangout/emoji_u1f376.png	 🍶 
+../EAP/hangout/emoji_u2615.png	 ☕ 
+! ../EAP/hangout/emoji_u1f375.png	 🍵 
+! ../EAP/hangout/emoji_u1f37c.png	 🍼 
+../EAP/hangout/emoji_u1f374.png	 🍴 
+! ../EAP/hangout/emoji_u1f368.png	 🍨 
+! ../EAP/hangout/emoji_u1f367.png	 🍧 
+../EAP/hangout/emoji_u1f366.png	 🍦 
+! ../EAP/hangout/emoji_u1f369.png	 🍩 
+! ../EAP/hangout/emoji_u1f370.png	 🍰 
+! ../EAP/hangout/emoji_u1f36a.png	 🍪 
+! ../EAP/hangout/emoji_u1f36b.png	 🍫 
+../EAP/hangout/emoji_u1f36c.png	 🍬 
+../EAP/hangout/emoji_u1f36d.png	 🍭 
+../EAP/hangout/emoji_u1f36e.png	 🍮 
+../EAP/hangout/emoji_u1f36f.png	 🍯 
+../EAP/hangout/emoji_u1f373.png	 🍳 
+../EAP/hangout/emoji_u1f354.png	 🍔 
+../EAP/hangout/emoji_u1f35f.png	 🍟 
+../EAP/hangout/emoji_u1f35d.png	 🍝 
+../EAP/hangout/emoji_u1f355.png	 🍕 
+../EAP/hangout/emoji_u1f356.png	 🍖 
+../EAP/hangout/emoji_u1f357.png	 🍗 
+! ../EAP/hangout/emoji_u1f364.png	 🍤 
+! ../EAP/hangout/emoji_u1f363.png	 🍣 
+! ../EAP/hangout/emoji_u1f371.png	 🍱 
+! ../EAP/hangout/emoji_u1f35e.png	 🍞 
+../EAP/hangout/emoji_u1f35c.png	 🍜 
+../EAP/hangout/emoji_u1f359.png	 🍙 
+../EAP/hangout/emoji_u1f35a.png	 🍚 
+../EAP/hangout/emoji_u1f35b.png	 🍛 
+! ../EAP/hangout/emoji_u1f372.png	 🍲 
+! ../EAP/hangout/emoji_u1f365.png	 🍥 
+! ../EAP/hangout/emoji_u1f362.png	 🍢 
+! ../EAP/hangout/emoji_u1f361.png	 🍡 
+! ../EAP/hangout/emoji_u1f358.png	 🍘 
+! ../EAP/hangout/emoji_u1f360.png	 🍠 
+! ../EAP/hangout/emoji_u1f34c.png	 🍌 
+! ../EAP/hangout/emoji_u1f34e.png	 🍎 
+! ../EAP/hangout/emoji_u1f34f.png	 🍏 
+! ../EAP/hangout/emoji_u1f34a.png	 🍊 
+! ../EAP/hangout/emoji_u1f34b.png	 🍋 
+! ../EAP/hangout/emoji_u1f344.png	 🍄 
+! ../EAP/hangout/emoji_u1f345.png	 🍅 
+! ../EAP/hangout/emoji_u1f346.png	 🍆 
+! ../EAP/hangout/emoji_u1f347.png	 🍇 
+! ../EAP/hangout/emoji_u1f348.png	 🍈 
+! ../EAP/hangout/emoji_u1f349.png	 🍉 
+! ../EAP/hangout/emoji_u1f350.png	 🍐 
+! ../EAP/hangout/emoji_u1f351.png	 🍑 
+! ../EAP/hangout/emoji_u1f352.png	 🍒 
+! ../EAP/hangout/emoji_u1f353.png	 🍓 
+! ../EAP/hangout/emoji_u1f34d.png	 🍍 
+! ../EAP/hangout/emoji_u1f330.png	 🌰 
+! ../EAP/hangout/emoji_u1f331.png	 🌱 
+! ../EAP/hangout/emoji_u1f332.png	 🌲 
+! ../EAP/hangout/emoji_u1f333.png	 🌳 
+! ../EAP/hangout/emoji_u1f334.png	 🌴 
+! ../EAP/hangout/emoji_u1f335.png	 🌵 
+! ../EAP/hangout/emoji_u1f337.png	 🌷 
+! ../EAP/hangout/emoji_u1f338.png	 🌸 
+! ../EAP/hangout/emoji_u1f339.png	 🌹 
+../EAP/hangout/emoji_u1f340.png	 🍀 
+! ../EAP/hangout/emoji_u1f341.png	 🍁 
+! ../EAP/hangout/emoji_u1f342.png	 🍂 
+../EAP/hangout/emoji_u1f343.png	 🍃 
+! ../EAP/hangout/emoji_u1f33a.png	 🌺 
+! ../EAP/hangout/emoji_u1f33b.png	 🌻 
+! ../EAP/hangout/emoji_u1f33c.png	 🌼 
+! ../EAP/hangout/emoji_u1f33d.png	 🌽 
+! ../EAP/hangout/emoji_u1f33e.png	 🌾 
+../EAP/hangout/emoji_u1f33f.png	 🌿 
+../EAP/hangout/emoji_u2600.png	 ☀ 
+../EAP/hangout/emoji_u1f308.png	 🌈 
+../EAP/hangout/emoji_u26c5.png	 ⛅ 
+! ../EAP/hangout/emoji_u2601.png	 ☁ 
+! ../EAP/hangout/emoji_u1f301.png	 🌁 
+../EAP/hangout/emoji_u1f302.png	 🌂 
+../EAP/hangout/emoji_u2614.png	 ☔ 
+! ../EAP/hangout/emoji_u1f4a7.png	 💧 
+! ../EAP/hangout/emoji_u26a1.png	 ⚡ 
+! ../EAP/hangout/emoji_u1f300.png	 🌀 
+! ../EAP/hangout/emoji_u2744.png	 ❄ 
+! ../EAP/hangout/emoji_u26c4.png	 ⛄ 
+! ../EAP/hangout/emoji_u1f319.png	 🌙 
+../EAP/hangout/emoji_u1f31e.png	 🌞 
+../EAP/hangout/emoji_u1f31d.png	 🌝 
+../EAP/hangout/emoji_u1f31a.png	 🌚 
+! ../EAP/hangout/emoji_u1f31b.png	 🌛 
+! ../EAP/hangout/emoji_u1f31c.png	 🌜 
+! ../EAP/hangout/emoji_u1f311.png	 🌑 
+! ../EAP/hangout/emoji_u1f312.png	 🌒 
+! ../EAP/hangout/emoji_u1f313.png	 🌓 
+! ../EAP/hangout/emoji_u1f314.png	 🌔 
+! ../EAP/hangout/emoji_u1f315.png	 🌕 
+! ../EAP/hangout/emoji_u1f316.png	 🌖 
+! ../EAP/hangout/emoji_u1f317.png	 🌗 
+! ../EAP/hangout/emoji_u1f318.png	 🌘 
+! ../EAP/hangout/emoji_u1f391.png	 🎑 
+../EAP/hangout/emoji_u1f304.png	 🌄 
+! ../EAP/hangout/emoji_u1f305.png	 🌅 
+! ../EAP/hangout/emoji_u1f307.png	 🌇 
+! ../EAP/hangout/emoji_u1f306.png	 🌆 
+! ../EAP/hangout/emoji_u1f303.png	 🌃 
+! ../EAP/hangout/emoji_u1f30c.png	 🌌 
+! ../EAP/hangout/emoji_u1f309.png	 🌉 
+! ../EAP/hangout/emoji_u1f30a.png	 🌊 
+! ../EAP/hangout/emoji_u1f30b.png	 🌋 
+! ../EAP/hangout/emoji_u1f30e.png	 🌎 
+! ../EAP/hangout/emoji_u1f30f.png	 🌏 
+! ../EAP/hangout/emoji_u1f30d.png	 🌍 
+! ../EAP/hangout/emoji_u1f310.png	 🌐 
+! ../EAP/hangout/emoji_u1f3e0.png	 🏠 
+! ../EAP/hangout/emoji_u1f3e1.png	 🏡 
+! ../EAP/hangout/emoji_u1f3e2.png	 🏢 
+! ../EAP/hangout/emoji_u1f3e3.png	 🏣 
+! ../EAP/hangout/emoji_u1f3e4.png	 🏤 
+! ../EAP/hangout/emoji_u1f3e5.png	 🏥 
+! ../EAP/hangout/emoji_u1f3e6.png	 🏦 
+! ../EAP/hangout/emoji_u1f3e7.png	 🏧 
+! ../EAP/hangout/emoji_u1f3e8.png	 🏨 
+! ../EAP/hangout/emoji_u1f3e9.png	 🏩 
+! ../EAP/hangout/emoji_u1f3ea.png	 🏪 
+! ../EAP/hangout/emoji_u1f3eb.png	 🏫 
+../EAP/hangout/emoji_u26ea.png	 ⛪ 
+../EAP/hangout/emoji_u26f2.png	 ⛲ 
+! ../EAP/hangout/emoji_u1f3ec.png	 🏬 
+! ../EAP/hangout/emoji_u1f3ef.png	 🏯 
+! ../EAP/hangout/emoji_u1f3f0.png	 🏰 
+../EAP/hangout/emoji_u1f3ed.png	 🏭 
+! ../EAP/hangout/emoji_u1f5fb.png	 🗻 
+../EAP/hangout/emoji_u1f5fc.png	 🗼 
+! ../EAP/hangout/emoji_u1f5fd.png	 🗽 
+! ../EAP/hangout/emoji_u1f5fe.png	 🗾 
+! ../EAP/hangout/emoji_u1f5ff.png	 🗿 
+! ../EAP/hangout/emoji_u2693.png	 ⚓ 
+! ../EAP/hangout/emoji_u1f3ee.png	 🏮 
+! ../EAP/hangout/emoji_u1f488.png	 💈 
+../EAP/hangout/emoji_u1f527.png	 🔧 
+../EAP/hangout/emoji_u1f528.png	 🔨 
+! ../EAP/hangout/emoji_u1f529.png	 🔩 
+! ../EAP/hangout/emoji_u1f6bf.png	 🚿 
+! ../EAP/hangout/emoji_u1f6c1.png	 🛁 
+! ../EAP/hangout/emoji_u1f6c0.png	 🛀 
+! ../EAP/hangout/emoji_u1f6bd.png	 🚽 
+! ../EAP/hangout/emoji_u1f6be.png	 🚾 
+! ../EAP/hangout/emoji_u1f3bd.png	 🎽 
+! ../EAP/hangout/emoji_u1f3a3.png	 🎣 
+! ../EAP/hangout/emoji_u1f3b1.png	 🎱 
+../EAP/hangout/emoji_u1f3b3.png	 🎳 
+../EAP/hangout/emoji_u26be.png	 ⚾ 
+! ../EAP/hangout/emoji_u26f3.png	 ⛳ 
+! ../EAP/hangout/emoji_u1f3be.png	 🎾 
+! ../EAP/hangout/emoji_u26bd.png	 ⚽ 
+! ../EAP/hangout/emoji_u1f3bf.png	 🎿 
+! ../EAP/hangout/emoji_u1f3c0.png	 🏀 
+! ../EAP/hangout/emoji_u1f3c1.png	 🏁 
+! ../EAP/hangout/emoji_u1f3c2.png	 🏂 
+! ../EAP/hangout/emoji_u1f3c3.png	 🏃 
+! ../EAP/hangout/emoji_u1f3c4.png	 🏄 
+! ../EAP/hangout/emoji_u1f3c6.png	 🏆 
+! ../EAP/hangout/emoji_u1f3c7.png	 🏇 
+! ../EAP/hangout/emoji_u1f40e.png	 🐎 
+! ../EAP/hangout/emoji_u1f3c8.png	 🏈 
+! ../EAP/hangout/emoji_u1f3c9.png	 🏉 
+! ../EAP/hangout/emoji_u1f3ca.png	 🏊 
+../EAP/hangout/emoji_u1f682.png	 🚂 
+! ../EAP/hangout/emoji_u1f683.png	 🚃 
+! ../EAP/hangout/emoji_u1f684.png	 🚄 
+../EAP/hangout/emoji_u1f685.png	 🚅 
+! ../EAP/hangout/emoji_u1f686.png	 🚆 
+! ../EAP/hangout/emoji_u1f687.png	 🚇 
+! ../EAP/hangout/emoji_u24c2.png	 Ⓜ 
+! ../EAP/hangout/emoji_u1f688.png	 🚈 
+../EAP/hangout/emoji_u1f68a.png	 🚊 
+! ../EAP/hangout/emoji_u1f68b.png	 🚋 
+! ../EAP/hangout/emoji_u1f68c.png	 🚌 
+! ../EAP/hangout/emoji_u1f68d.png	 🚍 
+! ../EAP/hangout/emoji_u1f68e.png	 🚎 
+! ../EAP/hangout/emoji_u1f68f.png	 🚏 
+! ../EAP/hangout/emoji_u1f690.png	 🚐 
+../EAP/hangout/emoji_u1f691.png	 🚑 
+! ../EAP/hangout/emoji_u1f692.png	 🚒 
+! ../EAP/hangout/emoji_u1f693.png	 🚓 
+! ../EAP/hangout/emoji_u1f694.png	 🚔 
+! ../EAP/hangout/emoji_u1f695.png	 🚕 
+! ../EAP/hangout/emoji_u1f696.png	 🚖 
+! ../EAP/hangout/emoji_u1f697.png	 🚗 
+! ../EAP/hangout/emoji_u1f698.png	 🚘 
+! ../EAP/hangout/emoji_u1f699.png	 🚙 
+! ../EAP/hangout/emoji_u1f69a.png	 🚚 
+! ../EAP/hangout/emoji_u1f69b.png	 🚛 
+! ../EAP/hangout/emoji_u1f69c.png	 🚜 
+! ../EAP/hangout/emoji_u1f69d.png	 🚝 
+! ../EAP/hangout/emoji_u1f69e.png	 🚞 
+! ../EAP/hangout/emoji_u1f69f.png	 🚟 
+! ../EAP/hangout/emoji_u1f6a0.png	 🚠 
+../EAP/hangout/emoji_u1f6a1.png	 🚡 
+! ../EAP/hangout/emoji_u1f6a2.png	 🚢 
+! ../EAP/hangout/emoji_u1f6a3.png	 🚣 
+! ../EAP/hangout/emoji_u1f681.png	 🚁 
+! ../EAP/hangout/emoji_u2708.png	 ✈ 
+! ../EAP/hangout/emoji_u1f6c2.png	 🛂 
+! ../EAP/hangout/emoji_u1f6c3.png	 🛃 
+! ../EAP/hangout/emoji_u1f6c4.png	 🛄 
+! ../EAP/hangout/emoji_u1f6c5.png	 🛅 
+../EAP/hangout/emoji_u26f5.png	 ⛵ 
+../EAP/hangout/emoji_u1f6b2.png	 🚲 
+! ../EAP/hangout/emoji_u1f6b3.png	 🚳 
+! ../EAP/hangout/emoji_u1f6b4.png	 🚴 
+! ../EAP/hangout/emoji_u1f6b5.png	 🚵 
+! ../EAP/hangout/emoji_u1f6b7.png	 🚷 
+! ../EAP/hangout/emoji_u1f6b8.png	 🚸 
+! ../EAP/hangout/emoji_u1f689.png	 🚉 
+! ../EAP/hangout/emoji_u1f680.png	 🚀 
+! ../EAP/hangout/emoji_u1f6a4.png	 🚤 
+! ../EAP/hangout/emoji_u1f6b6.png	 🚶 
+! ../EAP/hangout/emoji_u26fd.png	 ⛽ 
+! ../EAP/hangout/emoji_u1f17f.png	 🅿 
+! ../EAP/hangout/emoji_u1f6a5.png	 🚥 
+! ../EAP/hangout/emoji_u1f6a6.png	 🚦 
+! ../EAP/hangout/emoji_u1f6a7.png	 🚧 
+! ../EAP/hangout/emoji_u1f6a8.png	 🚨 
+! ../EAP/hangout/emoji_u2668.png	 ♨ 
+../EAP/hangout/emoji_u1f48c.png	 💌 
+../EAP/hangout/emoji_u1f48d.png	 💍 
+../EAP/hangout/emoji_u1f48e.png	 💎 
+! ../EAP/hangout/emoji_u1f490.png	 💐 
+! ../EAP/hangout/emoji_u1f492.png	 💒 
+! ../EAP/hangout/emoji_ufe4e5.png	 󾓥 
+! ../EAP/hangout/emoji_ufe4e6.png	 󾓦 
+! ../EAP/hangout/emoji_ufe4e7.png	 󾓧 
+! ../EAP/hangout/emoji_ufe4e8.png	 󾓨 
+! ../EAP/hangout/emoji_ufe4e9.png	 󾓩 
+! ../EAP/hangout/emoji_ufe4ea.png	 󾓪 
+! ../EAP/hangout/emoji_ufe4eb.png	 󾓫 
+! ../EAP/hangout/emoji_ufe4ec.png	 󾓬 
+! ../EAP/hangout/emoji_ufe4ed.png	 󾓭 
+! ../EAP/hangout/emoji_ufe4ee.png	 󾓮 
+! ../EAP/hangout/emoji_u1f51d.png	 🔝 
+! ../EAP/hangout/emoji_u1f519.png	 🔙 
+! ../EAP/hangout/emoji_u1f51b.png	 🔛 
+! ../EAP/hangout/emoji_u1f51c.png	 🔜 
+! ../EAP/hangout/emoji_u1f51a.png	 🔚 
+! ../EAP/hangout/emoji_u23f3.png	 ⏳ 
+! ../EAP/hangout/emoji_u231b.png	 ⌛ 
+! ../EAP/hangout/emoji_u23f0.png	 ⏰ 
+! ../EAP/hangout/emoji_u2648.png	 ♈ 
+! ../EAP/hangout/emoji_u2649.png	 ♉ 
+! ../EAP/hangout/emoji_u264a.png	 ♊ 
+! ../EAP/hangout/emoji_u264b.png	 ♋ 
+! ../EAP/hangout/emoji_u264c.png	 ♌ 
+! ../EAP/hangout/emoji_u264d.png	 ♍ 
+! ../EAP/hangout/emoji_u264.png	 ♎ 
+! ../EAP/hangout/emoji_u264f.png	 ♏ 
+! ../EAP/hangout/emoji_u2650.png	 ♐ 
+! ../EAP/hangout/emoji_u2651.png	 ♑ 
+! ../EAP/hangout/emoji_u2652.png	 ♒ 
+! ../EAP/hangout/emoji_u2653.png	 ♓ 
+! ../EAP/hangout/emoji_u26ce.png	 ⛎ 
+! ../EAP/hangout/emoji_u1f531.png	 🔱 
+! ../EAP/hangout/emoji_u1f52f.png	 🔯 
+! ../EAP/hangout/emoji_u1f6bb.png	 🚻 
+! ../EAP/hangout/emoji_u1f6ae.png	 🚮 
+! ../EAP/hangout/emoji_u1f6af.png	 🚯 
+! ../EAP/hangout/emoji_u1f6b0.png	 🚰 
+! ../EAP/hangout/emoji_u1f6b1.png	 🚱 
+! ../EAP/hangout/emoji_u1f170.png	 🅰 
+! ../EAP/hangout/emoji_u1f171.png	 🅱 
+! ../EAP/hangout/emoji_u1f18e.png	 🆎 
+! ../EAP/hangout/emoji_u1f17e.png	 🅾 
+! ../EAP/hangout/emoji_u1f4ae.png	 💮 
+! ../EAP/hangout/emoji_u1f4af.png	 💯 
+! ../EAP/hangout/emoji_u1f520.png	 🔠 
+! ../EAP/hangout/emoji_u1f521.png	 🔡 
+! ../EAP/hangout/emoji_u1f522.png	 🔢 
+! ../EAP/hangout/emoji_u1f523.png	 🔣 
+! ../EAP/hangout/emoji_u1f524.png	 🔤 
+! ../EAP/hangout/emoji_u27bf.png	 ➿ 
+! ../EAP/hangout/emoji_u1f4f6.png	 📶 
+! ../EAP/hangout/emoji_u1f4f3.png	 📳 
+! ../EAP/hangout/emoji_u1f4f4.png	 📴 
+! ../EAP/hangout/emoji_u1f4f5.png	 📵 
+! ../EAP/hangout/emoji_u1f6b9.png	 🚹 
+! ../EAP/hangout/emoji_u1f6ba.png	 🚺 
+! ../EAP/hangout/emoji_u1f6bc.png	 🚼 
+! ../EAP/hangout/emoji_u267f.png	 ♿ 
+! ../EAP/hangout/emoji_u267b.png	 ♻ 
+! ../EAP/hangout/emoji_u1f6ad.png	 🚭 
+! ../EAP/hangout/emoji_u1f6a9.png	 🚩 
+! ../EAP/hangout/emoji_u26a0.png	 ⚠ 
+! ../EAP/hangout/emoji_u1f201.png	 🈁 
+! ../EAP/hangout/emoji_u1f51e.png	 🔞 
+! ../EAP/hangout/emoji_u26d4.png	 ⛔ 
+! ../EAP/hangout/emoji_u1f192.png	 🆒 
+! ../EAP/hangout/emoji_u1f197.png	 🆗 
+! ../EAP/hangout/emoji_u1f195.png	 🆕 
+! ../EAP/hangout/emoji_u1f198.png	 🆘 
+! ../EAP/hangout/emoji_u1f199.png	 🆙 
+! ../EAP/hangout/emoji_u1f193.png	 🆓 
+! ../EAP/hangout/emoji_u1f196.png	 🆖 
+! ../EAP/hangout/emoji_u1f19a.png	 🆚 
+! ../EAP/hangout/emoji_u1f232.png	 🈲 
+! ../EAP/hangout/emoji_u1f233.png	 🈳 
+! ../EAP/hangout/emoji_u1f234.png	 🈴 
+! ../EAP/hangout/emoji_u1f235.png	 🈵 
+! ../EAP/hangout/emoji_u1f236.png	 🈶 
+! ../EAP/hangout/emoji_u1f237.png	 🈷 
+! ../EAP/hangout/emoji_u1f238.png	 🈸 
+! ../EAP/hangout/emoji_u1f239.png	 🈹 
+! ../EAP/hangout/emoji_u1f202.png	 🈂 
+! ../EAP/hangout/emoji_u1f23a.png	 🈺 
+! ../EAP/hangout/emoji_u1f250.png	 🉐 
+! ../EAP/hangout/emoji_u1f251.png	 🉑 
+! ../EAP/hangout/emoji_u3299.png	 ㊙ 
+! ../EAP/hangout/emoji_u00ae.png	 ® 
+! ../EAP/hangout/emoji_u00a9.png	 © 
+! ../EAP/hangout/emoji_u2122.png	 ™ 
+! ../EAP/hangout/emoji_u1f21a.png	 🈚 
+! ../EAP/hangout/emoji_u1f22f.png	 🈯 
+! ../EAP/hangout/emoji_u3297.png	 ㊗ 
+! ../EAP/hangout/emoji_u2b55.png	 ⭕ 
+! ../EAP/hangout/emoji_u274c.png	 ❌ 
+! ../EAP/hangout/emoji_u274.png	 ❎ 
+! ../EAP/hangout/emoji_u2139.png	 ℹ 
+! ../EAP/hangout/emoji_u1f6ab.png	 🚫 
+! ../EAP/hangout/emoji_u2705.png	 ✅ 
+! ../EAP/hangout/emoji_u2714.png	 ✔ 
+! ../EAP/hangout/emoji_u1f517.png	 🔗 
+! ../EAP/hangout/emoji_u2734.png	 ✴ 
+! ../EAP/hangout/emoji_u2733.png	 ✳ 
+! ../EAP/hangout/emoji_u2795.png	 ➕ 
+! ../EAP/hangout/emoji_u2796.png	 ➖ 
+! ../EAP/hangout/emoji_u2716.png	 ✖ 
+! ../EAP/hangout/emoji_u2797.png	 ➗ 
+../EAP/hangout/emoji_u1f4a0.png	 💠 
+../EAP/hangout/emoji_u1f4a1.png	 💡 
+../EAP/hangout/emoji_u1f4a4.png	 💤 
+../EAP/hangout/emoji_u1f4a2.png	 💢 
+../EAP/hangout/emoji_u1f525.png	 🔥 
+../EAP/hangout/emoji_u1f4a5.png	 💥 
+../EAP/hangout/emoji_u1f4a8.png	 💨 
+../EAP/hangout/emoji_u1f4a6.png	 💦 
+../EAP/hangout/emoji_u1f4ab.png	 💫 
+! ../EAP/hangout/emoji_u1f55b.png	 🕛 
+! ../EAP/hangout/emoji_u1f567.png	 🕧 
+! ../EAP/hangout/emoji_u1f550.png	 🕐 
+! ../EAP/hangout/emoji_u1f55c.png	 🕜 
+! ../EAP/hangout/emoji_u1f551.png	 🕑 
+! ../EAP/hangout/emoji_u1f55d.png	 🕝 
+! ../EAP/hangout/emoji_u1f552.png	 🕒 
+! ../EAP/hangout/emoji_u1f55e.png	 🕞 
+! ../EAP/hangout/emoji_u1f553.png	 🕓 
+! ../EAP/hangout/emoji_u1f55f.png	 🕟 
+! ../EAP/hangout/emoji_u1f554.png	 🕔 
+! ../EAP/hangout/emoji_u1f560.png	 🕠 
+! ../EAP/hangout/emoji_u1f555.png	 🕕 
+! ../EAP/hangout/emoji_u1f561.png	 🕡 
+! ../EAP/hangout/emoji_u1f556.png	 🕖 
+! ../EAP/hangout/emoji_u1f562.png	 🕢 
+! ../EAP/hangout/emoji_u1f557.png	 🕗 
+! ../EAP/hangout/emoji_u1f563.png	 🕣 
+! ../EAP/hangout/emoji_u1f558.png	 🕘 
+! ../EAP/hangout/emoji_u1f564.png	 🕤 
+! ../EAP/hangout/emoji_u1f559.png	 🕙 
+! ../EAP/hangout/emoji_u1f565.png	 🕥 
+! ../EAP/hangout/emoji_u1f55a.png	 🕚 
+! ../EAP/hangout/emoji_u1f566.png	 🕦 
+! ../EAP/hangout/emoji_u2195.png	 ↕ 
+! ../EAP/hangout/emoji_u2b06.png	 ⬆ 
+! ../EAP/hangout/emoji_u2197.png	 ↗ 
+! ../EAP/hangout/emoji_u27a1.png	 ➡ 
+! ../EAP/hangout/emoji_u2198.png	 ↘ 
+! ../EAP/hangout/emoji_u2b07.png	 ⬇ 
+! ../EAP/hangout/emoji_u2199.png	 ↙ 
+! ../EAP/hangout/emoji_u2b05.png	 ⬅ 
+! ../EAP/hangout/emoji_u2196.png	 ↖ 
+! ../EAP/hangout/emoji_u2194.png	 ↔ 
+! ../EAP/hangout/emoji_u2934.png	 ⤴ 
+! ../EAP/hangout/emoji_u2935.png	 ⤵ 
+! ../EAP/hangout/emoji_u23ea.png	 ⏪ 
+! ../EAP/hangout/emoji_u23eb.png	 ⏫ 
+! ../EAP/hangout/emoji_u23ec.png	 ⏬ 
+! ../EAP/hangout/emoji_u23000000000.png	 ⏩ 
+! ../EAP/hangout/emoji_u25c0.png	 ◀ 
+! ../EAP/hangout/emoji_u25b6.png	 ▶ 
+! ../EAP/hangout/emoji_u1f53d.png	 🔽 
+! ../EAP/hangout/emoji_u1f53c.png	 🔼 
+! ../EAP/hangout/emoji_u2747.png	 ❇ 
+! ../EAP/hangout/emoji_u2728.png	 ✨ 
+! ../EAP/hangout/emoji_u1f534.png	 🔴 
+! ../EAP/hangout/emoji_u1f535.png	 🔵 
+! ../EAP/hangout/emoji_u26aa.png	 ⚪ 
+! ../EAP/hangout/emoji_u26ab.png	 ⚫ 
+! ../EAP/hangout/emoji_u1f533.png	 🔳 
+! ../EAP/hangout/emoji_u1f532.png	 🔲 
+! ../EAP/hangout/emoji_u2b50.png	 ⭐ 
+! ../EAP/hangout/emoji_u1f31f.png	 🌟 
+! ../EAP/hangout/emoji_u1f320.png	 🌠 
+! ../EAP/hangout/emoji_u25ab.png	 ▫ 
+! ../EAP/hangout/emoji_u25aa.png	 ▪ 
+! ../EAP/hangout/emoji_u25fd.png	 ◽ 
+! ../EAP/hangout/emoji_u25fe.png	 ◾ 
+! ../EAP/hangout/emoji_u25fb.png	 ◻ 
+! ../EAP/hangout/emoji_u25fc.png	 ◼ 
+! ../EAP/hangout/emoji_u2b1c.png	 ⬜ 
+! ../EAP/hangout/emoji_u2b1b.png	 ⬛ 
+! ../EAP/hangout/emoji_u1f538.png	 🔸 
+! ../EAP/hangout/emoji_u1f539.png	 🔹 
+! ../EAP/hangout/emoji_u1f536.png	 🔶 
+! ../EAP/hangout/emoji_u1f537.png	 🔷 
+! ../EAP/hangout/emoji_u1f53a.png	 🔺 
+! ../EAP/hangout/emoji_u1f53b.png	 🔻 
+! ../EAP/hangout/emoji_u1f51f.png	 🔟 
+! ../EAP/hangout/emoji_u2754.png	 ❔ 
+! ../EAP/hangout/emoji_u2753.png	 ❓ 
+! ../EAP/hangout/emoji_u2755.png	 ❕ 
+! ../EAP/hangout/emoji_u2757.png	 ❗ 
+! ../EAP/hangout/emoji_u203c.png	 ‼ 
+! ../EAP/hangout/emoji_u2049.png	 ⁉ 
+! ../EAP/hangout/emoji_u3030.png	 〰 
+! ../EAP/hangout/emoji_u27b0.png	 ➰ 
+! ../EAP/hangout/emoji_u2660.png	 ♠ 
+! ../EAP/hangout/emoji_u2665.png	 ♥ 
+! ../EAP/hangout/emoji_u2663.png	 ♣ 
+! ../EAP/hangout/emoji_u2666.png	 ♦ 
+! ../EAP/hangout/emoji_u1f194.png	 🆔 
+! ../EAP/hangout/emoji_u1f511.png	 🔑 
+! ../EAP/hangout/emoji_u21a9.png	 ↩ 
+! ../EAP/hangout/emoji_u1f191.png	 🆑 
+! ../EAP/hangout/emoji_u1f50d.png	 🔍 
+! ../EAP/hangout/emoji_u1f512.png	 🔒 
+! ../EAP/hangout/emoji_u1f513.png	 🔓 
+! ../EAP/hangout/emoji_u21aa.png	 ↪ 
+! ../EAP/hangout/emoji_u1f510.png	 🔐 
+! ../EAP/hangout/emoji_u2611.png	 ☑ 
+! ../EAP/hangout/emoji_u1f518.png	 🔘 
+! ../EAP/hangout/emoji_u1f50e.png	 🔎 
+! ../EAP/hangout/emoji_u1f516.png	 🔖 
+! ../EAP/hangout/emoji_u1f50f.png	 🔏 
+! ../EAP/hangout/emoji_u1f503.png	 🔃 
+! ../EAP/hangout/emoji_u1f500.png	 🔀 
+! ../EAP/hangout/emoji_u1f501.png	 🔁 
+! ../EAP/hangout/emoji_u1f502.png	 🔂 
+! ../EAP/hangout/emoji_u1f504.png	 🔄 
+! ../EAP/hangout/emoji_u1f4e7.png	 📧 
+! ../EAP/hangout/emoji_u1f505.png	 🔅 
+! ../EAP/hangout/emoji_u1f506.png	 🔆 
+! ../EAP/hangout/emoji_u1f507.png	 🔇 
+! ../EAP/hangout/emoji_u1f508.png	 🔈 
+! ../EAP/hangout/emoji_u1f509.png	 🔉 
+! ../EAP/hangout/emoji_u1f50a.png	 🔊 
+! ../EAP/hangout/emoji_u1f1e6.png	 🇦 
+! ../EAP/hangout/emoji_u1f1e7.png	 🇧 
+! ../EAP/hangout/emoji_u1f1e8.png	 🇨 
+! ../EAP/hangout/emoji_u1f1e9.png	 🇩 
+! ../EAP/hangout/emoji_u1f1ea.png	 🇪 
+! ../EAP/hangout/emoji_u1f1eb.png	 🇫 
+! ../EAP/hangout/emoji_u1f1ec.png	 🇬 
+! ../EAP/hangout/emoji_u1f1ed.png	 🇭 
+! ../EAP/hangout/emoji_u1f1ee.png	 🇮 
+! ../EAP/hangout/emoji_u1f1ef.png	 🇯 
+! ../EAP/hangout/emoji_u1f1f0.png	 🇰 
+! ../EAP/hangout/emoji_u1f1f1.png	 🇱 
+! ../EAP/hangout/emoji_u1f1f2.png	 🇲 
+! ../EAP/hangout/emoji_u1f1f3.png	 🇳 
+! ../EAP/hangout/emoji_u1f1f4.png	 🇴 
+! ../EAP/hangout/emoji_u1f1f5.png	 🇵 
+! ../EAP/hangout/emoji_u1f1f6.png	 🇶 
+! ../EAP/hangout/emoji_u1f1f7.png	 🇷 
+! ../EAP/hangout/emoji_u1f1f8.png	 🇸 
+! ../EAP/hangout/emoji_u1f1f9.png	 🇹 
+! ../EAP/hangout/emoji_u1f1fa.png	 🇺 
+! ../EAP/hangout/emoji_u1f1fb.png	 🇻 
+! ../EAP/hangout/emoji_u1f1fc.png	 🇼 
+! ../EAP/hangout/emoji_u1f1fd.png	 🇽 
+! ../EAP/hangout/emoji_u1f1fe.png	 🇾 
+! ../EAP/hangout/emoji_u1f1ff.png	 🇿 
+! ../EAP/hangout/emoji_u1f405.png	 🐅 
 
 
 # Tlen.pl
