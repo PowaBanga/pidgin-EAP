@@ -2427,11 +2427,11 @@ skype/Dog.gif	(dog)
 #Hangout XMPP compatibility 
 [XMPP] 
 ../EAP/hangout/emoji_u263a.png	 ☺ 
-../EAP/hangout/emoji_u1f60a.png	 😊 
+../EAP/hangout/emoji_u1f60a.png	 😊	=)
 ../EAP/hangout/emoji_u1f600.png	 😀  	:D	:-D
 ../EAP/hangout/emoji_u1f601.png	 😁   	^_^
 ../EAP/hangout/emoji_u1f602.png	 😂 
-../EAP/hangout/emoji_u1f603.png	 😃 	:) 	:-)	 =)
+../EAP/hangout/emoji_u1f603.png	 😃 	:) 	:-)
 ../EAP/hangout/emoji_u1f604.png	 😄 	=D
 ../EAP/hangout/emoji_u1f605.png	 😅 	^_^;;
 ../EAP/hangout/emoji_u1f606.png	 😆 
