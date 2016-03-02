@@ -1,8 +1,8 @@
 Name=EAP
 Description=A theme différent for each protocols, compatible with the most popular use.
 Icon=earth.png
-Author=v.3.5  - .H.
-Version=3.5
+Author=v.3.6  - .H.
+Version=3.6
 
 
 # Default (taken from Pidgin's default theme)
@@ -2427,11 +2427,11 @@ skype/Dog.gif	(dog)
 #Hangout XMPP compatibility 
 [XMPP] 
 ../EAP/hangout/emoji_u263a.png	 ☺ 
-../EAP/hangout/emoji_u1f60a.png	 😊	=)
+../EAP/hangout/emoji_u1f60a.png	 😊 
 ../EAP/hangout/emoji_u1f600.png	 😀  	:D	:-D
 ../EAP/hangout/emoji_u1f601.png	 😁   	^_^
 ../EAP/hangout/emoji_u1f602.png	 😂 
-../EAP/hangout/emoji_u1f603.png	 😃 	:) 	:-)
+../EAP/hangout/emoji_u1f603.png	 😃 	:) 	:-)	 =)
 ../EAP/hangout/emoji_u1f604.png	 😄 	=D
 ../EAP/hangout/emoji_u1f605.png	 😅 	^_^;;
 ../EAP/hangout/emoji_u1f606.png	 😆 
@@ -2565,7 +2565,7 @@ skype/Dog.gif	(dog)
 ! ../EAP/hangout/emoji_u1f49e.png	 💞 
 ! ../EAP/hangout/emoji_u1f49f.png	 💟 
 ../EAP/hangout/emoji_u1f44d.png	 👍	(y)
-../EAP/hangout/emoji_u1f44e.png	 👎 	(n)
+../EAP/hangout/emoji_u1f44e.png	 👎 
 ../EAP/hangout/emoji_u1f44c.png	 👌 
 ../EAP/hangout/emoji_u270a.png	 ✊ 
 ../EAP/hangout/emoji_u270c.png	 ✌ 
