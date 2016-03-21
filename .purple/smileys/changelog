@@ -1,6 +1,14 @@
 #############################
 # 2016-03-02 14:28:00+02:00 #
 #############################
+ - 3.6
+ - Add Hangout theme in EAP
+   The new plugin for this
+   protocol is created !
+
+#############################
+# 2016-03-02 14:28:00+02:00 #
+#############################
  - Add budylist theme with 
    Ceti (gnome theme) colors
 
