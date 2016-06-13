@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<theme author=".H." 
+	name="Wii Sounds" 
+	type="sound"
+	image="wii_32.png">
+
+  <description>Modified from adium2pidgin theme converter</description>
+
+  <event file="ChannelLaunch.ogg" name="logout"/>
+  <event file="WiiMenuSelect2.ogg" name="send_im"/>
+  <event file="WiiMenuSelect.ogg" name="first_im_recv"/>
+  <event file="WiiMenuSelect4.ogg" name="im_recv"/>
+  <event file="WiiMenuSelect3.ogg" name="login"/>
+	<event name="join_chat" file="WiiMenuSelect3.ogg"/>
+	<event name="left_chat" file="ChannelLaunch.ogg"/>
+	<event name="send_chat_msg" file="WiiMenuSelect2.ogg"/>
+	<event name="chat_msg_recv" file="WiiMenuSelect4.ogg"/>
+	<event name="got_attention" file="WiiMenuSelect.ogg"/>
+	<event name="nick_said" file="WiiMenuSelect.ogg"/>
+</theme>

@@ -16,7 +16,7 @@ Now this theme contain some sounds and buddy list themes.
 
 ![Apple](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/smileys/EAP/apple/apple.png) [MightyText]
 
-![Facebook](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/smileys/EAP/facebook/facebook.png) [Facebook] [XMPP]
+![Facebook](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/smileys/EAP/facebook/facebook.png) [Facebook]
 
 ![Gadu-Gadu](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/smileys/EAP/gg/gadu-gadu.png) [Gadu-Gadu]
 
@@ -35,6 +35,8 @@ Now this theme contain some sounds and buddy list themes.
 ![Tlen](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/smileys/EAP/tlen/tlenpl.png) [Tlen.pl]
 
 ![Yahoo](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/smileys/EAP/yahoo/yahoo.png) [Yahoo]
+
+![Hangout](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/smileys/EAP/hangout/ic_launcher_hangouts.png) [Hangout] [XMPP]
 
 
 **All theme who are in this**
@@ -62,6 +64,7 @@ Now this theme contain some sounds and buddy list themes.
 
 **[Changelog](https://github.com/PowaBanga/pidgin-EAP/blob/master/.purple/smileys/changelog)**
 
+[Google+](https://plus.google.com/u/0/communities/107023083100875615529) [Facebook](https://www.facebook.com/pidgin.eap)
 
 
 _**Install**_ 
@@ -71,7 +74,7 @@ _**Install**_
 Download the zip,
 
 open it and put all the contents of "pidgin-EAP-master/.purple" here :
-- Windows 7 & 8 : %APPDATA%\\.purple
+- Windows 7, 8 & 10 : %APPDATA%\\.purple
 - Windows Vista : C:\Users\username\AppData\Roaming\\.purple
 - Windows XP: C :\Documents and Settings\username\Application Data\\.purple
 - Windows 98 & ME : C:\Windows\Profiles\username\\.purple

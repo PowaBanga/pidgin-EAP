@@ -1,5 +1,42 @@
 #############################
-# 2016-06-03 19:33:53:10+02:00 #
+# 2016-06-13 10:33:40+02:00 #
+#############################
+ - 3.8
+ - Remake sounds themes :
+-----------------------------
+   ° Remake of facebook sound
+     theme
+   ° Remake of all sound theme
+     who come from adium 
+     converter
+      -> now they are some
+         complete and
+         compatible with all
+         event sound in pidgin
+   ° Delete some sounds theme 
+     who are realy not
+     compatible with all events
+     in pidgin
+   ° Convert all sounds .mp3 &
+     .wav into open source .ogg
+     format
+   ° Add "attention" sound
+     into infectedmushroom
+     theme
+-----------------------------
+
+ - add links to Facebook and
+   Google fan page in Readme.md
+
+ - Réorganize the new facebook 
+   theme
+
+ - Set New facebook emoji as 
+   default theme for this
+   protocol
+
+#############################
+# 2016-06-03 19:33:10+02:00 #
 #############################
  - 3.7
  - Add new emoji from facebook

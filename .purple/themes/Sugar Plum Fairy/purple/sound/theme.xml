@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<theme author=".H." 
+	name="Sugar Plum Fairy" 
+	type="sound">
+  <description>Modified from adium2pidgin theme converter</description>
+
+  <event file="Off.ogg" name="logout"/>
+  <event file="Send.ogg" name="send_im"/>
+  <event file="New.ogg" name="first_im_recv"/>
+  <event file="Receive.ogg" name="im_recv"/>
+  <event file="On.ogg" name="login"/>
+	<event name="join_chat" file="On.ogg"/>
+	<event name="left_chat" file="Off.ogg"/>
+	<event name="send_chat_msg" file="Send.ogg"/>
+	<event name="chat_msg_recv" file="Receive.ogg"/>
+	<event name="got_attention" file="New.ogg"/>
+	<event name="nick_said" file="New.ogg"/>
+</theme>

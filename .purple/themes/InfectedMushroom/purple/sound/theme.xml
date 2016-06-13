@@ -1,11 +1,21 @@
 <?xml version="1.0"?>
-<theme author="adium2pidgin conventer" 
+<theme author=".H." 
 	name="InfectedMushroom" 
 	image="icon.jpg"
 	type="sound">
-  <description>Generated at 2011-06-06 13:04 in adium2pidgin theme convert</description>
-  <event file="ContactSignsOut.mp3" name="logout"/>
-  <event file="OutgoingIM.mp3" name="send_im"/>
-  <event file="IncomingIM.mp3" name="im_recv"/>
-  <event file="ContactSignsIn.mp3" name="login"/>
+
+  <description>Modified from adium2pidgin theme converter</description>
+
+  <event file="ContactSignsOut.ogg" name="logout"/>
+  <event file="OutgoingIM.ogg" name="send_im"/>
+  <event file="IncomingIM.ogg" name="im_recv"/>
+  <event file="ContactSignsIn.ogg" name="login"/>
+
+	<event name="join_chat" file="ContactSignsIn.ogg"/>
+	<event name="left_chat" file="ContactSignsOut.ogg"/>
+	<event name="send_chat_msg" file="OutgoingIM.ogg"/>
+	<event name="chat_msg_recv" file="IncomingIM.ogg"/>
+	<event name="got_attention" file="Attention.ogg"/>
+	<event name="nick_said" file="Attention.ogg"/>
+	<event name="first_im_recv" file="Attention.ogg"/>
 </theme>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<theme author=".H." 
+	name="Nintendo DS System Sounds" 
+	type="sound"
+	image="nintendo_ds.png">
+  <description>Modified from adium2pidgin theme converter</description>
+
+  <event file="Message Received.ogg" name="im_recv"/>
+  <event file="Settings Menu Open.ogg" name="login"/>
+  <event file="Settings Menu Close.ogg" name="logout"/>
+  <event file="Bells.ogg" name="left_chat"/>
+  <event file="Message Sent.ogg" name="send_im"/>
+  <event file="PictoChat Enter.ogg" name="first_im_recv"/>
+	<event name="join_chat" file="Settings Menu Open.ogg"/>
+	<event name="left_chat" file="Settings Menu Close.ogg"/>
+	<event name="send_chat_msg" file="Message Sent.ogg"/>
+	<event name="chat_msg_recv" file="Message Received.ogg"/>
+	<event name="got_attention" file="PictoChat Enter.ogg"/>
+	<event name="nick_said" file="PictoChat Enter.ogg"/>
+
+</theme>

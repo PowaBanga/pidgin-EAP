@@ -1,9 +1,19 @@
 <?xml version="1.0"?>
-<theme author="adium2pidgin conventer" name="DotHack" type="sound">
-  <description>Generated at 2011-06-06 13:04 in adium2pidgin theme convert</description>
-  <event file="SignOff.mp3" name="logout"/>
-  <event file="MessageNew.mp3" name="first_im_recv"/>
-  <event file="MessageSent.mp3" name="send_im"/>
-  <event file="MessageReceived.mp3" name="im_recv"/>
-  <event file="SignOn.mp3" name="login"/>
+<theme author=".H."
+	name="DotHack" 
+	type="sound">
+
+  <description>Modified from adium2pidgin theme converter</description>
+
+  <event file="SignOff.ogg" name="logout"/>
+  <event file="MessageNew.ogg" name="first_im_recv"/>
+  <event file="MessageSent.ogg" name="send_im"/>
+  <event file="MessageReceived.ogg" name="im_recv"/>
+  <event file="SignOn.ogg" name="login"/>
+	<event name="join_chat" file="SignOn.ogg"/>
+	<event name="left_chat" file="SignOff.ogg"/>
+	<event name="send_chat_msg" file="MessageSent.ogg"/>
+	<event name="chat_msg_recv" file="MessageReceived.ogg"/>
+	<event name="got_attention" file="MessageNew.ogg"/>
+	<event name="nick_said" file="MessageNew.ogg"/>
 </theme>

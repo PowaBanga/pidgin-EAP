@@ -1,9 +1,20 @@
 <?xml version="1.0"?>
-<theme author="adium2pidgin conventer" name="Ambience" type="sound">
-  <description>Generated at 2011-06-06 13:05 in adium2pidgin theme convert</description>
-  <event file="contact-offline.mp3" name="logout"/>
-  <event file="message-firstreceived.mp3" name="first_im_recv"/>
-  <event file="message-sent.mp3" name="send_im"/>
-  <event file="message-received.mp3" name="im_recv"/>
-  <event file="contact-online.mp3" name="login"/>
+<theme author=".H."
+	name="Ambience" 
+	type="sound">
+
+  <description>Modified from adium2pidgin theme converter</description>
+
+  <event file="contact-offline.ogg" name="logout"/>
+  <event file="message-firstreceived.ogg" name="first_im_recv"/>
+  <event file="message-sent.ogg" name="send_im"/>
+  <event file="message-received.ogg" name="im_recv"/>
+  <event file="contact-online.ogg" name="login"/>
+
+	<event name="join_chat" file="contact-online.ogg"/>
+	<event name="left_chat" file="contact-offline.ogg"/>
+	<event name="send_chat_msg" file="message-sent.ogg"/>
+	<event name="chat_msg_recv" file="message-received.ogg"/>
+	<event name="got_attention" file="message-firstreceived.ogg"/>
+	<event name="nick_said" file="message-firstreceived.ogg"/>
 </theme>

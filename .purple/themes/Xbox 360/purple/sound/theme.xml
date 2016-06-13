@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<theme author=".H." 
+	name="Xbox 360" 
+	type="sound"
+	image="xbox.png">
+
+  <description>Modified from adium2pidgin theme converter</description>
+
+  <event file="guide_close.ogg" name="logout"/>
+  <event file="back.ogg" name="send_im"/>
+  <event file="notification.ogg" name="first_im_recv"/>
+	<event name="send_chat_msg" file="back.ogg"/>
+	<event name="chat_msg_recv" file="cursor.ogg"/>
+  <event file="cursor.ogg" name="im_recv"/>
+  <event file="guide_open.ogg" name="login"/>
+	<event name="join_chat" file="guide_open.ogg"/>
+	<event name="left_chat" file="guide_close.ogg"/>
+	<event name="got_attention" file="notification.ogg"/>
+	<event name="nick_said" file="notification.ogg"/>
+</theme>

@@ -1,8 +1,8 @@
 Name=EAP
 Description=A theme différent for each protocols, compatible with the most popular use.
 Icon=earth.png
-Author=v.3.7  - .H.
-Version=3.7
+Author=v.3.8  - .H.
+Version=3.8
 
 
 # Default (taken from Pidgin's default theme)
@@ -1913,516 +1913,815 @@ skype/Dog.gif	(dog)
 
 # Facebook
 [Facebook]
-../EAP/facebook/facebook-smiley-face-for-comments.png	:) :-) :] =)
-../EAP/facebook/big-smile-emoticon-for-facebook.png	:D :-D =D
-../EAP/facebook/facebook-frown-emoticon.png	:( :-( :[ =(
-../EAP/facebook/facebook-cry-emoticon-crying-symbol.png	:'(
-../EAP/facebook/facebook-tongue-out-emoticon.png	:p :P :-p :-P =P
-../EAP/facebook/angel+emoticon.png	O:) O:-)
-../EAP/facebook/confused-emoticon-wtf-symbol-for-facebook.png	O.o o.O
-../EAP/facebook/wink+emoticon.png	;) ;-)
-../EAP/facebook/surprised+emoticon.png	:o :O :-o :-O
-../EAP/facebook/squinting-emoticon.png	-_-
-../EAP/facebook/angry+emoticon.png	>:o >:O >:-o >:-O
-../EAP/facebook/kiss+emoticon.png	:* :-*
-../EAP/facebook/kiki+emoticon.png	^_^
-../EAP/facebook/glasses+emoticon.png	8-) B-)
-../EAP/facebook/sunglasses+emoticon.png	8| B| 8-| B-| 
-../EAP/facebook/grumpy+emoticon.png	>:( >:-(
-../EAP/facebook/pacman+emoticon.png	:v
-../EAP/facebook/unsure+emoticon.png	:/ :\\ :-/ :-\\
-../EAP/facebook/curly+lips+emoticon.png	:3
-../EAP/facebook/facebook-blush-emoticon.png	☺
+ ../EAP/fbemoji/1f642.png	 🙂 	:) :-) :]
+ ../EAP/fbemoji/263a.png	 ☺ 
+ ../EAP/fbemoji/1f60a.png	 😊 	^_^  =)
+ ../EAP/fbemoji/1f617.png	:* :-*
+ ../EAP/fbemoji/1f60b.png	 😋 
+ ../EAP/fbemoji/1f60c.png	 😌 
+ ../EAP/fbemoji/1f60e.png	 😎 	8-) B-)
+ ../EAP/fbemoji/1f60f.png	 😏 
+ ../EAP/fbemoji/1f61a.png	 😚 
+ ../EAP/fbemoji/1f61b.png	 😛 	:p :P :-p :-P =P
+ ../EAP/fbemoji/1f61c.png	 😜 
+ ../EAP/fbemoji/1f61d.png	 😝 
+ ../EAP/fbemoji/1f62e.png	:o :O :-o :-O
+ ../EAP/fbemoji/1f61e.png	 😞 	:( :-( :[ =(
+ ../EAP/fbemoji/1f611.png	-_-
+ ../EAP/fbemoji/1f62a.png	 😪 
+ ../EAP/fbemoji/1f62b.png	 😫 
+ ../EAP/fbemoji/1f62d.png	 😭 
+ ../EAP/fbemoji/1f601.png	 😁 
+ ../EAP/fbemoji/1f602.png	 😂 
+ ../EAP/fbemoji/1f603.png	 😃 	:D :-D =D
+ ../EAP/fbemoji/1f604.png	 😄 
+ ../EAP/fbemoji/1f605.png	 😅 
+ ../EAP/fbemoji/1f606.png	 😆 
+ ../EAP/fbemoji/1f607.png	 😇 	O:) O:-)
+ ../EAP/fbemoji/1f608.png	 😈 	3:) 3:-)
+ ../EAP/fbemoji/1f609.png	 😉 	;) ;-)
+ ../EAP/fbemoji/1f610.png	 😐 
+ ../EAP/fbemoji/1f615.png	:/ 	 :-/
+ ../EAP/fbemoji/1f612.png	 😒 
+ ../EAP/fbemoji/1f613.png	 😓 
+ ../EAP/fbemoji/1f614.png	 😔 
+ ../EAP/fbemoji/1f616.png	 😖 
+ ../EAP/fbemoji/1f618.png	 😘 
+ ../EAP/fbemoji/1f620.png	 😠 	>:( >:-( >:o >:O >:-o >:-O
+ ../EAP/fbemoji/1f621.png	 😡 
+ ../EAP/fbemoji/1f622.png	 😢 	:'(
+ ../EAP/fbemoji/1f623.png	 😣 
+ ../EAP/fbemoji/1f624.png	 😤 
+ ../EAP/fbemoji/1f625.png	 😥 
+ ../EAP/fbemoji/1f628.png	 😨 
+ ../EAP/fbemoji/1f629.png	 😩 
+ ../EAP/fbemoji/1f630.png	 😰 
+ ../EAP/fbemoji/1f631.png	 😱 
+ ../EAP/fbemoji/1f632.png	 😲 
+ ../EAP/fbemoji/1f633.png	 😳 
+ ../EAP/fbemoji/1f635.png	 😵 
+ ../EAP/fbemoji/1f636.png	 😶 
+ ../EAP/fbemoji/1f637.png	 😷 
+ ../EAP/fbemoji/1f464.png	 👤 
+ ../EAP/fbemoji/1f465.png	 👥 
+ ../EAP/fbemoji/1f466.png	 👦 
+ ../EAP/fbemoji/1f467.png	 👧 
+ ../EAP/fbemoji/1f468.png	 👨 
+ ../EAP/fbemoji/1f469.png	 👩 
+ ../EAP/fbemoji/1f470.png	 👰 
+ ../EAP/fbemoji/1f471.png	 👱 
+ ../EAP/fbemoji/1f472.png	 👲 
+ ../EAP/fbemoji/1f473.png	 👳 
+ ../EAP/fbemoji/1f474.png	 👴 
+ ../EAP/fbemoji/1f475.png	 👵 
+ ../EAP/fbemoji/1f476.png	 👶 
+ ../EAP/fbemoji/1f477.png	 👷 
+ ../EAP/fbemoji/1f478.png	 👸 
+ ../EAP/fbemoji/1f479.png	 👹 
+ ../EAP/fbemoji/1f480.png	 💀 
+ ../EAP/fbemoji/1f481.png	 💁 
+ ../EAP/fbemoji/1f482.png	 💂 
+ ../EAP/fbemoji/1f46e.png	 👮 
+ ../EAP/fbemoji/1f46f.png	 👯 
+ ../EAP/fbemoji/1f47a.png	 👺 
+ ../EAP/fbemoji/1f47b.png	 👻 
+ ../EAP/fbemoji/1f47c.png	 👼 
+ ../EAP/fbemoji/1f47d.png	 👽 
+ ../EAP/fbemoji/1f47e.png	 👾 
+ ../EAP/fbemoji/1f47f.png	 👿 
+ ../EAP/fbemoji/1f63a.png	 😺 
+ ../EAP/fbemoji/1f63b.png	 😻 
+ ../EAP/fbemoji/1f63c.png	 😼 
+ ../EAP/fbemoji/1f63d.png	 😽 
+ ../EAP/fbemoji/1f63e.png	 😾 
+ ../EAP/fbemoji/1f63f.png	 😿 
+ ../EAP/fbemoji/1f638.png	 😸 
+ ../EAP/fbemoji/1f639.png	 😹 
+ ../EAP/fbemoji/1f640.png	 🙀 
+ ../EAP/fbemoji/1f648.png	 🙈 
+ ../EAP/fbemoji/1f649.png	 🙉 
+ ../EAP/fbemoji/1f64a.png	 🙊 
+ ../EAP/fbemoji/1f64b.png	 🙋 
+ ../EAP/fbemoji/1f64c.png	 🙌 
+ ../EAP/fbemoji/1f64d.png	 🙍 
+ ../EAP/fbemoji/1f64e.png	 🙎 
+ ../EAP/fbemoji/1f645.png	 🙅 
+ ../EAP/fbemoji/1f646.png	 🙆 
+ ../EAP/fbemoji/1f647.png	 🙇 
+ ../EAP/fbemoji/1f64f.png	 🙏 
+ ../EAP/fbemoji/1f483.png	 💃 
+ ../EAP/fbemoji/1f46a.png	 👪 
+ ../EAP/fbemoji/1f46b.png	 👫 
+ ../EAP/fbemoji/1f4aa.png	 💪 
+ ../EAP/fbemoji/1f440.png	 👀 
+ ../EAP/fbemoji/1f442.png	 👂 
+ ../EAP/fbemoji/1f443.png	 👃 
+ ../EAP/fbemoji/1f444.png	 👄 
+ ../EAP/fbemoji/1f445.png	 👅 
+ ../EAP/fbemoji/1f446.png	 👆 
+ ../EAP/fbemoji/1f447.png	 👇 
+ ../EAP/fbemoji/1f448.png	 👈 
+ ../EAP/fbemoji/1f449.png	 👉 
+ ../EAP/fbemoji/1f450.png	 👐 
+ ../EAP/fbemoji/261d.png	 ☝ 
+ ../EAP/fbemoji/270a.png	 ✊ 
+ ../EAP/fbemoji/270b.png	 ✋ 
+ ../EAP/fbemoji/270c.png	 ✌ 
+ ../EAP/fbemoji/1f44a.png	 👊 
+ ../EAP/fbemoji/1f44b.png	 👋 
+ ../EAP/fbemoji/1f44c.png	 👌 
+ ../EAP/fbemoji/1f44d.png	 👍 
+ ../EAP/fbemoji/1f44e.png	 👎 
+ ../EAP/fbemoji/1f44f.png	 👏 
+ ../EAP/fbemoji/thumb-up-facebook-emoticon-like-symbol.png	(y)
+ ../EAP/fbemoji/1f46c.png	 👬 
+ ../EAP/fbemoji/1f46d.png	 👭 
+ ../EAP/fbemoji/1f38f.png	 🎏 
+ ../EAP/fbemoji/1f40a.png	 🐊 
+ ../EAP/fbemoji/1f40b.png	 🐋 
+ ../EAP/fbemoji/1f40c.png	 🐌 
+ ../EAP/fbemoji/1f40e.png	 🐎 
+ ../EAP/fbemoji/1f40f.png	 🐏 
+ ../EAP/fbemoji/1f41a.png	 🐚 
+ ../EAP/fbemoji/1f41b.png	 🐛 
+ ../EAP/fbemoji/1f41c.png	 🐜 
+ ../EAP/fbemoji/1f41d.png	 🐝 
+ ../EAP/fbemoji/1f41e.png	 🐞 
+ ../EAP/fbemoji/1f41f.png	 🐟 
+ ../EAP/fbemoji/1f42a.png	 🐪 
+ ../EAP/fbemoji/1f42b.png	 🐫 
+ ../EAP/fbemoji/1f42c.png	 🐬 
+ ../EAP/fbemoji/1f42d.png	 🐭 
+ ../EAP/fbemoji/1f42e.png	 🐮 
+ ../EAP/fbemoji/1f42f.png	 🐯 
+ ../EAP/fbemoji/1f43a.png	 🐺 
+ ../EAP/fbemoji/1f43b.png	 🐻 
+ ../EAP/fbemoji/1f43c.png	 🐼 
+ ../EAP/fbemoji/1f400.png	 🐀 
+ ../EAP/fbemoji/1f401.png	 🐁 
+ ../EAP/fbemoji/1f402.png	 🐂 
+ ../EAP/fbemoji/1f403.png	 🐃 
+ ../EAP/fbemoji/1f404.png	 🐄 
+ ../EAP/fbemoji/1f405.png	 🐅 
+ ../EAP/fbemoji/1f406.png	 🐆 
+ ../EAP/fbemoji/1f407.png	 🐇 
+ ../EAP/fbemoji/1f408.png	 🐈 
+ ../EAP/fbemoji/1f409.png	 🐉 
+ ../EAP/fbemoji/1f410.png	 🐐 
+ ../EAP/fbemoji/1f411.png	 🐑 
+ ../EAP/fbemoji/1f412.png	 🐒 
+ ../EAP/fbemoji/1f413.png	 🐓 
+ ../EAP/fbemoji/1f414.png	 🐔 
+ ../EAP/fbemoji/1f415.png	 🐕 
+ ../EAP/fbemoji/1f416.png	 🐖 
+ ../EAP/fbemoji/1f417.png	 🐗 
+ ../EAP/fbemoji/1f418.png	 🐘 
+ ../EAP/fbemoji/1f419.png	 🐙 
+ ../EAP/fbemoji/1f420.png	 🐠 
+ ../EAP/fbemoji/1f421.png	 🐡 
+ ../EAP/fbemoji/1f422.png	 🐢 
+ ../EAP/fbemoji/1f423.png	 🐣 
+ ../EAP/fbemoji/1f424.png	 🐤 
+ ../EAP/fbemoji/1f425.png	 🐥 
+ ../EAP/fbemoji/1f426.png	 🐦 
+ ../EAP/fbemoji/1f427.png	 🐧 	<(")
+ ../EAP/fbemoji/1f428.png	 🐨 
+ ../EAP/fbemoji/1f429.png	 🐩 
+ ../EAP/fbemoji/1f430.png	 🐰 
+ ../EAP/fbemoji/1f431.png	 🐱 
+ ../EAP/fbemoji/1f432.png	 🐲 
+ ../EAP/fbemoji/1f433.png	 🐳 
+ ../EAP/fbemoji/1f434.png	 🐴 
+ ../EAP/fbemoji/1f435.png	 🐵 
+ ../EAP/fbemoji/1f436.png	 🐶 
+ ../EAP/fbemoji/1f437.png	 🐷 
+ ../EAP/fbemoji/1f438.png	 🐸 
+ ../EAP/fbemoji/1f439.png	 🐹 
+ ../EAP/fbemoji/1f43d.png	 🐽 
+ ../EAP/fbemoji/1f43e.png	 🐾 
+ ../EAP/fbemoji/1f0cf.png	 🃏 
+ ../EAP/fbemoji/1f3a0.png	 🎠 
+ ../EAP/fbemoji/1f330.png	 🌰 
+ ../EAP/fbemoji/1f331.png	 🌱 
+ ../EAP/fbemoji/1f332.png	 🌲 
+ ../EAP/fbemoji/1f334.png	 🌴 
+ ../EAP/fbemoji/1f335.png	 🌵 
+ ../EAP/fbemoji/1f337.png	 🌷 
+ ../EAP/fbemoji/1f338.png	 🌸 
+ ../EAP/fbemoji/1f339.png	 🌹 
+ ../EAP/fbemoji/1f340.png	 🍀 
+ ../EAP/fbemoji/1f341.png	 🍁 
+ ../EAP/fbemoji/1f342.png	 🍂 
+ ../EAP/fbemoji/1f343.png	 🍃 
+ ../EAP/fbemoji/1f33a.png	 🌺 
+ ../EAP/fbemoji/1f33b.png	 🌻 
+ ../EAP/fbemoji/1f33c.png	 🌼 
+ ../EAP/fbemoji/1f33d.png	 🌽 
+ ../EAP/fbemoji/1f33e.png	 🌾 
+ ../EAP/fbemoji/1f33f.png	 🌿 
+ ../EAP/fbemoji/1f34a.png	 🍊 
+ ../EAP/fbemoji/1f34b.png	 🍋 
+ ../EAP/fbemoji/1f34c.png	 🍌 
+ ../EAP/fbemoji/1f34d.png	 🍍 
+ ../EAP/fbemoji/1f34e.png	 🍎 
+ ../EAP/fbemoji/1f34f.png	 🍏 
+ ../EAP/fbemoji/1f35a.png	 🍚 
+ ../EAP/fbemoji/1f35b.png	 🍛 
+ ../EAP/fbemoji/1f35c.png	 🍜 
+ ../EAP/fbemoji/1f35d.png	 🍝 
+ ../EAP/fbemoji/1f35e.png	 🍞 
+ ../EAP/fbemoji/1f35f.png	 🍟 
+ ../EAP/fbemoji/1f36a.png	 🍪 
+ ../EAP/fbemoji/1f36b.png	 🍫 
+ ../EAP/fbemoji/1f36c.png	 🍬 
+ ../EAP/fbemoji/1f36d.png	 🍭 
+ ../EAP/fbemoji/1f36e.png	 🍮 
+ ../EAP/fbemoji/1f36f.png	 🍯 
+ ../EAP/fbemoji/1f37a.png	 🍺 
+ ../EAP/fbemoji/1f37b.png	 🍻 
+ ../EAP/fbemoji/1f37c.png	 🍼 
+ ../EAP/fbemoji/1f344.png	 🍄 
+ ../EAP/fbemoji/1f345.png	 🍅 
+ ../EAP/fbemoji/1f346.png	 🍆 
+ ../EAP/fbemoji/1f347.png	 🍇 
+ ../EAP/fbemoji/1f348.png	 🍈 
+ ../EAP/fbemoji/1f349.png	 🍉 
+ ../EAP/fbemoji/1f350.png	 🍐 
+ ../EAP/fbemoji/1f351.png	 🍑 
+ ../EAP/fbemoji/1f352.png	 🍒 
+ ../EAP/fbemoji/1f353.png	 🍓 
+ ../EAP/fbemoji/1f354.png	 🍔 
+ ../EAP/fbemoji/1f355.png	 🍕 
+ ../EAP/fbemoji/1f356.png	 🍖 
+ ../EAP/fbemoji/1f357.png	 🍗 
+ ../EAP/fbemoji/1f358.png	 🍘 
+ ../EAP/fbemoji/1f359.png	 🍙 
+ ../EAP/fbemoji/1f360.png	 🍠 
+ ../EAP/fbemoji/1f361.png	 🍡 
+ ../EAP/fbemoji/1f362.png	 🍢 
+ ../EAP/fbemoji/1f363.png	 🍣 
+ ../EAP/fbemoji/1f364.png	 🍤 
+ ../EAP/fbemoji/1f365.png	 🍥 
+ ../EAP/fbemoji/1f366.png	 🍦 
+ ../EAP/fbemoji/1f367.png	 🍧 
+ ../EAP/fbemoji/1f368.png	 🍨 
+ ../EAP/fbemoji/1f369.png	 🍩 
+ ../EAP/fbemoji/1f370.png	 🍰 
+ ../EAP/fbemoji/1f371.png	 🍱 
+ ../EAP/fbemoji/1f372.png	 🍲 
+ ../EAP/fbemoji/1f373.png	 🍳 
+ ../EAP/fbemoji/1f374.png	 🍴 
+ ../EAP/fbemoji/1f375.png	 🍵 
+ ../EAP/fbemoji/1f376.png	 🍶 
+ ../EAP/fbemoji/1f377.png	 🍷 
+ ../EAP/fbemoji/1f378.png	 🍸 
+ ../EAP/fbemoji/1f379.png	 🍹 
+ ../EAP/fbemoji/1f3a1.png	 🎡 
+ ../EAP/fbemoji/1f3a2.png	 🎢 
+ ../EAP/fbemoji/1f3a3.png	 🎣 
+ ../EAP/fbemoji/1f3a4.png	 🎤 
+ ../EAP/fbemoji/1f3a5.png	 🎥 
+ ../EAP/fbemoji/1f3a6.png	 🎦 
+ ../EAP/fbemoji/1f3a7.png	 🎧 
+ ../EAP/fbemoji/1f3a8.png	 🎨 
+ ../EAP/fbemoji/1f3a9.png	 🎩 
+ ../EAP/fbemoji/1f3aa.png	 🎪 
+ ../EAP/fbemoji/1f3ab.png	 🎫 
+ ../EAP/fbemoji/1f3ac.png	 🎬 
+ ../EAP/fbemoji/1f3ad.png	 🎭 
+ ../EAP/fbemoji/1f3ae.png	 🎮 
+ ../EAP/fbemoji/1f3af.png	 🎯 
+ ../EAP/fbemoji/1f3b0.png	 🎰 
+ ../EAP/fbemoji/1f3b1.png	 🎱 
+ ../EAP/fbemoji/1f3b2.png	 🎲 
+ ../EAP/fbemoji/1f3b3.png	 🎳 
+ ../EAP/fbemoji/1f3b4.png	 🎴 
+ ../EAP/fbemoji/1f3b5.png	 🎵 
+ ../EAP/fbemoji/1f3b6.png	 🎶 
+ ../EAP/fbemoji/1f3b7.png	 🎷 
+ ../EAP/fbemoji/1f3b8.png	 🎸 
+ ../EAP/fbemoji/1f3b9.png	 🎹 
+ ../EAP/fbemoji/1f3ba.png	 🎺 
+ ../EAP/fbemoji/1f3bb.png	 🎻 
+ ../EAP/fbemoji/1f3bc.png	 🎼 
+ ../EAP/fbemoji/1f3bd.png	 🎽 
+ ../EAP/fbemoji/1f3be.png	 🎾 
+ ../EAP/fbemoji/1f3bf.png	 🎿 
+ ../EAP/fbemoji/1f3c0.png	 🏀 
+ ../EAP/fbemoji/1f3c1.png	 🏁 
+ ../EAP/fbemoji/1f3c2.png	 🏂 
+ ../EAP/fbemoji/1f3c3.png	 🏃 
+ ../EAP/fbemoji/1f3c4.png	 🏄 
+ ../EAP/fbemoji/1f3c6.png	 🏆 
+ ../EAP/fbemoji/1f3c7.png	 🏇 
+ ../EAP/fbemoji/1f3c8.png	 🏈 
+ ../EAP/fbemoji/1f3c9.png	 🏉 
+ ../EAP/fbemoji/1f3ca.png	 🏊 
+ ../EAP/fbemoji/1f3e0.png	 🏠 
+ ../EAP/fbemoji/1f3e1.png	 🏡 
+ ../EAP/fbemoji/1f3e2.png	 🏢 
+ ../EAP/fbemoji/1f3e3.png	 🏣 
+ ../EAP/fbemoji/1f3e4.png	 🏤 
+ ../EAP/fbemoji/1f3e5.png	 🏥 
+ ../EAP/fbemoji/1f3e6.png	 🏦 
+ ../EAP/fbemoji/1f3e7.png	 🏧 
+ ../EAP/fbemoji/1f3e8.png	 🏨 
+ ../EAP/fbemoji/1f3e9.png	 🏩 
+ ../EAP/fbemoji/1f3ea.png	 🏪 
+ ../EAP/fbemoji/1f3eb.png	 🏫 
+ ../EAP/fbemoji/1f3ec.png	 🏬 
+ ../EAP/fbemoji/1f3ed.png	 🏭 
+ ../EAP/fbemoji/1f3ee.png	 🏮 
+ ../EAP/fbemoji/1f3ef.png	 🏯 
+ ../EAP/fbemoji/1f3f0.png	 🏰 
+ ../EAP/fbemoji/1f004.png	 🀄 
+ ../EAP/fbemoji/1f4a0.png	 💠 
+ ../EAP/fbemoji/1f4a1.png	 💡 
+ ../EAP/fbemoji/1f4a2.png	 💢 
+ ../EAP/fbemoji/1f4a3.png	 💣 
+ ../EAP/fbemoji/1f4a4.png	 💤 
+ ../EAP/fbemoji/1f4a5.png	 💥 
+ ../EAP/fbemoji/1f4a6.png	 💦 
+ ../EAP/fbemoji/1f4a7.png	 💧 
+ ../EAP/fbemoji/1f4a8.png	 💨 
+ ../EAP/fbemoji/1f4a9.png	 💩 
+ ../EAP/fbemoji/1f4ab.png	 💫 
+ ../EAP/fbemoji/1f4ac.png	 💬 
+ ../EAP/fbemoji/1f4ad.png	 💭 
+ ../EAP/fbemoji/1f4ae.png	 💮 
+ ../EAP/fbemoji/1f4af.png	 💯 
+ ../EAP/fbemoji/1f4b0.png	 💰 
+ ../EAP/fbemoji/1f4b1.png	 💱 
+ ../EAP/fbemoji/1f4b2.png	 💲 
+ ../EAP/fbemoji/1f4b3.png	 💳 
+ ../EAP/fbemoji/1f4b4.png	 💴 
+ ../EAP/fbemoji/1f4b5.png	 💵 
+ ../EAP/fbemoji/1f4b6.png	 💶 
+ ../EAP/fbemoji/1f4b7.png	 💷 
+ ../EAP/fbemoji/1f4b8.png	 💸 
+ ../EAP/fbemoji/1f4b9.png	 💹 
+ ../EAP/fbemoji/1f4ba.png	 💺 
+ ../EAP/fbemoji/1f4bb.png	 💻 
+ ../EAP/fbemoji/1f4bc.png	 💼 
+ ../EAP/fbemoji/1f4bd.png	 💽 
+ ../EAP/fbemoji/1f4be.png	 💾 
+ ../EAP/fbemoji/1f4bf.png	 💿 
+ ../EAP/fbemoji/1f4c0.png	 📀 
+ ../EAP/fbemoji/1f4c1.png	 📁 
+ ../EAP/fbemoji/1f4c2.png	 📂 
+ ../EAP/fbemoji/1f4c3.png	 📃 
+ ../EAP/fbemoji/1f4c4.png	 📄 
+ ../EAP/fbemoji/1f4c5.png	 📅 
+ ../EAP/fbemoji/1f4c6.png	 📆 
+ ../EAP/fbemoji/1f4c7.png	 📇 
+ ../EAP/fbemoji/1f4c8.png	 📈 
+ ../EAP/fbemoji/1f4c9.png	 📉 
+ ../EAP/fbemoji/1f4ca.png	 📊 
+ ../EAP/fbemoji/1f4cb.png	 📋 
+ ../EAP/fbemoji/1f4cc.png	 📌 
+ ../EAP/fbemoji/1f4cd.png	 📍 
+ ../EAP/fbemoji/1f4ce.png	 📎 
+ ../EAP/fbemoji/1f4cf.png	 📏 
+ ../EAP/fbemoji/1f4d0.png	 📐 
+ ../EAP/fbemoji/1f4d1.png	 📑 
+ ../EAP/fbemoji/1f4d2.png	 📒 
+ ../EAP/fbemoji/1f4d3.png	 📓 
+ ../EAP/fbemoji/1f4d4.png	 📔 
+ ../EAP/fbemoji/1f4d5.png	 📕 
+ ../EAP/fbemoji/1f4d6.png	 📖 
+ ../EAP/fbemoji/1f4d7.png	 📗 
+ ../EAP/fbemoji/1f4d8.png	 📘 
+ ../EAP/fbemoji/1f4d9.png	 📙 
+ ../EAP/fbemoji/1f4da.png	 📚 
+ ../EAP/fbemoji/1f4db.png	 📛 
+ ../EAP/fbemoji/1f4dc.png	 📜 
+ ../EAP/fbemoji/1f4dd.png	 📝 
+ ../EAP/fbemoji/1f4de.png	 📞 
+ ../EAP/fbemoji/1f4df.png	 📟 
+ ../EAP/fbemoji/1f4e0.png	 📠 
+ ../EAP/fbemoji/1f4e1.png	 📡 
+ ../EAP/fbemoji/1f4e2.png	 📢 
+ ../EAP/fbemoji/1f4e3.png	 📣 
+ ../EAP/fbemoji/1f4e4.png	 📤 
+ ../EAP/fbemoji/1f4e5.png	 📥 
+ ../EAP/fbemoji/1f4e6.png	 📦 
+ ../EAP/fbemoji/1f4e7.png	 📧 
+ ../EAP/fbemoji/1f4e8.png	 📨 
+ ../EAP/fbemoji/1f4e9.png	 📩 
+ ../EAP/fbemoji/1f4eb.png	 📫 
+ ../EAP/fbemoji/1f4ec.png	 📬 
+ ../EAP/fbemoji/1f4ed.png	 📭 
+ ../EAP/fbemoji/1f4ee.png	 📮 
+ ../EAP/fbemoji/1f4ef.png	 📯 
+ ../EAP/fbemoji/1f4f0.png	 📰 
+ ../EAP/fbemoji/1f4f1.png	 📱 
+ ../EAP/fbemoji/1f4f2.png	 📲 
+ ../EAP/fbemoji/1f4f3.png	 📳 
+ ../EAP/fbemoji/1f4f4.png	 📴 
+ ../EAP/fbemoji/1f4f5.png	 📵 
+ ../EAP/fbemoji/1f4f6.png	 📶 
+ ../EAP/fbemoji/1f4f7.png	 📷 
+ ../EAP/fbemoji/1f4f9.png	 📹 
+ ../EAP/fbemoji/1f4fa.png	 📺 
+ ../EAP/fbemoji/1f4fb.png	 📻 
+ ../EAP/fbemoji/1f4fc.png	 📼 
+ ../EAP/fbemoji/1f5fb.png	 🗻 
+ ../EAP/fbemoji/1f5fc.png	 🗼 
+ ../EAP/fbemoji/1f5fd.png	 🗽 
+ ../EAP/fbemoji/1f5fe.png	 🗾 
+ ../EAP/fbemoji/1f5ff.png	 🗿 
+ ../EAP/fbemoji/1f6a5.png	 🚥 
+ ../EAP/fbemoji/1f6a6.png	 🚦 
+ ../EAP/fbemoji/1f6a7.png	 🚧 
+ ../EAP/fbemoji/1f6a8.png	 🚨 
+ ../EAP/fbemoji/1f6a9.png	 🚩 
+ ../EAP/fbemoji/1f6aa.png	 🚪 
+ ../EAP/fbemoji/1f6ab.png	 🚫 
+ ../EAP/fbemoji/1f6ac.png	 🚬 
+ ../EAP/fbemoji/1f6ad.png	 🚭 
+ ../EAP/fbemoji/1f6ae.png	 🚮 
+ ../EAP/fbemoji/1f6af.png	 🚯 
+ ../EAP/fbemoji/1f6b0.png	 🚰 
+ ../EAP/fbemoji/1f6b1.png	 🚱 
+ ../EAP/fbemoji/1f6b2.png	 🚲 
+ ../EAP/fbemoji/1f6b3.png	 🚳 
+ ../EAP/fbemoji/1f6b4.png	 🚴 
+ ../EAP/fbemoji/1f6b5.png	 🚵 
+ ../EAP/fbemoji/1f6b6.png	 🚶 
+ ../EAP/fbemoji/1f6bd.png	 🚽 
+ ../EAP/fbemoji/1f6bf.png	 🚿 
+ ../EAP/fbemoji/1f6c0.png	 🛀 
+ ../EAP/fbemoji/1f30a.png	 🌊 
+ ../EAP/fbemoji/1f30b.png	 🌋 
+ ../EAP/fbemoji/1f30c.png	 🌌 
+ ../EAP/fbemoji/1f30e.png	 🌎 
+ ../EAP/fbemoji/1f30f.png	 🌏 
+ ../EAP/fbemoji/1f31a.png	 🌚 
+ ../EAP/fbemoji/1f31b.png	 🌛 
+ ../EAP/fbemoji/1f31c.png	 🌜 
+ ../EAP/fbemoji/1f31d.png	 🌝 
+ ../EAP/fbemoji/1f31e.png	 🌞 
+ ../EAP/fbemoji/1f31f.png	 🌟 
+ ../EAP/fbemoji/1f38a.png	 🎊 
+ ../EAP/fbemoji/1f38b.png	 🎋 
+ ../EAP/fbemoji/1f38c.png	 🎌 
+ ../EAP/fbemoji/1f38d.png	 🎍 
+ ../EAP/fbemoji/1f38e.png	 🎎 
+ ../EAP/fbemoji/1f45a.png	 👚 
+ ../EAP/fbemoji/1f45b.png	 👛 
+ ../EAP/fbemoji/1f45c.png	 👜 
+ ../EAP/fbemoji/1f45d.png	 👝 
+ ../EAP/fbemoji/1f45e.png	 👞 
+ ../EAP/fbemoji/1f45f.png	 👟 
+ ../EAP/fbemoji/1f48a.png	 💊 
+ ../EAP/fbemoji/1f48b.png	 💋 
+ ../EAP/fbemoji/1f48c.png	 💌 
+ ../EAP/fbemoji/1f48d.png	 💍 
+ ../EAP/fbemoji/1f48e.png	 💎 
+ ../EAP/fbemoji/1f48f.png	 💏 
+ ../EAP/fbemoji/1f50a.png	 🔊 
+ ../EAP/fbemoji/1f50b.png	 🔋 
+ ../EAP/fbemoji/1f50c.png	 🔌 
+ ../EAP/fbemoji/1f50e.png	 🔎 
+ ../EAP/fbemoji/1f50f.png	 🔏 
+ ../EAP/fbemoji/1f52a.png	 🔪 
+ ../EAP/fbemoji/1f52b.png	 🔫 
+ ../EAP/fbemoji/1f52c.png	 🔬 
+ ../EAP/fbemoji/1f52d.png	 🔭 
+ ../EAP/fbemoji/1f52e.png	 🔮 
+ ../EAP/fbemoji/1f52f.png	 🔯 
+ ../EAP/fbemoji/1f53a.png	 🔺 
+ ../EAP/fbemoji/1f53b.png	 🔻 
+ ../EAP/fbemoji/1f53c.png	 🔼 
+ ../EAP/fbemoji/1f53d.png	 🔽 
+ ../EAP/fbemoji/1f301.png	 🌁 
+ ../EAP/fbemoji/1f302.png	 🌂 
+ ../EAP/fbemoji/1f303.png	 🌃 
+ ../EAP/fbemoji/1f304.png	 🌄 
+ ../EAP/fbemoji/1f305.png	 🌅 
+ ../EAP/fbemoji/1f306.png	 🌆 
+ ../EAP/fbemoji/1f307.png	 🌇 
+ ../EAP/fbemoji/1f308.png	 🌈 
+ ../EAP/fbemoji/1f309.png	 🌉 
+ ../EAP/fbemoji/1f310.png	 🌐 
+ ../EAP/fbemoji/1f311.png	 🌑 
+ ../EAP/fbemoji/1f312.png	 🌒 
+ ../EAP/fbemoji/1f313.png	 🌓 
+ ../EAP/fbemoji/1f314.png	 🌔 
+ ../EAP/fbemoji/1f315.png	 🌕 
+ ../EAP/fbemoji/1f316.png	 🌖 
+ ../EAP/fbemoji/1f317.png	 🌗 
+ ../EAP/fbemoji/1f318.png	 🌘 
+ ../EAP/fbemoji/1f319.png	 🌙 
+ ../EAP/fbemoji/1f320.png	 🌠 
+ ../EAP/fbemoji/1f380.png	 🎀 
+ ../EAP/fbemoji/1f381.png	 🎁 
+ ../EAP/fbemoji/1f382.png	 🎂 
+ ../EAP/fbemoji/1f383.png	 🎃 
+ ../EAP/fbemoji/1f384.png	 🎄 
+ ../EAP/fbemoji/1f385.png	 🎅 
+ ../EAP/fbemoji/1f386.png	 🎆 
+ ../EAP/fbemoji/1f387.png	 🎇 
+ ../EAP/fbemoji/1f388.png	 🎈 
+ ../EAP/fbemoji/1f389.png	 🎉 
+ ../EAP/fbemoji/1f390.png	 🎐 
+ ../EAP/fbemoji/1f391.png	 🎑 
+ ../EAP/fbemoji/1f392.png	 🎒 
+ ../EAP/fbemoji/1f393.png	 🎓 
+ ../EAP/fbemoji/1f451.png	 👑 
+ ../EAP/fbemoji/1f452.png	 👒 
+ ../EAP/fbemoji/1f453.png	 👓 
+ ../EAP/fbemoji/1f454.png	 👔 
+ ../EAP/fbemoji/1f455.png	 👕 
+ ../EAP/fbemoji/1f456.png	 👖 
+ ../EAP/fbemoji/1f457.png	 👗 
+ ../EAP/fbemoji/1f458.png	 👘 
+ ../EAP/fbemoji/1f459.png	 👙 
+ ../EAP/fbemoji/1f460.png	 👠 
+ ../EAP/fbemoji/1f461.png	 👡 
+ ../EAP/fbemoji/1f462.png	 👢 
+ ../EAP/fbemoji/1f463.png	 👣 
+ ../EAP/fbemoji/1f484.png	 💄 
+ ../EAP/fbemoji/1f485.png	 💅 
+ ../EAP/fbemoji/1f486.png	 💆 
+ ../EAP/fbemoji/1f487.png	 💇 
+ ../EAP/fbemoji/1f488.png	 💈 
+ ../EAP/fbemoji/1f489.png	 💉 
+ ../EAP/fbemoji/1f490.png	 💐 
+ ../EAP/fbemoji/1f491.png	 💑 
+ ../EAP/fbemoji/1f492.png	 💒 
+ ../EAP/fbemoji/1f493.png	 💓 
+ ../EAP/fbemoji/1f494.png	 💔 
+ ../EAP/fbemoji/1f495.png	 💕 
+ ../EAP/fbemoji/1f496.png	 💖 
+ ../EAP/fbemoji/1f497.png	 💗 
+ ../EAP/fbemoji/1f498.png	 💘 
+ ../EAP/fbemoji/1f499.png	 💙 
+ ../EAP/fbemoji/1f49a.png	 💚 
+ ../EAP/fbemoji/1f49b.png	 💛 
+ ../EAP/fbemoji/1f49c.png	 💜 
+ ../EAP/fbemoji/1f49d.png	 💝 
+ ../EAP/fbemoji/2764.png	 ❤ 	<3
+ ../EAP/fbemoji/1f49e.png	 💞 
+ ../EAP/fbemoji/1f49f.png	 💟 
+ ../EAP/fbemoji/1f505.png	 🔅 
+ ../EAP/fbemoji/1f506.png	 🔆 
+ ../EAP/fbemoji/1f507.png	 🔇 
+ ../EAP/fbemoji/1f508.png	 🔈 
+ ../EAP/fbemoji/1f509.png	 🔉 
+ ../EAP/fbemoji/1f510.png	 🔐 
+ ../EAP/fbemoji/1f511.png	 🔑 
+ ../EAP/fbemoji/1f512.png	 🔒 
+ ../EAP/fbemoji/1f513.png	 🔓 
+ ../EAP/fbemoji/1f514.png	 🔔 
+ ../EAP/fbemoji/1f515.png	 🔕 
+ ../EAP/fbemoji/1f516.png	 🔖 
+ ../EAP/fbemoji/1f517.png	 🔗 
+ ../EAP/fbemoji/1f518.png	 🔘 
+ ../EAP/fbemoji/1f525.png	 🔥 
+ ../EAP/fbemoji/1f526.png	 🔦 
+ ../EAP/fbemoji/1f527.png	 🔧 
+ ../EAP/fbemoji/1f528.png	 🔨 
+ ../EAP/fbemoji/1f529.png	 🔩 
+ ../EAP/fbemoji/1f530.png	 🔰 
+ ../EAP/fbemoji/1f531.png	 🔱 
+ ../EAP/fbemoji/1f533.png	 🔳 
+ ../EAP/fbemoji/1f534.png	 🔴 
+ ../EAP/fbemoji/1f535.png	 🔵 
+ ../EAP/fbemoji/1f536.png	 🔶 
+ ../EAP/fbemoji/1f537.png	 🔷 
+ ../EAP/fbemoji/1f538.png	 🔸 
+ ../EAP/fbemoji/1f539.png	 🔹 
+ ../EAP/fbemoji/1f550.png	 🕐 
+ ../EAP/fbemoji/1f551.png	 🕑 
+ ../EAP/fbemoji/1f552.png	 🕒 
+ ../EAP/fbemoji/1f553.png	 🕓 
+ ../EAP/fbemoji/1f554.png	 🕔 
+ ../EAP/fbemoji/1f555.png	 🕕 
+ ../EAP/fbemoji/1f556.png	 🕖 
+ ../EAP/fbemoji/1f557.png	 🕗 
+ ../EAP/fbemoji/1f558.png	 🕘 
+ ../EAP/fbemoji/1f55a.png	 🕚 
+ ../EAP/fbemoji/1f55b.png	 🕛 
+ ../EAP/fbemoji/1f55c.png	 🕜 
+ ../EAP/fbemoji/1f55d.png	 🕝 
+ ../EAP/fbemoji/1f55e.png	 🕞 
+ ../EAP/fbemoji/1f55f.png	 🕟 
+ ../EAP/fbemoji/1f559.png	 🕙 
+ ../EAP/fbemoji/1f560.png	 🕠 
+ ../EAP/fbemoji/1f561.png	 🕡 
+ ../EAP/fbemoji/1f562.png	 🕢 
+ ../EAP/fbemoji/1f563.png	 🕣 
+ ../EAP/fbemoji/1f564.png	 🕤 
+ ../EAP/fbemoji/1f565.png	 🕥 
+ ../EAP/fbemoji/1f566.png	 🕦 
+ ../EAP/fbemoji/1f567.png	 🕧 
+ ../EAP/fbemoji/1f680.png	 🚀 
+ ../EAP/fbemoji/1f681.png	 🚁 
+ ../EAP/fbemoji/1f68a.png	 🚊 
+ ../EAP/fbemoji/1f68b.png	 🚋 
+ ../EAP/fbemoji/1f68c.png	 🚌 
+ ../EAP/fbemoji/1f68d.png	 🚍 
+ ../EAP/fbemoji/1f68e.png	 🚎 
+ ../EAP/fbemoji/1f68f.png	 🚏 
+ ../EAP/fbemoji/1f69a.png	 🚚 
+ ../EAP/fbemoji/1f69b.png	 🚛 
+ ../EAP/fbemoji/1f69c.png	 🚜 
+ ../EAP/fbemoji/1f69d.png	 🚝 
+ ../EAP/fbemoji/1f69e.png	 🚞 
+ ../EAP/fbemoji/1f69f.png	 🚟 
+ ../EAP/fbemoji/1f6a0.png	 🚠 
+ ../EAP/fbemoji/1f6a1.png	 🚡 
+ ../EAP/fbemoji/1f6a2.png	 🚢 
+ ../EAP/fbemoji/1f6a3.png	 🚣 
+ ../EAP/fbemoji/1f6a4.png	 🚤 
+ ../EAP/fbemoji/1f682.png	 🚂 
+ ../EAP/fbemoji/1f683.png	 🚃 
+ ../EAP/fbemoji/1f684.png	 🚄 
+ ../EAP/fbemoji/1f685.png	 🚅 
+ ../EAP/fbemoji/1f686.png	 🚆 
+ ../EAP/fbemoji/1f687.png	 🚇 
+ ../EAP/fbemoji/1f688.png	 🚈 
+ ../EAP/fbemoji/1f689.png	 🚉 
+ ../EAP/fbemoji/1f690.png	 🚐 
+ ../EAP/fbemoji/1f691.png	 🚑 
+ ../EAP/fbemoji/1f692.png	 🚒 
+ ../EAP/fbemoji/1f693.png	 🚓 
+ ../EAP/fbemoji/1f694.png	 🚔 
+ ../EAP/fbemoji/1f695.png	 🚕 
+ ../EAP/fbemoji/1f696.png	 🚖 
+ ../EAP/fbemoji/1f697.png	 🚗 
+ ../EAP/fbemoji/1f698.png	 🚘 
+ ../EAP/fbemoji/1f699.png	 🚙 
+ ../EAP/fbemoji/2b50.png	 ⭐ 
+ ../EAP/fbemoji/2b55.png	 ⭕ 
+ ../EAP/fbemoji/23f0.png	 ⏰ 
+ ../EAP/fbemoji/23f3.png	 ⏳ 
+ ../EAP/fbemoji/24c2.png	 Ⓜ 
+ ../EAP/fbemoji/25aa.png	 ▪ 
+ ../EAP/fbemoji/25ab.png	 ▫ 
+ ../EAP/fbemoji/25fb.png	 ◻ 
+ ../EAP/fbemoji/25fc.png	 ◼ 
+ ../EAP/fbemoji/26a0.png	 ⚠ 
+ ../EAP/fbemoji/26a1.png	 ⚡ 
+ ../EAP/fbemoji/26aa.png	 ⚪ 
+ ../EAP/fbemoji/26ab.png	 ⚫ 
+ ../EAP/fbemoji/26bd.png	 ⚽ 
+ ../EAP/fbemoji/26be.png	 ⚾ 
+ ../EAP/fbemoji/26c4.png	 ⛄ 
+ ../EAP/fbemoji/26c5.png	 ⛅ 
+ ../EAP/fbemoji/26ce.png	 ⛎ 
+ ../EAP/fbemoji/26d4.png	 ⛔ 
+ ../EAP/fbemoji/26ea.png	 ⛪ 
+ ../EAP/fbemoji/26f2.png	 ⛲ 
+ ../EAP/fbemoji/26f3.png	 ⛳ 
+ ../EAP/fbemoji/26f5.png	 ⛵ 
+ ../EAP/fbemoji/26fa.png	 ⛺ 
+ ../EAP/fbemoji/26fd.png	 ⛽ 
+ ../EAP/fbemoji/1f6be.png	 🚾 
+ ../EAP/fbemoji/1f6c1.png	 🛁 
+ ../EAP/fbemoji/1f6c2.png	 🛂 
+ ../EAP/fbemoji/1f6c3.png	 🛃 
+ ../EAP/fbemoji/1f6c4.png	 🛄 
+ ../EAP/fbemoji/1f6c5.png	 🛅 
+ ../EAP/fbemoji/1f17e.png	 🅾 
+ ../EAP/fbemoji/1f17f.png	 🅿 
+ ../EAP/fbemoji/1f18e.png	 🆎 
+ ../EAP/fbemoji/1f19a.png	 🆚 
+ ../EAP/fbemoji/1f21a.png	 🈚 
+ ../EAP/fbemoji/1f22f.png	 🈯 
+ ../EAP/fbemoji/1f23a.png	 🈺 
+ ../EAP/fbemoji/1f51a.png	 🔚 
+ ../EAP/fbemoji/1f51b.png	 🔛 
+ ../EAP/fbemoji/1f51c.png	 🔜 
+ ../EAP/fbemoji/1f51d.png	 🔝 
+ ../EAP/fbemoji/1f51e.png	 🔞 
+ ../EAP/fbemoji/1f51f.png	 🔟 
+ ../EAP/fbemoji/1f6b7.png	 🚷 
+ ../EAP/fbemoji/1f6b8.png	 🚸 
+ ../EAP/fbemoji/1f6b9.png	 🚹 
+ ../EAP/fbemoji/1f6ba.png	 🚺 
+ ../EAP/fbemoji/1f6bb.png	 🚻 
+ ../EAP/fbemoji/1f6bc.png	 🚼 
+ ../EAP/fbemoji/27a1.png	 ➡ 
+ ../EAP/fbemoji/27b0.png	 ➰ 
+ ../EAP/fbemoji/27bf.png	 ➿ 
+ ../EAP/fbemoji/1f520.png	 🔠 
+ ../EAP/fbemoji/1f521.png	 🔡 
+ ../EAP/fbemoji/1f522.png	 🔢 
+ ../EAP/fbemoji/1f523.png	 🔣 
+ ../EAP/fbemoji/1f524.png	 🔤 
+ ../EAP/fbemoji/1f170.png	 🅰 
+ ../EAP/fbemoji/1f171.png	 🅱 
+ ../EAP/fbemoji/1f191.png	 🆑 
+ ../EAP/fbemoji/1f192.png	 🆒 
+ ../EAP/fbemoji/1f193.png	 🆓 
+ ../EAP/fbemoji/1f194.png	 🆔 
+ ../EAP/fbemoji/1f195.png	 🆕 
+ ../EAP/fbemoji/1f196.png	 🆖 
+ ../EAP/fbemoji/1f197.png	 🆗 
+ ../EAP/fbemoji/1f198.png	 🆘 
+ ../EAP/fbemoji/1f199.png	 🆙 
+ ../EAP/fbemoji/1f201.png	 🈁 
+ ../EAP/fbemoji/1f202.png	 🈂 
+ ../EAP/fbemoji/1f232.png	 🈲 
+ ../EAP/fbemoji/1f233.png	 🈳 
+ ../EAP/fbemoji/1f234.png	 🈴 
+ ../EAP/fbemoji/1f235.png	 🈵 
+ ../EAP/fbemoji/1f236.png	 🈶 
+ ../EAP/fbemoji/1f237.png	 🈷 
+ ../EAP/fbemoji/1f238.png	 🈸 
+ ../EAP/fbemoji/1f239.png	 🈹 
+ ../EAP/fbemoji/1f250.png	 🉐 
+ ../EAP/fbemoji/1f251.png	 🉑 
+ ../EAP/fbemoji/1f300.png	 🌀 
+ ../EAP/fbemoji/1f500.png	 🔀 
+ ../EAP/fbemoji/1f501.png	 🔁 
+ ../EAP/fbemoji/1f502.png	 🔂 
+ ../EAP/fbemoji/1f503.png	 🔃 
+ ../EAP/fbemoji/1f504.png	 🔄 
+ ../EAP/fbemoji/21a9.png	 ↩ 
+ ../EAP/fbemoji/21aa.png	 ↪ 
+ ../EAP/fbemoji/23e9.png	 ⏩ 
+ ../EAP/fbemoji/25b6.png	 ▶ 
+ ../EAP/fbemoji/25c0.png	 ◀ 
+ ../EAP/fbemoji/23ea.png	 ⏪ 
+ ../EAP/fbemoji/23eb.png	 ⏫ 
+ ../EAP/fbemoji/23ec.png	 ⏬ 
+ ../EAP/fbemoji/2b05.png	 ⬅ 
+ ../EAP/fbemoji/2b06.png	 ⬆ 
+ ../EAP/fbemoji/2b07.png	 ⬇ 
+ ../EAP/fbemoji/23_20e3.png	 #⃣
+ ../EAP/fbemoji/30_20e3.png	 0⃣ 
+ ../EAP/fbemoji/31_20e3.png	 1⃣ 
+ ../EAP/fbemoji/32_20e3.png	 2⃣ 
+ ../EAP/fbemoji/33_20e3.png	 3⃣ 
+ ../EAP/fbemoji/34_20e3.png	 4⃣ 
+ ../EAP/fbemoji/35_20e3.png	 5⃣ 
+ ../EAP/fbemoji/36_20e3.png	 6⃣ 
+ ../EAP/fbemoji/37_20e3.png	 7⃣ 
+ ../EAP/fbemoji/38_20e3.png	 8⃣ 
+ ../EAP/fbemoji/39_20e3.png	 9⃣ 
+ ../EAP/fbemoji/231a.png	 ⌚ 
+ ../EAP/fbemoji/231b.png	 ⌛ 
+ ../EAP/fbemoji/260e.png	 ☎ 
+ ../EAP/fbemoji/264a.png	 ♊ 
+ ../EAP/fbemoji/264b.png	 ♋ 
+ ../EAP/fbemoji/264c.png	 ♌ 
+ ../EAP/fbemoji/264d.png	 ♍ 
+ ../EAP/fbemoji/264e.png	 ♎ 
+ ../EAP/fbemoji/264f.png	 ♏ 
+ ../EAP/fbemoji/267b.png	 ♻ 
+ ../EAP/fbemoji/267f.png	 ♿ 
+ ../EAP/fbemoji/270f.png	 ✏ 
+ ../EAP/fbemoji/274c.png	 ❌ 
+ ../EAP/fbemoji/274e.png	 ❎ 
+ ../EAP/fbemoji/303d.png	 〽 
+ ../EAP/fbemoji/2139.png	 ℹ 
+ ../EAP/fbemoji/2194.png	 ↔ 
+ ../EAP/fbemoji/2195.png	 ↕ 
+ ../EAP/fbemoji/2196.png	 ↖ 
+ ../EAP/fbemoji/2197.png	 ↗ 
+ ../EAP/fbemoji/2198.png	 ↘ 
+ ../EAP/fbemoji/2199.png	 ↙ 
+ ../EAP/fbemoji/2600.png	 ☀ 
+ ../EAP/fbemoji/2601.png	 ☁ 
+ ../EAP/fbemoji/2611.png	 ☑ 
+ ../EAP/fbemoji/2614.png	 ☔ 
+ ../EAP/fbemoji/2615.png	 ☕ 
+ ../EAP/fbemoji/2648.png	 ♈ 
+ ../EAP/fbemoji/2649.png	 ♉ 
+ ../EAP/fbemoji/2650.png	 ♐ 
+ ../EAP/fbemoji/2651.png	 ♑ 
+ ../EAP/fbemoji/2652.png	 ♒ 
+ ../EAP/fbemoji/2653.png	 ♓ 
+ ../EAP/fbemoji/2660.png	 ♠ 
+ ../EAP/fbemoji/2663.png	 ♣ 
+ ../EAP/fbemoji/2665.png	 ♥ 
+ ../EAP/fbemoji/2666.png	 ♦ 
+ ../EAP/fbemoji/2668.png	 ♨ 
+ ../EAP/fbemoji/2693.png	 ⚓ 
+ ../EAP/fbemoji/2702.png	 ✂ 
+ ../EAP/fbemoji/2705.png	 ✅ 
+ ../EAP/fbemoji/2708.png	 ✈ 
+ ../EAP/fbemoji/2709.png	 ✉ 
+ ../EAP/fbemoji/2712.png	 ✒ 
+ ../EAP/fbemoji/2714.png	 ✔ 
+ ../EAP/fbemoji/2716.png	 ✖ 
+ ../EAP/fbemoji/2728.png	 ✨ 
+ ../EAP/fbemoji/2733.png	 ✳ 
+ ../EAP/fbemoji/2734.png	 ✴ 
+ ../EAP/fbemoji/2744.png	 ❄ 
+ ../EAP/fbemoji/2753.png	 ❓ 
+ ../EAP/fbemoji/2754.png	 ❔ 
+ ../EAP/fbemoji/2755.png	 ❕ 
+ ../EAP/fbemoji/2795.png	 ➕ 
+ ../EAP/fbemoji/2796.png	 ➖ 
+ ../EAP/fbemoji/2797.png	 ➗ 
+ ../EAP/fbemoji/2934.png	 ⤴ 
+ ../EAP/fbemoji/2935.png	 ⤵ 
+ ../EAP/fbemoji/3030.png	 〰 
 
-../EAP/facebook/facebook-comments-emoticon-with-heart-eyes.png	😍
-
-../EAP/facebook/heart-smiley.png	😘
-../EAP/facebook/kiss-emoticon.png	😚
-../EAP/facebook/happy-smiley-blushing.png	😊
-../EAP/facebook/smirking-smiley.png	😏
-../EAP/facebook/satisfied-smiley-face.png	😌
-../EAP/facebook/smiling-face.png	😃
-../EAP/facebook/big-smile-with-closed-eyes.png	😄
-../EAP/facebook/disappointed.png	😞
-../EAP/facebook/crying-smiley.png	😢
-../EAP/facebook/medic-facebook-smiley.png	😷
-../EAP/facebook/cold-sweat-emoticon.png	😓
-../EAP/facebook/fear-emoji.png	😰
-../EAP/facebook/relieved-emoticon.png	😥
-../EAP/facebook/sleepy-smiley.png	😪
-../EAP/facebook/scared-emoticon.png	😨
-../EAP/facebook/facebook-emoticon--terrified-with-fear.png	😱
-../EAP/facebook/dizzy-emoticon.png	😵
-../EAP/facebook/facebook-emoticon-crying-big-tears.png	😭
-../EAP/facebook/mad-angry-emoticon-for-facebook.png	😠
-../EAP/facebook/emoticon-with-eyes-wide-open.png	😳
-../EAP/facebook/astonished-smiley-emoticon-for-facebook.png	😲
-../EAP/facebook/emoticon-with-look-of-triumph.png	😤
-../EAP/facebook/tongue-out-winking-emoticon-for-facebook.png	😜
-../EAP/facebook/emoticon-mocking--with-tongue-out.png	😝
-../EAP/facebook/winking-face-facebook-symbol.png	😉
-../EAP/facebook/sad-face-symbol-for-facebook.png	😔
-../EAP/facebook/unamused-emoticon.png	😒
-../EAP/facebook/emoticon-crying-tears-of-joy.png	😂
-../EAP/facebook/red-angry-emoticon-for-facebook.png	😡
-../EAP/facebook/devil+emoticon.png	3:) 3:-)
-../EAP/facebook/purple-devil-facebook-emoticon.png	👿
-
-../EAP/facebook/angel-symbol.png	👼
-../EAP/facebook/playboy-bunny-emoticon-for-facebook.png	👯
-../EAP/facebook/guardsman-symbol.png	💂
-../EAP/facebook/man-with-turban.png	👳
-../EAP/facebook/Santa-claus-symbol-for-facebook.png	🎅
-../EAP/facebook/facebook-policeman-symbol.png	👮
-../EAP/facebook/construction-worker-emoticon.png	👷
-../EAP/facebook/princess-emoticon-for-facebook.png	👸
-../EAP/facebook/bald-man-emoticon.png	👴
-../EAP/facebook/old-woman-emoticon.png	👵
-../EAP/facebook/man-emoticon.png	👨
-../EAP/facebook/woman-emoticon.png	👩
-../EAP/facebook/boy-emoticon.png	👦
-../EAP/facebook/girl-emoticon-for-facebook.png	👧
-../EAP/facebook/baby-face-emoticon.png	👶
-../EAP/facebook/blonde-girl-emoticon.png	👱
-../EAP/facebook/putnam-emoticon.png	:putnam:
-../EAP/facebook/boy-and-girl-holding-hands.png	👫
-../EAP/facebook/man-and-woman-holding-hands.png	🎎
-../EAP/facebook/dancer-emoticon-for-facebook.png	💃
-../EAP/facebook/restroom-emoticon.png	🚻
-../EAP/facebook/mens-emoticon.png	🚹
-../EAP/facebook/womens-emoticon.png	🚺
-../EAP/facebook/child-emoticon.png	🚼
-
-../EAP/facebook/pumpkin-symbol.png	🎃
-../EAP/facebook/skull-emoticon.png	💀
-../EAP/facebook/robot+emoticon.png	:|]
-../EAP/facebook/alien-symbol.png	👽
-../EAP/facebook/green-extraterrestrial-symbol.png	👾
-../EAP/facebook/ghost-symbol.png	👻
-
-
-../EAP/facebook/shark+emoticon.png	(^^^)
-../EAP/facebook/facebook-penguine-emoticon.png	<(")
-../EAP/facebook/puppy.png	🐶
-../EAP/facebook/teddy-bear-fb-emoticon.png	🐻
-../EAP/facebook/monkey-face-symbol.png	🐵
-../EAP/facebook/mouse-fb-emoticon.png	🐭
-../EAP/facebook/hamster-fb-emoticon.png	🐹
-../EAP/facebook/facebook-wolf-emoticon.png	🐺
-../EAP/facebook/facebook-tiger-emoticon.png	🐯
-../EAP/facebook/horse-face-symbol.png	🐴
-../EAP/facebook/piggy-emoticon.png	🐷
-../EAP/facebook/facebook-cat-symbol.png	🐱
-../EAP/facebook/facebook-bunny-symbol.png	🐰
-../EAP/facebook/poodle-emoticon.png	🐩
-../EAP/facebook/sheep-emoticon.png	🐑
-../EAP/facebook/penguin-face-symbol.png	🐧
-../EAP/facebook/koala-emoticon.png	🐨
-../EAP/facebook/cow-emoticon.png	🐮
-../EAP/facebook/wild-boar-emoticon.png	🐗
-../EAP/facebook/chicken-symbol.png	🐔
-../EAP/facebook/yellow-chick-emoticon.png	🐥
-../EAP/facebook/bird-emoticon-for-facebook.png	🐦
-../EAP/facebook/elephant-emoticon-for-facebook.png	🐘
-../EAP/facebook/horse-emoticon-for-facebook.png	🐎
-../EAP/facebook/monkey-symbol-for-facebook.png	🐒
-../EAP/facebook/camel-emoticon.png	🐫
-../EAP/facebook/facebook-dolphin-emoticon.png	🐬
-../EAP/facebook/whale-emoticon-for-facebook.png	🐳
-../EAP/facebook/tropical-fish-emoticon.png	🐠
-../EAP/facebook/facebook-fish-symbol.png	🐟
-../EAP/facebook/blowfish-symbol.png	🐡
-../EAP/facebook/octopus-emoticon.png	🐙
-../EAP/facebook/facebook-seashell-symbol.png	🐚
-../EAP/facebook/frog-emoticon.png	🐸
-../EAP/facebook/snake-symbol-for-facebook.png	🐍
-../EAP/facebook/facebook-bug-emoticon.png	🐛
-
-../EAP/facebook/couple-in-love.png	💑
-../EAP/facebook/couple-in-love-kiss.png	💏
-../EAP/facebook/heart+emoticon.png	<3
-../EAP/facebook/broken-heart-emoticon-for-facebook-comments.png	💔
-../EAP/facebook/facebook-blue-heart-icon.png	💙
-../EAP/facebook/green-heart-emoticon-for-facebook.png	💚
-../EAP/facebook/yellow-heart-emoticon-for-fb-comments.png	💛
-../EAP/facebook/purple-heart-icon.png	💜
-../EAP/facebook/triple-hearts-emoticon.png	💗
-../EAP/facebook/emoticon-of-heart-stabbed-with-an-arrow.png	💘
-../EAP/facebook/new-heart-symbol-for-facebook.png	💓
-../EAP/facebook/facebook-heart-symbol-wrapped-as-a-gift.png	💝
-../EAP/facebook/sparkling-heart-symbol-for-facebook.png	💖
-../EAP/facebook/spinning-hearts-emoticon.png	💞
-../EAP/facebook/white-heart-facebook-emoticon.png	💟
-../EAP/facebook/love-letter-facebook-emoticon.png	💌
-../EAP/facebook/facebook-lips-emoticon.png	💋
-../EAP/facebook/lips-symbol.png	👄
-
-../EAP/facebook/ear-emoticon.png	👂
-../EAP/facebook/nose-symbol.png	👃
-../EAP/facebook/facebook-eyes-symbol.png	👀
-
-
-
-../EAP/facebook/its-ok-fingers-sign.png	👌
-../EAP/facebook/peace-fingers-facebook-symbol.png	✌
-../EAP/facebook/thumb-up-facebook-emoticon-like-symbol.png	(y) 👍
-../EAP/facebook/facebook-emoticon-of--dislike-symbol.png	👎
-../EAP/facebook/clenched-fist-emoticon-for-facebook-status.png	✊
-../EAP/facebook/index-finger-emoticon.png	☝
-../EAP/facebook/open-hand-emoticon.png	✋
-../EAP/facebook/two-hands-clap.png	🙏
-../EAP/facebook/two-hands-reaching-up.png	🙌
-../EAP/facebook/muscle-arm.png	💪
-../EAP/facebook/fist-symbol.png	👊
-../EAP/facebook/clapping-hands-emoticon.png	👏
-../EAP/facebook/finger-pointing-up-symbol.png	👆
-../EAP/facebook/finger-pointing-to-right.png	👉
-../EAP/facebook/finger-pointing-left.png	👈
-../EAP/facebook/finger-pointing-down.png	👇
-
-
-
-../EAP/facebook/poop-facebook-emoticon.png	:poop: 💩
-
-../EAP/facebook/sun+emoticon+for+facebook+comments.png	☀
-../EAP/facebook/cloud-emoticon-for-facebook-comments.png	☁
-../EAP/facebook/thunder-symbol-facebook-emoticon.png	⚡
-../EAP/facebook/stars-emoticon.png	✨
-../EAP/facebook/white-star.png	⭐
-../EAP/facebook/snowflake-emoji.png	✳
-../EAP/facebook/snowman-emoticon.png	⛄
-../EAP/facebook/star-symbol-for-facebook.png	🌟
-../EAP/facebook/moon-symbol.png	🌙
-../EAP/facebook/fire-symbol-emoticon-for-facebook.png	🔥
-../EAP/facebook/wind-emoticon.png	💨
-../EAP/facebook/wave-symbol.png	🌊
-../EAP/facebook/droplets-symbol.png	💦
-../EAP/facebook/droplet-emoticon.png	💧
-../EAP/facebook/snowflake-emoticon.png	✴
-
-../EAP/facebook/umbrella-symbol-for-facebook-comments.png	☔
-../EAP/facebook/graduation-symbol.png	🎓
-../EAP/facebook/top-hat-emoticon.png	🎩
-../EAP/facebook/womans-hat-emoji.png	👒
-../EAP/facebook/crown-emoticon.png	👑
-../EAP/facebook/tie-emoticon-facebook.png	👔
-../EAP/facebook/ribbon-emoticon.png	🎀
-../EAP/facebook/ring-emoticon.png	💍
-../EAP/facebook/bikini-emoticon-for-facebook.png	👙
-../EAP/facebook/lipstick-emoticon.png	💄
-../EAP/facebook/t-shirt-emoticon-for-facebook.png	👕
-../EAP/facebook/kimono-emoticon.png	👘
-../EAP/facebook/dress-emoticon.png	👗
-../EAP/facebook/boots-facebook-emoticon.png	👢
-../EAP/facebook/emoji_1f45f_32.png	👟
-../EAP/facebook/high-heels-emoticon.png	👠
-../EAP/facebook/womans-sandal.png	👡
-../EAP/facebook/briefcase-emoticon.png	💼
-../EAP/facebook/handbag.png	👜
-../EAP/facebook/school-bag-emoticon.png	🎒
-../EAP/facebook/anger-symbol-facebook-emoticon.png	💢
-../EAP/facebook/nail-polish-emoticon.png	💅
-../EAP/facebook/footprints-emoticon.png	🐾
-
-../EAP/facebook/coffee-emoticon.png	☕
-
-
-../EAP/facebook/hot-plate-emoticon.png	♨
-../EAP/facebook/boat-emoticon.png	⛵
-../EAP/facebook/fuel-pump.png	⛽
-../EAP/facebook/airplane-emoticon.png	✈
-../EAP/facebook/fountain-emoticon.png	⛲
-../EAP/facebook/tent-emoticon.png	⛺
-../EAP/facebook/church-emoticon.png	⛪
-../EAP/facebook/telephone-emoticon.png	☎
-../EAP/facebook/envelope-emoticon.png	✉
-../EAP/facebook/scissors-emoticon.png	✂
-../EAP/facebook/toilet-emoticon.png	🚽
-../EAP/facebook/bath-emoticon.png	🛀
-
-
-
-
-../EAP/facebook/soccer-ball-emoticon.png	⚽
-../EAP/facebook/baseball-emoticon.png	⚾
-../EAP/facebook/golf-emoticon.png	⛳
-../EAP/facebook/american-football-emoticon.png	🏈
-../EAP/facebook/basketball-emoticon.png	🏀
-../EAP/facebook/tennis-ball-emoticon.png	🎾
-../EAP/facebook/eight-8-ball-emoticon.png	🎱
-../EAP/facebook/target-emoticon.png	🎯
-../EAP/facebook/skis-emoticon.png	🎿
-../EAP/facebook/crossed-flags-emoticon.png	🎌
-../EAP/facebook/finish-line-flag.png	🏁
-../EAP/facebook/trophy-symbol.png	🏆
-
-
-
-../EAP/facebook/music-note.png	🎵
-../EAP/facebook/facebook-music-notes-symbols.png	🎶
-../EAP/facebook/zzz-facebook-emoticon.png	💤
-../EAP/facebook/bell-symbol-for-facebook.png	🔔
-../EAP/facebook/balloon-symbol-for-facebook.png	🎈
-../EAP/facebook/Party-popper.png	🎉
-../EAP/facebook/champagne-glass-symbol.png	🍸
-../EAP/facebook/beer-mug-symbol.png	🍺
-../EAP/facebook/clinking-beer-mugs.png	🍻
-../EAP/facebook/bottle-emoticon.png	🍶
-../EAP/facebook/teacup-emoticon.png	🍵
-../EAP/facebook/fork-and-knife-facebook-emoticons.png	🍴
-../EAP/facebook/bread-emoticon.png	🍞
-../EAP/facebook/frying-pan.png	🍳
-../EAP/facebook/french-fries-facebook-emoji.png	🍟
-../EAP/facebook/the-food-pot-emoticon.png	🍲
-../EAP/facebook/sushi-emoticon.png	🍣
-../EAP/facebook/spaghetti-emoticon.png	🍝
-../EAP/facebook/steaming-bowl.png	🍜
-../EAP/facebook/cake-emoticon.png	🍰
-../EAP/facebook/shaved-ice-emoticon-for-facebook.png	🍧
-../EAP/facebook/ice-cream-facebook-emoticon.png	🍦
-../EAP/facebook/hamburger-symbol.png	🍔
-../EAP/facebook/emoji_1f358_32.png	🍘
-../EAP/facebook/emoji_1f359_32.png	🍙
-../EAP/facebook/emoji_1f35a_32.png	🍚
-../EAP/facebook/emoji_1f35b_32.png	🍛
-../EAP/facebook/emoji_1f361_32.png	🍡
-../EAP/facebook/emoji_1f362_32.png	🍢
-../EAP/facebook/emoji_1f371_32.png	🍱
-../EAP/facebook/red-apple-symbol.png	🍎
-../EAP/facebook/strawberry-symbol.png	🍓
-../EAP/facebook/orange-fruit-emoticon.png	🍊
-../EAP/facebook/watermelon-emoticon.png	🍉
-../EAP/facebook/tomato-emoticon.png	🍅
-../EAP/facebook/eggplant-emoticon.png	🍆
-../EAP/facebook/seedling-emoticon.png	🌱
-../EAP/facebook/palm-tree-emoticon.png	🌴
-../EAP/facebook/cactus-symbol.png	🌵
-../EAP/facebook/maple-leaf-symbol.png	🍁
-../EAP/facebook/fallen-leaf-emoticon.png	🍂
-../EAP/facebook/Fluttering-leaf-icon.png	🍃
-../EAP/facebook/four-leaf-clover.png	🍀
-../EAP/facebook/cherry-blossom.png	🌸
-../EAP/facebook/rose-symbol-for-facebook.png	🌹
-../EAP/facebook/tulip-symbol.png	🌷
-../EAP/facebook/sunflower-emoticon.png	🌻
-../EAP/facebook/hibiscus-flower--symbol.png	🌺
-../EAP/facebook/flower-bouquet-symbol.png	💐
-../EAP/facebook/christmas-tree-symbol.png	🎄
-
-
-
-../EAP/facebook/phone-symbol.png	📞
-../EAP/facebook/fax-emoticon.png	📠
-../EAP/facebook/speaker-emoticon.png	🔈
-../EAP/facebook/radio-emoticon.png	📻
-../EAP/facebook/camera-emoji.png	📷
-../EAP/facebook/movie-camera-emoticon.png	🎥
-../EAP/facebook/vhs-emoticon.png	📼
-../EAP/facebook/satellite-dish.png	📡
-../EAP/facebook/tv-symbol.png	📺
-../EAP/facebook/pc-emoticon.png	💻
-../EAP/facebook/floppy-disk-emoticon.png	💾
-../EAP/facebook/md-disk.png 	💽
-../EAP/facebook/cd-emoticon.png	📀
-../EAP/facebook/cd-argent.png	💿
-../EAP/facebook/tablet-smartphone-emoticon.png	📱
-../EAP/facebook/gift-emoticon.png	🎁
-../EAP/facebook/carp-streamers.png	🎏
-../EAP/facebook/atm-emoticon.png	🏧
-../EAP/facebook/money-bag-emoticon.png	💰
-../EAP/facebook/dollar-bill-emoticon.png	💵
-../EAP/facebook/yen-banknote.png	💴
-../EAP/facebook/bicycle-emoticon.png	🚲
-../EAP/facebook/automobile-emoji.png	🚗
-../EAP/facebook/car-emoticon.png	🚙
-../EAP/facebook/truck-emoji.png	🚚
-../EAP/facebook/bus-emoticon.png	🚌
-../EAP/facebook/fire-engine-emoticon.png	🚒
-../EAP/facebook/police-car-emoticon.png	🚓
-../EAP/facebook/ambulance-facebook-emoticon.png	🚑
-../EAP/facebook/taxi-emoticon.png	🚕
-../EAP/facebook/train-emoticon.png	🚄
-../EAP/facebook/tram-car-emoji.png	🚃
-../EAP/facebook/high-speed-train-emoji.png	🚅
-../EAP/facebook/station-emoji.png	🚉
-../EAP/facebook/speedboat-emoji.png	🚤
-../EAP/facebook/ship-emoticon.png	🚢
-../EAP/facebook/roller-coaster.png	🎢
-../EAP/facebook/rocket-emoji.png	🚀
-../EAP/facebook/ticket-emoticon.png	🎫
-../EAP/facebook/bus-stop-emoticon.png	🚏
-../EAP/facebook/mobile-phone-off-emoticon.png	📴
-../EAP/facebook/mailbox-emoticon.png	📪
-../EAP/facebook/mailbox-with-raised-flag.png	📫
-../EAP/facebook/emoji_1f4ec_32.png	📬
-../EAP/facebook/emoji_1f4ed_32.png	📭
-../EAP/facebook/postbox-emoticon.png	📮
-../EAP/facebook/mail-emoticon-for-facebook.png	📩
-../EAP/facebook/incoming-mail-facebook-emoticon.png	📨
-../EAP/facebook/memo-sign-for-facebook.png	📝
-
-../EAP/facebook/open-book-emoticon.png	📖
-../EAP/facebook/paint-palette.png	🎨
-../EAP/facebook/microphone-emoticon.png	🎤
-../EAP/facebook/megaphone-emoticon.png	📣
-../EAP/facebook/headphones-emoticon.png	🎧
-../EAP/facebook/saxophone-emoticon.png	🎷
-../EAP/facebook/trumpet-emoticon.png	🎺
-../EAP/facebook/guitar-emoticon.png	🎸
-../EAP/facebook/public-address-loudspeaker.png	📢
-../EAP/facebook/lock-emoji.png	🔒
-../EAP/facebook/closed-lock-with-key.png	🔐
-../EAP/facebook/key-emoticon.png	🔑
-../EAP/facebook/open-lock-emoticon.png	🔓
-../EAP/facebook/emoji_1f50f_32.png	🔏
-../EAP/facebook/magnifying-glass-emoticon.png	🔎
-../EAP/facebook/emoji_1f50d_32.png	🔍
-../EAP/facebook/light-bulb-emoticon.png	💡
-../EAP/facebook/dollar-sign.png	💲
-../EAP/facebook/pistol-emoticon.png	🔫
-../EAP/facebook/bomb-emoticon.png	💣
-../EAP/facebook/cigarette-emoticon.png	🚬
-../EAP/facebook/pill-emoticon.png	💊
-../EAP/facebook/syringe-emoticon.png	💉
-../EAP/facebook/mask-emoticon-for-facebook.png	🎭
-../EAP/facebook/clapper-board.png	🎬
-../EAP/facebook/cinema-emoticon.png	🎦
-
-../EAP/facebook/heart-suit-emoticon.png	♥
-../EAP/facebook/spade-emoticon.png	♠
-../EAP/facebook/diamond-suit-emoticon.png	♦
-../EAP/facebook/club-suit-emoticon.png	♣
-../EAP/facebook/rainbow-emoticon.png	🌈
-../EAP/facebook/sunrise-emoticon.png	🌅
-../EAP/facebook/sunrise-over-mountains.png	🌄
-../EAP/facebook/sunset-emoticon.png	🌇
-../EAP/facebook/dusk-emoticon.png	🌆
-../EAP/facebook/starry-night.png	🌃
-../EAP/facebook/mount-fuji-emoji.png	🗻
-../EAP/facebook/japanese-castle.png	🏯
-../EAP/facebook/japanese-building-emoji.png	🏣
-../EAP/facebook/castle-emoticon.png	🏰
-../EAP/facebook/bank-emoticon-for-facebook.png	🏦
-../EAP/facebook/statue-of-liberty-emoticon.png	🗽
-../EAP/facebook/ferris-wheel-emoticon.png	🎡
-../EAP/facebook/tokyo-tower.png	🗼
-../EAP/facebook/hotel-emoticon.png	🏨
-../EAP/facebook/love-hotel.png	🏩
-../EAP/facebook/office-building.png	🏢
-../EAP/facebook/school-emoticon.png	🏫
-../EAP/facebook/factory-emoticon.png	🏭
-../EAP/facebook/hospital-emoticon.png	🏥
-../EAP/facebook/department-store-emoticon.png	🏬
-../EAP/facebook/convenience-store.png	🏪
-../EAP/facebook/wedding-emoticon.png	💒
-../EAP/facebook/house-emoji.png	🏡
-../EAP/facebook/house-emoticon.png	🏠
-../EAP/facebook/traffic-lights-emoticon.png	🚥
-../EAP/facebook/construction-sign.png	🚧
-../EAP/facebook/barber-emoticon.png	💈
-../EAP/facebook/antenna-signal.png	📶
-../EAP/facebook/no-under-18-sign.png	🔞
-../EAP/facebook/vibration-mode.png	📳
-../EAP/facebook/no-smoking-emoticon.png	🚭
-../EAP/facebook/warning-sign.png	⚠
-../EAP/facebook/no-entry-emoticon.png	⛔
-../EAP/facebook/exclamation-point-emoji.png	❕
-../EAP/facebook/exclamation-mark-emoticon.png	❓
-../EAP/facebook/red-exclamation-mark.png	❗
-../EAP/facebook/question-mark-emoticon.png	❔
-../EAP/facebook/cross-mark-emoticon.png	❌
-../EAP/facebook/cross-mark-emoji.png	❎
-../EAP/facebook/multiplication-x.png	✖
-../EAP/facebook/vs-emoticon-versus.png	🆚
-../EAP/facebook/up-sign.png	🆙
-../EAP/facebook/cool-emoticon-sign.png	🆒
-../EAP/facebook/wheelchair-emoji.png	♿
-../EAP/facebook/curly-loops.png	➿
-../EAP/facebook/wc-emoticon.png	🚾
-../EAP/facebook/congratulations-emoticon.png	㊗
-../EAP/facebook/secret-emoticon.png	㊙
-../EAP/facebook/free-service-emoticon.png	🈂
-../EAP/facebook/available-emoticon.png	🈳
-../EAP/facebook/katakana-koko-emoji.png	🈁
-../EAP/facebook/finger-point-emoticon.png	🈯
-../EAP/facebook/full-emoticon.png	🈵
-../EAP/facebook/sale-emoticon.png	🈹
-../EAP/facebook/have-nothing.png	🈚
-../EAP/facebook/month-emoticon-for-facebook.png	🈷
-../EAP/facebook/own-emoticon.png	🈶
-../EAP/facebook/request-emoticon.png	🈸
-../EAP/facebook/work-emoticon.png	🈺
-../EAP/facebook/good-bargain.png	🉐
-
-../EAP/facebook/rightwards-arrow.png	➡
-../EAP/facebook/downwards-arrow.png	⬇
-../EAP/facebook/leftwards-arrow.png	⬅
-../EAP/facebook/upwards-arrow.png	⬆
-../EAP/facebook/north-east-arrow.png	↗
-../EAP/facebook/north-west-arrow.png	↖
-../EAP/facebook/south-east-arrow.png	↘
-../EAP/facebook/south-west-arrow.png	↙
-../EAP/facebook/up-right-arrow.png	⤴
-../EAP/facebook/arrow-pointing-down-right.png	⤵
-../EAP/facebook/closed-umbrella.png	🌂
-
-../EAP/facebook/hammer-emoticon.png	🔨
-../EAP/facebook/seat-emoticon.png	💺
-../EAP/facebook/Part-Alternation-Mark.png	〽
-../EAP/facebook/trident-emoticon.png	🔱
-../EAP/facebook/noob-emoticon.png	🔰
-../EAP/facebook/mahong-tile-red-dragon.png	🀄
-../EAP/facebook/gem-stone-emoticon.png	💎
-../EAP/facebook/diamond-emoticon.png	💠
-../EAP/facebook/blue-diamond-emoticon.png	🔷
-../EAP/facebook/orange-diamond-emoticon.png	🔶
-../EAP/facebook/emoji_1f538_32.png	🔸
-../EAP/facebook/emoji_1f539_32.png	🔹
-
-../EAP/facebook/emoji_1f532_32.png	🔲
-../EAP/facebook/emoji_1f533_32.png	🔳
-../EAP/facebook/emoji_1f534_32.png	🔴
-../EAP/facebook/emoji_1f535_32.png	🔵
-
-
-../EAP/facebook/emoji_25aa_32.png	▪
-../EAP/facebook/emoji_25ab_32.png	▫
-../EAP/facebook/emoji_25fb_32.png	◻
-../EAP/facebook/emoji_25fc_32.png	◼
-../EAP/facebook/emoji_25fd_32.png	◽
-../EAP/facebook/emoji_25fe_32.png	◾
-../EAP/facebook/emoji_26ab_32.png	⚫
-../EAP/facebook/circle-emoji.png	⚪
-../EAP/facebook/square-emoticon.png	⬜
-../EAP/facebook/emoji_2b1b_32.png	⬛
-../EAP/facebook/emoji_2b55_32.png	⭕
-
-
-
-
-
-! ../EAP/facebook/emoji_1f1e8_1f1f3_32.png	🇨
-! ../EAP/facebook/emoji_1f1e9_1f1ea_32.png	🇩
-! ../EAP/facebook/emoji_1f1ea_1f1f8_32.png	🇪
-! ../EAP/facebook/emoji_1f1eb_1f1f7_32.png	🇫
-! ../EAP/facebook/emoji_1f1ec_1f1e7_32.png	🇬
-! ../EAP/facebook/emoji_1f1ee_1f1f9_32.png	🇮
-! ../EAP/facebook/emoji_1f1ef_1f1f5_32.png	🇯
-! ../EAP/facebook/emoji_1f1f0_1f1f7_32.png	🇰
-! ../EAP/facebook/emoji_1f1f7_1f1fa_32.png	🇷
-! ../EAP/facebook/emoji_1f1fa_1f1f8_32.png	🇺
-! ../EAP/facebook/emoji_23_20e3_32.png	#⃣	
-! ../EAP/facebook/emoji_30_20e3_32.png	0⃣	
-! ../EAP/facebook/emoji_31_20e3_32.png	1⃣	
-! ../EAP/facebook/emoji_32_20e3_32.png	2⃣	
-! ../EAP/facebook/emoji_33_20e3_32.png	3⃣	
-! ../EAP/facebook/emoji_34_20e3_32.png	4⃣	
-! ../EAP/facebook/emoji_35_20e3_32.png	5⃣	
-! ../EAP/facebook/emoji_36_20e3_32.png	6⃣	
-! ../EAP/facebook/emoji_37_20e3_32.png	7⃣
-! ../EAP/facebook/emoji_38_20e3_32.png	8⃣	
-! ../EAP/facebook/emoji_39_20e3_32.png	9⃣	
-! ../EAP/facebook/emoji_blank_32.png	
 
 #Hangout XMPP compatibility 
 [XMPP] 

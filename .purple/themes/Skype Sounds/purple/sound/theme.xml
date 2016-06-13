@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<theme author="H" 
+<theme author=".H." 
 	name="Skype Sounds" 
 	image="icon.png"
 	type="sound">
 
 	<description>(générated from skype: 20 september 2014)</description>
-	<event name="login" file="ContactOnline.wav"/>
-	<event name="logout" file="ContactOffline.wav"/>
-	<event name="im_recv" file="ChatIncoming.wav"/>
-	<event name="first_im_recv" file="ChatIncomingInitial.wav"/>
-	<event name="send_im" file="ChatOutgoing.wav"/>
-	<event name="join_chat" file="ContactAdded.wav"/>
-	<event name="left_chat" file="ContactAuthRequest.wav"/>
-	<event name="send_chat_msg" file="ChatOutgoing.wav"/>
-	<event name="chat_msg_recv" file="ChatIncoming.wav"/>
-	<event name="pounce_default" file="CallHangup.wav"/>
-	<event name="got_attention" file="VoicemailReceived.wav"/>
-        <!-- event "nick_said" is not set-->
+	<event name="login" file="ContactOnline.ogg"/>
+	<event name="logout" file="ContactOffline.ogg"/>
+	<event name="im_recv" file="ChatIncoming.ogg"/>
+	<event name="first_im_recv" file="ChatIncomingInitial.ogg"/>
+	<event name="send_im" file="ChatOutgoing.ogg"/>
+	<event name="join_chat" file="ContactAdded.ogg"/>
+	<event name="left_chat" file="ContactAuthRequest.ogg"/>
+	<event name="send_chat_msg" file="ChatOutgoing.ogg"/>
+	<event name="chat_msg_recv" file="ChatIncoming.ogg"/>
+	<event name="pounce_default" file="CallHangup.ogg"/>
+	<event name="got_attention" file="VoicemailReceived.ogg"/>
+	<event name="nick_said" file="VoicemailReceived.ogg"/>
 </theme>

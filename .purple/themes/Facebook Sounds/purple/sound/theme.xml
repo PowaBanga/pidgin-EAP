@@ -4,12 +4,15 @@
 	image="icon.png"
 	type="sound">
 
-	<description>(générated from facebook web: 21 september 2014)</description>
+	<description>whit sounds from www.facebook.com</description>
 
-	<event name="im_recv" file="q-Drar4Ade6.ogg"/>
-	<event name="first_im_recv" file="q-Drar4Ade6.ogg"/>
-	<event name="chat_msg_recv" file="q-Drar4Ade6.ogg"/>
-	<event name="pounce_default" file="Facebook_Notification_Sound.oga"/>
-	<event name="got_attention" file="Facebook_Notification_Sound.oga"/>
+	<event name="im_recv" file="recu.ogg"/>
+	<event name="first_im_recv" file="attention.ogg"/>
+	<event name="chat_msg_recv" file="recu.ogg"/>
+	<event name="chat_msg_recv" file="recu.ogg"/>
+	<event name="pounce_default" file="notif.oga"/>
+	<event name="got_attention" file="attention.ogg"/>
+	<event name="login" file="ancien.ogg"/>
+	<event name="nick_said" file="attention.ogg"/>
         <!-- event "nick_said" is not set-->
 </theme>
