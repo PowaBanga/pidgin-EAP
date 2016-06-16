@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <theme author=".H." 
 	name="InfectedMushroom" 
-	image="icon.jpg"
+	image="icon.png"
 	type="sound">
 
   <description>Modified from adium2pidgin theme converter</description>

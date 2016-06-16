@@ -8,38 +8,14 @@ Buddy list colors themes
 Icons themes
 =================
 
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/iPhone/purple/status-icon/icon.png) Iphone
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Marten-nu/purple/status-icon/icon.png) Marten-nu
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Marten-Plain Buddy/purple/status-icon/icon.png) Marten-Plain Buddy
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Marten-Plain White/purple/status-icon/icon.png) Marten-Plain White
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Marten-nu-grey/purple/status-icon/icon.png) Marten-nu-grey
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Mini LEDs/purple/status-icon/icon.png) Mini Leds
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Stockholm/purple/status-icon/icon.png) Stockolm
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/White Chat Bubbles/purple/status-icon/icon.png) White Chat Bubbles
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/AdiumyStatus/purple/status-icon/icon.png) AdiumyStatus
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/AIM hybrid/purple/status-icon/icon.png) AIM hybrid
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Dango/purple/status-icon/icon.png) Dango
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Droplet/purple/status-icon/icon.png) Droplet
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Espere/purple/status-icon/icon.png) Espere
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/New iChat/purple/status-icon/icon.png) New iChat
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Prologue/purple/status-icon/icon.png) Prologue
-
-![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/stars/purple/status-icon/icon.png) stars
+ |  |  
+ --------|--------|--------
+![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/iPhone/purple/status-icon/icon.png) Iphone | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Marten-nu/purple/status-icon/icon.png) Marten-nu | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Marten-Plain Buddy/purple/status-icon/icon.png) Marten-Plain Buddy 
+![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Marten-Plain White/purple/status-icon/icon.png) Marten-Plain White | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Marten-nu-grey/purple/status-icon/icon.png) Marten-nu-grey | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Mini LEDs/purple/status-icon/icon.png) Mini Leds
+![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Stockholm/purple/status-icon/icon.png) Stockolm | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/White Chat Bubbles/purple/status-icon/icon.png) White Chat Bubbles | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/AdiumyStatus/purple/status-icon/icon.png) AdiumyStatus
+![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/AIM hybrid/purple/status-icon/icon.png) AIM hybrid | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Dango/purple/status-icon/icon.png) Dango | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Droplet/purple/status-icon/icon.png) Droplet 
+![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Espere/purple/status-icon/icon.png) Espere | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/New iChat/purple/status-icon/icon.png) New iChat | ![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/Prologue/purple/status-icon/icon.png) Prologue
+![](https://raw.githubusercontent.com/PowaBanga/pidgin-EAP/master/.purple/themes/stars/purple/status-icon/icon.png) stars | |
 
 
 
