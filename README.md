@@ -6,7 +6,7 @@ Now this theme contain some sounds and buddy list themes.
 
 **A big thank you to all those who were allowed or allow this theme to exist.**
 
-**I need you to update this theme if necessary**. If you have a protocol theme that you think we can add or merge in this, you can send it [in an issue](https://github.com/PowaBanga/pidgin-EAP/issues/new), modify directly it [on Github](https://github.com/PowaBanga/pidgin-EAP) by pull request, or you can join me on my xmpp powabanga@jappix.com .
+**I need you to update this theme if necessary**. If you have a protocol theme that you think we can add or merge in this, you can send it [in an issue](https://github.com/PowaBanga/pidgin-EAP/issues/new), on [Google+](https://plus.google.com/u/0/communities/107023083100875615529), [Facebook](https://www.facebook.com/pidgin.eap), modify directly it [on Github](https://github.com/PowaBanga/pidgin-EAP) by pull request, or you can join me on my xmpp powabanga@jappix.com .
 
 
 **Theme used by protocol (default)**
@@ -64,7 +64,8 @@ Now this theme contain some sounds and buddy list themes.
 
 **[Changelog](https://github.com/PowaBanga/pidgin-EAP/blob/master/.purple/smileys/changelog)**
 
-[Google+](https://plus.google.com/u/0/communities/107023083100875615529) [Facebook](https://www.facebook.com/pidgin.eap)
+ [Google+](https://plus.google.com/u/0/communities/107023083100875615529) | [Facebook](https://www.facebook.com/pidgin.eap)
+----------|----------
 
 
 _**Install**_ 
