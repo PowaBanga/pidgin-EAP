@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<theme author=".H."
+	name="Facebook messenger" 
+	image="icon.png"
+	type="sound">
+
+  <description>extracted from messenger</description>
+
+  <event file="lut.ogg" name="logout"/>
+  <event file="writting.ogg" name="first_im_recv"/>
+  <event file="reçu.ogg" name="send_im"/>
+  <event file="remis.ogg" name="im_recv"/>
+  <event file="envoyé.ogg" name="login"/>
+
+	<event name="join_chat" file="envoyé.ogg"/>
+	<event name="left_chat" file="lut.ogg"/>
+	<event name="send_chat_msg" file="reçu.ogg"/>
+	<event name="chat_msg_recv" file="remis.ogg"/>
+	<event name="got_attention" file="recuweb.ogg"/>
+	<event name="nick_said" file="attention.ogg"/>
+</theme>
